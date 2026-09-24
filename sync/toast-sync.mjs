@@ -126,7 +126,9 @@ function hiddenByRule(it, cfg, w = {}, groupName = "") {
 
 function transformGroup(group, cfg, channels, w = {}) {
   const items = (group.menuItems || [])
-    .filter((it) => visibleOn(it, channels))
+    // Website rule: an item shows only if it is on in Toast for the menu's channels (online ordering),
+    // unless it is a printed, dine-in-only dish listed in alwaysShow.
+    .filter((it) => visibleOn(it, channels) || (w.alwaysShow || []).map(norm).includes(norm(it.name)))
     .filter((it) => !hiddenByRule(it, cfg, w, group.name))
     .map((it) => ({
       name: stripPrefix(it.name, cfg, w),
