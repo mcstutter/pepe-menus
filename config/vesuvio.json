@@ -14,7 +14,7 @@
         "Off-Menu",
         "Kids"
       ],
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf",
+      "pdf": "",
       "hideItems": [
         "Farmer's Market Pie",
         "Vegan Pizza",
@@ -35,7 +35,7 @@
       "slug": "happy-hour",
       "name": "Happy Hour",
       "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.",
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf",
+      "pdf": "",
       "hideItems": [
         "Nectarine Pie"
       ]
@@ -48,7 +48,7 @@
       "groups": [
         "Dessert"
       ],
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf",
+      "pdf": "",
       "hidePatterns": [
         "^Child "
       ]
@@ -282,7 +282,13 @@
         "Menabrea Lager": "Menabrea Bionda",
         "NA Beer": "Erdinger N/A"
       },
-      "dedupe": true
+      "dedupe": true,
+      "groupOrder": [
+        "Cocktails",
+        "Like a Virgin (non-alcoholic)",
+        "On Draft",
+        "In Bottle"
+      ]
     }
   ],
   "stripPrefixes": [
