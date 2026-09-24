@@ -3,7 +3,7 @@
  "location": "Carmel-by-the-Sea",
  "source": "toast",
  "toastLastUpdated": "2026-09-24T15:57:21.150+0000",
- "updated": "2026-09-24T15:59:54.541Z",
+ "updated": "2026-09-24T16:31:12.818Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -1144,6 +1144,137 @@
      "section": "By the Glass"
     },
     {
+     "name": "Sparkling",
+     "items": [
+      {
+       "name": "Vietti Moscato d'Asti 1/2",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "656d8251-1bb8-48bc-8c41-4872a3dc7bf8"
+      },
+      {
+       "name": "Adami Brut Prosecco, Valdobbiadene (half bottle)",
+       "description": "",
+       "price": 35,
+       "flags": [],
+       "guid": "b0ca84bc-03e2-4e13-ae9f-1b2819cfe450"
+      },
+      {
+       "name": "Bele Casel Extra Brut, Prosecco Superiore",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "1ec0839e-2d7b-4abb-8c1f-2a4da8956b25"
+      },
+      {
+       "name": "Col de Salici Brut Rosé, Prosecco",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "094853ad-5e13-484f-8495-0a81bdbd77c0"
+      },
+      {
+       "name": "Ferrari Brut Metodo Classico, Trentodoc",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "4db52053-f60f-43f3-b947-d878d632c2d3"
+      }
+     ],
+     "section": "Italy"
+    },
+    {
+     "name": "White + Rosé",
+     "items": [
+      {
+       "name": "Velenosi Pecorino, Marche",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "c5617232-eec9-4014-be36-35e5642cf964"
+      },
+      {
+       "name": "Santa Cristina Pinot Grigio, Toscana",
+       "description": "",
+       "price": 46,
+       "flags": [],
+       "guid": "1afbe584-cee0-4dcf-ad06-508334dc94b1"
+      },
+      {
+       "name": "Guado al Tasso Vermentino, Bolgheri",
+       "description": "",
+       "price": 50,
+       "flags": [],
+       "guid": "9be98e52-a35d-4cf6-b867-21abd36c8e02"
+      },
+      {
+       "name": "Ciro Picariello ‘BruEmm’ Falanghina, Campania",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "a508c0ef-4ab9-465d-9275-6b5fc30ad191"
+      },
+      {
+       "name": "Castello della Sala ‘San Giovanni’ Orvieto Superiore",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "452da9d5-bf81-4b7b-ac04-19def7b51175"
+      },
+      {
+       "name": "Mastroberardino Fiano di Avellino, Campania",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "a8890bc7-c4cc-4c6b-9ddf-4ebaca219983"
+      },
+      {
+       "name": "Mastroberardino Greco di Tufo, Campania",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "e90f394e-a033-437f-97d4-e32a163915fd"
+      },
+      {
+       "name": "Jermann Pinot Grigio, Friuli-Venezia Giulia",
+       "description": "",
+       "price": 56,
+       "flags": [],
+       "guid": "c7b5fc15-85e4-4680-8ed0-76b84ec6cbc6"
+      },
+      {
+       "name": "Mastroberardino ‘Stilèma’ Fiano di Avellino, Campania",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "a110a76f-1548-41c1-8d20-3d0798a0df9c"
+      },
+      {
+       "name": "Mastroberardino ‘Stilèma’ Greco di Tufo, Campania",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "c336e72e-934e-4d30-95ef-161ff7a87c67"
+      },
+      {
+       "name": "Castello della Sala ‘Cervaro’, Umbria (Chardonnay)",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "794e9cb1-6d18-4d2d-bef1-6d75a0b29f1a"
+      },
+      {
+       "name": "Jermann ‘Vintage Tunina’, Friuli-Venezia Giulia",
+       "description": "",
+       "price": 140,
+       "flags": [],
+       "guid": "35d4f912-53d1-409c-8dad-ebc1b10c2523"
+      }
+     ],
+     "section": "Italy"
+    },
+    {
      "name": "Southern Italian Red",
      "items": [
       {
@@ -1395,137 +1526,6 @@
        "price": 1095,
        "flags": [],
        "guid": "0e09cba3-f533-4f2e-99b2-d111cf0cbeee"
-      }
-     ],
-     "section": "Italy"
-    },
-    {
-     "name": "Sparkling",
-     "items": [
-      {
-       "name": "Vietti Moscato d'Asti 1/2",
-       "description": "",
-       "price": 25,
-       "flags": [],
-       "guid": "656d8251-1bb8-48bc-8c41-4872a3dc7bf8"
-      },
-      {
-       "name": "Adami Brut Prosecco, Valdobbiadene (half bottle)",
-       "description": "",
-       "price": 35,
-       "flags": [],
-       "guid": "b0ca84bc-03e2-4e13-ae9f-1b2819cfe450"
-      },
-      {
-       "name": "Bele Casel Extra Brut, Prosecco Superiore",
-       "description": "",
-       "price": 45,
-       "flags": [],
-       "guid": "1ec0839e-2d7b-4abb-8c1f-2a4da8956b25"
-      },
-      {
-       "name": "Col de Salici Brut Rosé, Prosecco",
-       "description": "",
-       "price": 45,
-       "flags": [],
-       "guid": "094853ad-5e13-484f-8495-0a81bdbd77c0"
-      },
-      {
-       "name": "Ferrari Brut Metodo Classico, Trentodoc",
-       "description": "",
-       "price": 75,
-       "flags": [],
-       "guid": "4db52053-f60f-43f3-b947-d878d632c2d3"
-      }
-     ],
-     "section": "Italy"
-    },
-    {
-     "name": "White + Rosé",
-     "items": [
-      {
-       "name": "Velenosi Pecorino, Marche",
-       "description": "",
-       "price": 45,
-       "flags": [],
-       "guid": "c5617232-eec9-4014-be36-35e5642cf964"
-      },
-      {
-       "name": "Santa Cristina Pinot Grigio, Toscana",
-       "description": "",
-       "price": 46,
-       "flags": [],
-       "guid": "1afbe584-cee0-4dcf-ad06-508334dc94b1"
-      },
-      {
-       "name": "Guado al Tasso Vermentino, Bolgheri",
-       "description": "",
-       "price": 50,
-       "flags": [],
-       "guid": "9be98e52-a35d-4cf6-b867-21abd36c8e02"
-      },
-      {
-       "name": "Ciro Picariello ‘BruEmm’ Falanghina, Campania",
-       "description": "",
-       "price": 52,
-       "flags": [],
-       "guid": "a508c0ef-4ab9-465d-9275-6b5fc30ad191"
-      },
-      {
-       "name": "Castello della Sala ‘San Giovanni’ Orvieto Superiore",
-       "description": "",
-       "price": 52,
-       "flags": [],
-       "guid": "452da9d5-bf81-4b7b-ac04-19def7b51175"
-      },
-      {
-       "name": "Mastroberardino Fiano di Avellino, Campania",
-       "description": "",
-       "price": 54,
-       "flags": [],
-       "guid": "a8890bc7-c4cc-4c6b-9ddf-4ebaca219983"
-      },
-      {
-       "name": "Mastroberardino Greco di Tufo, Campania",
-       "description": "",
-       "price": 54,
-       "flags": [],
-       "guid": "e90f394e-a033-437f-97d4-e32a163915fd"
-      },
-      {
-       "name": "Jermann Pinot Grigio, Friuli-Venezia Giulia",
-       "description": "",
-       "price": 56,
-       "flags": [],
-       "guid": "c7b5fc15-85e4-4680-8ed0-76b84ec6cbc6"
-      },
-      {
-       "name": "Mastroberardino ‘Stilèma’ Fiano di Avellino, Campania",
-       "description": "",
-       "price": 90,
-       "flags": [],
-       "guid": "a110a76f-1548-41c1-8d20-3d0798a0df9c"
-      },
-      {
-       "name": "Mastroberardino ‘Stilèma’ Greco di Tufo, Campania",
-       "description": "",
-       "price": 90,
-       "flags": [],
-       "guid": "c336e72e-934e-4d30-95ef-161ff7a87c67"
-      },
-      {
-       "name": "Castello della Sala ‘Cervaro’, Umbria (Chardonnay)",
-       "description": "",
-       "price": 125,
-       "flags": [],
-       "guid": "794e9cb1-6d18-4d2d-bef1-6d75a0b29f1a"
-      },
-      {
-       "name": "Jermann ‘Vintage Tunina’, Friuli-Venezia Giulia",
-       "description": "",
-       "price": 140,
-       "flags": [],
-       "guid": "35d4f912-53d1-409c-8dad-ebc1b10c2523"
       }
      ],
      "section": "Italy"
@@ -2149,5 +2149,5 @@
    ]
   }
  ],
- "configHash": "4066ebdfbfa0"
+ "configHash": "178ad72566ee"
 }
