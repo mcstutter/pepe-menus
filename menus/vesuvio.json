@@ -2,8 +2,8 @@
  "restaurant": "Vesuvio",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-09-17T03:32:42.794+0000",
- "updated": "2026-09-24T13:39:20.373Z",
+ "toastLastUpdated": "2026-09-24T13:44:32.743+0000",
+ "updated": "2026-09-24T13:54:38.068Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -28,7 +28,7 @@
       },
       {
        "name": "Baby Back Ribs (4)",
-       "description": "asian glaze, mango salsa",
+       "description": "soy-ginger glaze, mango salsa",
        "price": 22.5,
        "flags": [],
        "guid": "67d0dfad-5367-4ffc-93d2-71fcf8b923ae"
@@ -42,14 +42,14 @@
       },
       {
        "name": "Clam & Mussel Sauté",
-       "description": "lemon-caper cream sauce",
+       "description": "clams, mussels, lemon, caper, saffron-cream, crostini",
        "price": 18.25,
        "flags": [],
        "guid": "e4803dee-c8de-4d6d-bc22-b9bfa4b5bfe0"
       },
       {
        "name": "Fritto Misto",
-       "description": "fried calamar, prawns, artichoke, carrot, fennel, aioli della casa",
+       "description": "fried calamari, prawns, artichoke, carrot, fennel, aioli della casa",
        "price": 21,
        "flags": [],
        "guid": "5090f3aa-4ca6-46f0-be88-17419354cde4"
@@ -63,7 +63,7 @@
       },
       {
        "name": "Meatball Lollipops (4)",
-       "description": "marinara sauce",
+       "description": "marinara, parmigiano",
        "price": 14,
        "flags": [],
        "guid": "2a57c09b-4ef9-4374-bc32-53ca5c093a68"
@@ -93,11 +93,9 @@
       },
       {
        "name": "Sausage & Peppers",
-       "description": "spicy sausage with peppers, onions, crispy polenta, fontina fonduta",
+       "description": "smoked sausage, peppers & onions, crispy polenta, fontina",
        "price": 23,
-       "flags": [
-        "h/s"
-       ],
+       "flags": [],
        "guid": "544c94e6-37ca-498c-95db-378ff0a1fa36"
       },
       {
@@ -106,6 +104,13 @@
        "price": 22,
        "flags": [],
        "guid": "1972a990-56e6-4a49-8c77-8e614982d7b2"
+      },
+      {
+       "name": "Heirloom Tomato Caprese",
+       "description": "",
+       "price": 18,
+       "flags": [],
+       "guid": "fe2f5819-484a-4b23-9e44-29fda360883b"
       }
      ]
     },
@@ -135,17 +140,10 @@
       },
       {
        "name": "Heirloom Wedge 'Riccardo'",
-       "description": "salinas iceburg, tomato, pancetta, gorgonzola-tarragon dressing",
+       "description": "salinas iceberg, tomato, pancetta, gorgonzola-tarragon",
        "price": 19,
        "flags": [],
        "guid": "7fec87e4-918a-440d-bb6f-18e8cc9085bb"
-      },
-      {
-       "name": "Mista",
-       "description": "mixed green salad w/ balsamic vinaigrette",
-       "price": 18,
-       "flags": [],
-       "guid": "d63bfd1c-a7fa-499c-a0ad-d171143dcd18"
       },
       {
        "name": "Strawberry-Gorgonzola",
@@ -174,34 +172,18 @@
        "guid": "46d0241c-47ff-470a-8cba-f60827264ffa"
       },
       {
-       "name": "Al Forno \"Sinatra\"",
-       "description": "oven-baked ziti, house-made spicy sausage, mushrooms, goat cheese, mozzarella",
-       "price": 32,
-       "flags": [
-        "h/s"
-       ],
-       "guid": "2a725d27-0e45-4b7c-a680-60df7e8ed06f"
-      },
-      {
        "name": "Bolognese",
-       "description": "",
+       "description": "beef, pork, sausage, wild boar, tomato, pappardelle",
        "price": 32,
        "flags": [],
        "guid": "504eeb67-e49d-426b-acbb-d1bc01788542"
       },
       {
        "name": "Cacio e Pepe",
-       "description": "",
+       "description": "pecorino romano, black pepper, bucatini",
        "price": 29,
        "flags": [],
        "guid": "22b6ba2d-2844-45d0-b525-fbdba2292ee2"
-      },
-      {
-       "name": "Cheese Ravioli \"della Hoboken\"",
-       "description": "ricotta, parmigiano, arrabbiata sauce",
-       "price": 30,
-       "flags": [],
-       "guid": "c7fd39fe-fe41-4d01-bff7-56b10ed27967"
       },
       {
        "name": "Crab Ravioli",
@@ -220,17 +202,12 @@
        "guid": "acbe9c51-f2fe-4f38-8ec8-8b414f7d9f3d"
       },
       {
-       "name": "Pesto 'Genovese'",
-       "description": "creamy basil pesto, asparagus, potatoes, tagliatelle",
-       "price": 29,
-       "flags": [],
-       "guid": "e049cfb1-e965-41f5-89fb-d492a209aaaa"
-      },
-      {
        "name": "Pink Vodka Sauce \"Jackie-O\"",
-       "description": "pancetta, peas, tomato-cream sauce",
+       "description": "rigatoni, creamy vodka-tomato sauce, pancetta, calabrian chili, sweet peas",
        "price": 32,
-       "flags": [],
+       "flags": [
+        "h/s"
+       ],
        "guid": "ce274a63-47c8-41db-9273-bac7f8015fea"
       },
       {
@@ -249,7 +226,7 @@
       },
       {
        "name": "Butternut Squash Ravioli",
-       "description": "",
+       "description": "brown butter sage sauce, parmigiano reggiano",
        "price": 32,
        "flags": [],
        "guid": "dc267c17-8ea7-48b4-a443-d4a3e272e6ab"
@@ -328,7 +305,7 @@
      "items": [
       {
        "name": "Halibut",
-       "description": "Monterey Fish Co.'s Daily Catch.",
+       "description": "sardinian fregola ‘agrodolce’, asparagus, lemon-caper butter sauce",
        "price": 44,
        "flags": [],
        "guid": "e5a9bc6c-c635-4226-a604-c08ca1c9a88e"
@@ -349,31 +326,10 @@
       },
       {
        "name": "Steak Frites",
-       "description": "House Style: Medium Rare +, for optimal texture and flavor. This exacting preparation does not allow for exceptions.",
+       "description": "16 oz. harris ranch ribeye, maître d’ butter, truffle-parmigiano fries. house style: medium rare+, cooked to 137° for optimal texture and flavor. this exacting preparation does not allow for exceptions.",
        "price": 58,
        "flags": [],
        "guid": "48791d52-46a3-48ee-9157-09603b8f53d6"
-      },
-      {
-       "name": "Ribeye Cap",
-       "description": "",
-       "price": 64,
-       "flags": [],
-       "guid": "ed5b4d2b-fc59-4106-9d1b-81754a1332ae"
-      },
-      {
-       "name": "Lamb Chops",
-       "description": "",
-       "price": 48.25,
-       "flags": [],
-       "guid": "0e2c9cb5-c0ed-4fd8-922b-5c2f931b6876"
-      },
-      {
-       "name": "Pollo Pazzo Panino",
-       "description": "",
-       "price": 25,
-       "flags": [],
-       "guid": "4212c36d-d424-431d-aff4-9e4144a64af9"
       },
       {
        "name": "Sole Piccata",
@@ -389,7 +345,7 @@
      "items": [
       {
        "name": "Chicken Parmigiana",
-       "description": "with pappardelle and alfredo sauce",
+       "description": "with spaghetti marinara or pappardelle alfredo",
        "price": 36.25,
        "flags": [],
        "guid": "dd54d5fb-736a-417a-b10d-c20c5f917d13"
@@ -403,7 +359,7 @@
       },
       {
        "name": "Eggplant Parmigiana",
-       "description": "with pappardelle and alfredo sauce",
+       "description": "with spaghetti marinara or pappardelle alfredo",
        "price": 31,
        "flags": [],
        "guid": "58c6b7e8-c825-4584-8da0-966c5317e20e"
@@ -417,10 +373,17 @@
       },
       {
        "name": "Lamb Osso Buco",
-       "description": "4-hour braised New Zealand lamb shank, parmesan mashed potatoes, lemon gremolata",
+       "description": "grass-fed lamb shank that falls from the bone, mashed potatoes, lemon-herb gremolata",
        "price": 46,
        "flags": [],
        "guid": "a1f4027a-c3d1-42a7-8d71-f7b34b229e31"
+      },
+      {
+       "name": "Ribeye Cap Steak",
+       "description": "10 oz. harris ranch cap steak (the best), mashed potatoes, broccoli rabe, demi-glace",
+       "price": 64,
+       "flags": [],
+       "guid": "e2b02572-9494-4019-884a-047fd8e3f8a5"
       },
       {
        "name": "Seafood Risotto",
@@ -433,7 +396,7 @@
       },
       {
        "name": "Veal Parm",
-       "description": "",
+       "description": "with spaghetti marinara or pappardelle alfredo",
        "price": 68,
        "flags": [],
        "guid": "2d3b5f37-dd26-497e-bb89-1dba3a3a65f7"
@@ -472,20 +435,6 @@
        "guid": "48f160b0-4744-4d8c-95b0-b51332f34f82"
       },
       {
-       "name": "Regular Broccoli",
-       "description": "",
-       "price": 9,
-       "flags": [],
-       "guid": "6a7e0ad8-15ee-43f8-9870-7f91fccc9fc1"
-      },
-      {
-       "name": "Roasted Peppers",
-       "description": "",
-       "price": 9,
-       "flags": [],
-       "guid": "5cac845e-0f70-44a5-8cd9-d02238e8b50b"
-      },
-      {
        "name": "Seasoned Fries",
        "description": "",
        "price": 9,
@@ -521,7 +470,7 @@
       },
       {
        "name": "Baby Back Ribs (4)",
-       "description": "asian glaze, mango salsa",
+       "description": "ginger soy glaze, mango salsa",
        "price": 16,
        "flags": [],
        "guid": "430154a0-c0ab-47e3-88d5-e72998595e99"
@@ -535,7 +484,7 @@
       },
       {
        "name": "Fritto Misto",
-       "description": "",
+       "description": "fried calamari, carrots, fennel, aioli",
        "price": 16,
        "flags": [],
        "guid": "2eb692ce-f65b-4195-b61f-bec32da4884b"
@@ -549,9 +498,11 @@
       },
       {
        "name": "Pèpe Board",
-       "description": "",
+       "description": "our cheese plate w/ olives, candied walnuts, crostini, pèpe ‘nduja, pèpe bumba, pèpe jelly & more",
        "price": 16,
-       "flags": [],
+       "flags": [
+        "h/s"
+       ],
        "guid": "81dc2966-c23e-49e5-a743-8df18e0cc5f4"
       },
       {
@@ -579,7 +530,7 @@
       },
       {
        "name": "Truffled Gnocchi",
-       "description": "",
+       "description": "baked gnocchi, tartufata, fonduta di fontina",
        "price": 16,
        "flags": [],
        "guid": "175c11f1-ac98-4737-bbef-e16c2b92fb2a"
@@ -617,7 +568,7 @@
       },
       {
        "name": "Cheese Pizza",
-       "description": "",
+       "description": "tomato sauce, mozz’",
        "price": 19,
        "flags": [],
        "guid": "e2744550-1957-48d0-9b15-a1e4a5a2a01d"
@@ -633,9 +584,11 @@
       },
       {
        "name": "Fangool",
-       "description": "",
+       "description": "pepperoni, hot honey, ranch, mozz’, tomato sauce",
        "price": 19,
-       "flags": [],
+       "flags": [
+        "h/s"
+       ],
        "guid": "80dd741d-6639-4e10-a4c8-074b05cb251e"
       },
       {
@@ -647,7 +600,7 @@
       },
       {
        "name": "Pepperoni Pizza",
-       "description": "",
+       "description": "tomato sauce, mozz’, American pepperoni",
        "price": 19,
        "flags": [],
        "guid": "77851ae2-b338-4feb-ac20-2787c613bdb0"
@@ -823,7 +776,7 @@
   {
    "slug": "dessert",
    "name": "Dessert",
-   "subtitle": "La dolce vita",
+   "subtitle": "",
    "pdf": "",
    "groups": [
     {
@@ -844,29 +797,15 @@
        "guid": "43f42aef-0989-421d-bb60-ab781124fb0c"
       },
       {
-       "name": "Crème Brûlée",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "65bb51a6-4299-4b19-a585-4e5427a912e8"
-      },
-      {
        "name": "Pistachio Cannoli",
-       "description": "",
+       "description": "pair with: Amaro Nonino",
        "price": 11,
        "flags": [],
        "guid": "064cbdcf-7f17-4955-acb3-189f0a79e043"
       },
       {
-       "name": "Salted Caramel Affogato",
-       "description": "salted caramel gelato, espresso, chocolate biscotti liquore",
-       "price": 16,
-       "flags": [],
-       "guid": "c877f83e-e07a-471f-b578-29b53d515ccf"
-      },
-      {
        "name": "Tiramisù",
-       "description": "",
+       "description": "pair with: Greco’s Nightcap",
        "price": 14,
        "flags": [],
        "guid": "5683af25-6be1-4e61-aaae-c9bd60de0a39"
@@ -887,14 +826,14 @@
       },
       {
        "name": "Strawberry Creme Pie",
-       "description": "",
+       "description": "bavarian cream, big enough to share",
        "price": 20,
        "flags": [],
        "guid": "36388d16-e4f6-45e2-86b6-4ba7cc4660c6"
       },
       {
        "name": "Peach Cream Pie",
-       "description": "",
+       "description": "bavarian cream, big enough to share",
        "price": 20,
        "flags": [],
        "guid": "451ea8f4-d410-482e-8c12-fff2bdb6e4c6"
@@ -908,102 +847,7 @@
    "name": "Kids",
    "subtitle": "",
    "pdf": "",
-   "groups": [
-    {
-     "name": "Kids",
-     "items": [
-      {
-       "name": "Bolognese",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "f581216f-49a8-4689-897d-dfd3deb43a0d"
-      },
-      {
-       "name": "Caesar",
-       "description": "caesar salad for kids",
-       "price": 7,
-       "flags": [],
-       "guid": "42f5a133-acf1-468e-b765-1ad715be1d0e"
-      },
-      {
-       "name": "Cheese Pizza",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "52540434-859e-4369-ab0c-4085ca32387e"
-      },
-      {
-       "name": "Spaghetti & Meatball",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "3b4c2163-732f-4382-9329-e0fe63209d97"
-      },
-      {
-       "name": "Mista",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "7189861c-5d6c-4121-bc7c-9f4937087d6a"
-      },
-      {
-       "name": "Pasta with Sauce",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "7169e28f-7d35-470b-8397-5d029794cc53"
-      },
-      {
-       "name": "Penne Pesto",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "3cb3779e-eb64-4213-83a5-d3fe2b9880c2"
-      },
-      {
-       "name": "Pepperoni Pizza",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "62fcf3ff-5baf-48d9-a80a-f16f632fce66"
-      },
-      {
-       "name": "Ravioli",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "a780e165-9b2a-405e-9f14-9fa01af292e1"
-      },
-      {
-       "name": "Zuppa",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "eee5da48-798b-4a16-8521-a06bea26dc45"
-      }
-     ]
-    },
-    {
-     "name": "Kids Dessert",
-     "items": [
-      {
-       "name": "Spumone",
-       "description": "",
-       "price": 5.25,
-       "flags": [],
-       "guid": "875fa7e3-0e80-406b-8cfa-bd15b23cf50e"
-      },
-      {
-       "name": "Vanilla",
-       "description": "",
-       "price": 5.25,
-       "flags": [],
-       "guid": "24847a6b-1318-4da3-ae00-f655c25802ef"
-      }
-     ]
-    }
-   ]
+   "groups": []
   },
   {
    "slug": "wine",
@@ -1871,147 +1715,147 @@
      "items": [
       {
        "name": "Old Fashioned",
-       "description": "",
+       "description": "Doc Pèpe’s Lab barrel-aged: Kentucky straight bourbon, cane sugar, aromatic bitters, cherry juice, orange, cherry slice",
        "price": 18,
        "flags": [],
        "guid": "b21b9be0-7922-4021-8980-0575d81e97df"
       },
       {
        "name": "Old Fashioned Reserve",
-       "description": "",
+       "description": "Doc Pèpe’s Lab: classic rye Old Fashioned aged one year in rum barrels",
        "price": 20,
        "flags": [],
        "guid": "96c5d936-5a61-4eca-8a67-ebba32a1a9a8"
       },
       {
        "name": "Negroni",
-       "description": "",
+       "description": "Doc Pèpe’s Lab: London dry gin, Italian vermouth, Campari, orange slice",
        "price": 18,
        "flags": [],
        "guid": "18db15f6-8520-41c9-a7da-3f43f00355c2"
       },
       {
        "name": "Pèpero Spritz",
-       "description": "",
+       "description": "Pèpero, prosecco, club soda, orange",
        "price": 18,
        "flags": [],
        "guid": "b02bc93e-7d11-4465-a7b6-70f9fdf8b867"
       },
       {
        "name": "The Drop",
-       "description": "",
+       "description": "Pèpecello limoncello, citrus vodka, raspberry shrub, lemon",
        "price": 18,
        "flags": [],
        "guid": "7ef2b96c-cb29-4a49-a7cf-d7ed9f251d09"
       },
       {
        "name": "Manhattan",
-       "description": "",
+       "description": "Doc Pèpe’s Lab barrel-aged: straight bourbon whiskey, Italian vermouth, aromatic bitters, aged in American port barrels",
        "price": 18,
        "flags": [],
        "guid": "80976cbd-57ee-4961-b6e3-0b90483c46f0"
       },
       {
        "name": "Manhattan Reserve",
-       "description": "",
+       "description": "Doc Pèpe’s Lab: classic rye Manhattan aged one year in tawny port casks",
        "price": 20,
        "flags": [],
        "guid": "b2d47359-a0e4-42ca-9069-d6b66848049c"
       },
       {
        "name": "Pèpecello Spritz",
-       "description": "",
+       "description": "Pèpecello limoncello, prosecco, fresh mint & basil",
        "price": 18,
        "flags": [],
        "guid": "99b0f5e8-56d1-41c9-9206-8bcaf0e7eb58"
       },
       {
        "name": "Pèpero Sling",
-       "description": "",
+       "description": "Pèpero, pineapple, aromatic bitters, lime",
        "price": 18,
        "flags": [],
        "guid": "ca10d56e-1cd1-4bef-80cc-c90903d09e43"
       },
       {
        "name": "Dirty Doc 2.0",
-       "description": "",
+       "description": "Doc’s Vodka, house olive-pickle-pepperoncini brine, rosemary olive oil, blue cheese olives",
        "price": 18,
        "flags": [],
        "guid": "ff0def30-e341-41c8-826c-5e07d7a5dd1d"
       },
       {
        "name": "Lava Candy",
-       "description": "",
+       "description": "Patrón Reposado tequila, strawberry shrub, passionfruit syrup, chamoy, lime, fire tincture, Tajín",
        "price": 18,
        "flags": [],
        "guid": "25ae4700-eb3a-422b-8d8b-cea98ed42f5b"
       },
       {
        "name": "Maneater",
-       "description": "",
+       "description": "Malfy Blood Orange gin, DPL Ginger Liqueur, strawberry shrub, lime, basil, prosecco",
        "price": 18,
        "flags": [],
        "guid": "bb1e05cc-ae27-43c8-837d-458803b05f9e"
       },
       {
        "name": "Purple Haze",
-       "description": "",
+       "description": "blanco tequila, DPL Pear Liqueur, prickly pear, butterfly pea flower, ginger bitters, lime",
        "price": 18,
        "flags": [],
        "guid": "d60fd7a9-ae12-40e8-8016-88209a56b069"
       },
       {
        "name": "Smoke Show",
-       "description": "",
+       "description": "Vida mezcal, almond orgeat, peach/mango preserves, lime, basil, smoked sea salt",
        "price": 18,
        "flags": [],
        "guid": "6b664222-2ab1-48ba-9512-11ddee2e007a"
       },
       {
        "name": "Vesuvio Sour",
-       "description": "",
+       "description": "Angel’s Envy bourbon, amaretto, passionfruit syrup, Benedictine, lemon, Vesuvio Cabernet float",
        "price": 18,
        "flags": [],
        "guid": "963e7b6c-87d1-4b9d-b966-39ddbe3ba409"
       },
       {
        "name": "Bel Canto",
-       "description": "",
+       "description": "Mt. Gay Barbados rum, DPL Bitter Italiano, raspberry shrub, almond orgeat, passionfruit, lime, overproof rum float",
        "price": 18,
        "flags": [],
        "guid": "72d493f7-f0fb-4eec-b153-20ca4ef98364"
       },
       {
        "name": "Starlight Crush",
-       "description": "",
+       "description": "Doc’s Vodka, DPL Hibiscus Liqueur, strawberry shrub, lime, soda",
        "price": 18,
        "flags": [],
        "guid": "8e8f573d-520f-4854-be7f-66314501aa35"
       },
       {
        "name": "Chocolate Martini",
-       "description": "",
+       "description": "Doc’s Vodka, Dorda Chocolate Liqueur, Frangelico, Baileys",
        "price": 16,
        "flags": [],
        "guid": "67dbbd45-85f0-4084-9709-da1a6b5e195b"
       },
       {
        "name": "Espresso Martini",
-       "description": "",
+       "description": "Doc’s Vodka, espresso, DPL Espresso Liqueur",
        "price": 16,
        "flags": [],
        "guid": "36299eae-54a0-460c-82d1-0da616e58c58"
       },
       {
        "name": "Greco’s Nightcap",
-       "description": "",
+       "description": "Fernet Branca, DPL Espresso Liqueur, espresso",
        "price": 16,
        "flags": [],
        "guid": "c732f088-c525-4591-9d93-9a0339e1d7ed"
       },
       {
        "name": "The Three Tenors",
-       "description": "",
+       "description": "Humboldt Spiced Rum, Lazzaroni Amaretto, DPL Espresso Liqueur",
        "price": 16,
        "flags": [],
        "guid": "1d0cfab3-15c7-4539-bf40-87da0bac5cb9"
@@ -2023,21 +1867,21 @@
      "items": [
       {
        "name": "Chew On This",
-       "description": "",
+       "description": "chamoy, pineapple, passion fruit, Tajín, lime, soda",
        "price": 11,
        "flags": [],
        "guid": "29116913-8576-407a-b80e-3a215b979ea3"
       },
       {
        "name": "Puttin' On The Spritz",
-       "description": "",
+       "description": "house strawberry shrub, The Dew, DPL Cherry Bark/Vanilla Bitters, lime, wild rosemary",
        "price": 11,
        "flags": [],
        "guid": "b14f145c-bfc5-4f0a-8671-3338f532fff8"
       },
       {
        "name": "Shrub-A-Dub-Dub",
-       "description": "",
+       "description": "Pèpe raspberry shrub, DPL Lavender Bitters, lemon, edible flower, soda",
        "price": 11,
        "flags": [],
        "guid": "e8c168d3-899e-4b9e-aaa8-0dcb60a1905a"
@@ -2049,14 +1893,14 @@
      "items": [
       {
        "name": "Menabrea Bionda",
-       "description": "",
+       "description": "Menabrea Birreria Bionda lager, Piemonte, Italia",
        "price": 9,
        "flags": [],
        "guid": "9b2244c5-4633-43f6-8768-83ffccdd1af3"
       },
       {
        "name": "Alvarado Street Mai Tai IPA",
-       "description": "",
+       "description": "Alvarado Street Brewery Mai Tai IPA, Monterey CA",
        "price": 9,
        "flags": [],
        "guid": "5851eff5-8725-4c22-a13d-ff2890d7898a"
@@ -2068,35 +1912,35 @@
      "items": [
       {
        "name": "Allagash White",
-       "description": "",
+       "description": "white wheat ale, Portland ME",
        "price": 8,
        "flags": [],
        "guid": "3e3b6963-3c77-4cc0-98d5-15e5393e4ca5"
       },
       {
        "name": "Boont Amber",
-       "description": "",
+       "description": "Anderson Valley amber ale, Mendocino CA",
        "price": 9,
        "flags": [],
        "guid": "a0745278-be22-40f6-b814-7ea20e26c427"
       },
       {
        "name": "Coors Light",
-       "description": "",
+       "description": "lager, Golden CO",
        "price": 7,
        "flags": [],
        "guid": "a43cad80-e25e-42f0-a65d-ddebc42243d2"
       },
       {
        "name": "Modelo",
-       "description": "",
+       "description": "pilsner-style lager, Mexico",
        "price": 7,
        "flags": [],
        "guid": "c4fb6275-faa6-46da-8ff6-98ec8b385b44"
       },
       {
        "name": "Erdinger N/A",
-       "description": "",
+       "description": "Erdinger N/A, Germany",
        "price": 7,
        "flags": [],
        "guid": "c84ba28b-35d1-4930-a063-287b38f40ecf"
@@ -2106,5 +1950,5 @@
    ]
   }
  ],
- "configHash": "281925312ce1"
+ "configHash": "df25e3dcba47"
 }

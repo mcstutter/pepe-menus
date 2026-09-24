@@ -1,0 +1,2426 @@
+{
+ "Food / Appetizers / Artichoke Crochette (1)": [
+  "POS"
+ ],
+ "Food / Appetizers / Artichoke Crochette (4)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Baby Back Ribs (4)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Beef Carpaccio": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Clam & Mussel Saute": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Fritto Misto": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Garlic Bread": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Food / Appetizers / Meatball Lolli (1)": [
+  "POS"
+ ],
+ "Food / Appetizers / Meatball Lollipops (4)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Pepe Board": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Prosciutto and Melon": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Risotto Arancini (1)": [
+  "POS"
+ ],
+ "Food / Appetizers / Risotto Arancini (4)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Sausage & Peppers": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Truffled Gnocchi": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Appetizers / Heirloom Tomato Caprese": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / Amalfi": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / Caesar": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / Di Stefano": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / Heirloom Wedge 'Riccardo'": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / Mista": [
+  "POS"
+ ],
+ "Food / Salad/Soup / Strawberry-Gorgonzola": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / Butternut Squash Soup": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / Zuppa Cup": [
+  "POS"
+ ],
+ "Food / Pasta / \"1944\" Lasagna": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Al Forno \"Sinatra\"": [
+  "POS"
+ ],
+ "Food / Pasta / Bolognese": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Cacio e Pepe": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Cheese Ravioli \"della Hoboken\"": [
+  "POS"
+ ],
+ "Food / Pasta / Cioppino Rosso": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Crab Ravioli": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Pasta / Sauce": [
+  "POS"
+ ],
+ "Food / Pasta / Pasta Vesuviana": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Pesto 'Genovese'": [
+  "POS"
+ ],
+ "Food / Pasta / Pink Vodka Sauce \"Jackie-O\"": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Spaghetti & Meatballs \"Grandma Celia\"": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Veal \"Osso Buco\" Ravioli": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pasta / Butternut Squash Ravioli": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / Abruzzese": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / Cheese Pizza": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / Diavola": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / Fangool": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / Farmer's Market Pie": [
+  "POS"
+ ],
+ "Food / Pizza / Gluten Free Pizza Crust": [
+  "POS"
+ ],
+ "Food / Pizza / Margherita \"dal 1889\"": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / Pepperoni Pizza": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / San Vito": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / Vegan Pizza": [
+  "POS"
+ ],
+ "Food / Pizza / White Truffle Pie": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Grill & Fish / Halibut": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Grill & Fish / McSuvio Burger": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Grill & Fish / Salmon": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Grill & Fish / Steak Frites": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Grill & Fish / Ribeye Cap": [
+  "POS"
+ ],
+ "Food / Grill & Fish / Lamb Chops": [
+  "POS"
+ ],
+ "Food / Grill & Fish / Pollo Pazzo Panino": [
+  "POS"
+ ],
+ "Food / Grill & Fish / Sole Piccata": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Chicken Parmigiana": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Cioppino Rosso": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Eggplant Parmigiana": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Halibut": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Hobo Stew": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Lamb Osso Buco": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Ribeye Cap Steak": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Seafood Risotto": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Specialties / Veal Parm": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Asparagus + Breadcrumbs": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Broccoli Rabe": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Crostini (4)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Mashed Potatoes": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Meatballs (2 Large)": [
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Mushrooms": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Regular Broccoli": [
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Roasted Peppers": [
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Seasoned Fries": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Side of Ranch": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Side Sauce $4": [
+  "POS"
+ ],
+ "Food / Sides / Truffle-Parmesan Fries": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Side of Bumba": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Side Hot Honey": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Sides / Side Chili Oil": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Kids / Child Bolognese": [
+  "POS"
+ ],
+ "Food / Kids / Child Caesar": [
+  "POS"
+ ],
+ "Food / Kids / Child Cheese": [
+  "POS"
+ ],
+ "Food / Kids / Child Spaghetti Meatball": [
+  "POS"
+ ],
+ "Food / Kids / Child Mista": [
+  "POS"
+ ],
+ "Food / Kids / Child Pasta / Sauce": [
+  "POS"
+ ],
+ "Food / Kids / Child Penne/Pesto": [
+  "POS"
+ ],
+ "Food / Kids / Child Pepperoni": [
+  "POS"
+ ],
+ "Food / Kids / Child Ravioli": [
+  "POS"
+ ],
+ "Food / Kids / Child Zuppa": [
+  "POS"
+ ],
+ "Food / Dessert / Apple Pie 'Pan Dowdy'": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Birthday Brownie": [
+  "POS"
+ ],
+ "Food / Dessert / Cake Fee / Person": [
+  "POS"
+ ],
+ "Food / Dessert / Carmel Bakery Brownie": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Child Spumone": [
+  "POS"
+ ],
+ "Food / Dessert / Child Vanilla": [
+  "POS"
+ ],
+ "Food / Dessert / Chocolate Chip Biscotti (6)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Crème Brulée": [
+  "POS"
+ ],
+ "Food / Dessert / Pistachio Cannoli": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Salted Caramel Affogato": [
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Tiramisu": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Vanilla Ice Cream & Chocolate Sauce": [
+  "POS"
+ ],
+ "Food / Dessert / Hazelnut Gelato": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Salted Caramel Gelato": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Strawberry Creme Pie": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Peach Cream Pie": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Bruschetta Pomodoro (1)": [
+  "POS"
+ ],
+ "Food / Off-Menu / Bruschetta Pomodoro (4)": [
+  "POS"
+ ],
+ "Food / Off-Menu / Bumba Bruschetta (1)": [
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Bumba Bruschetta (4)": [
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Calamari Fritti": [
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Carbonara": [
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Cheese Ravioli \"della Hoboken\"": [
+  "POS"
+ ],
+ "Food / Off-Menu / Mixed Green": [
+  "POS"
+ ],
+ "Food / Off-Menu / Mussels Arrabbiata": [
+  "POS"
+ ],
+ "Food / Off-Menu / Pesto 'Genovese'": [
+  "POS"
+ ],
+ "Food / Off-Menu / Pizza Dough To Go": [
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Spaghetti alle Vongole": [
+  "POS"
+ ],
+ "Food / Off-Menu / Spaghetti Pomodoro": [
+  "POS"
+ ],
+ "Food / Off-Menu / Wild Boar Bolognese": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Da Sila": [
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Spicy Pie 2.0": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Pollo Pazzo Panino": [
+  "POS"
+ ],
+ "Food / Off-Menu / Grilled Artichoke": [
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / See Modifier": [
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "N/A Beverages / Soda / Bottled Water": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Club Soda": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Diet Pepsi": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Dr. Pepper": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda /  Ginger Beer": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Ginger Ale": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Mt. Dew": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Pell Soda Blood Or.": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Pell Soda Lemon": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Pell Soda Orange": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Pell Soda Pom/Orange": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Pepsi": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Roy Rogers": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Shirley Temple": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / SMILE!": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Sierra Mist": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / Tonic Water": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / REFILL Pepsi": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / REFILL Diet": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / REFILL Sierra": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / REFILL Club Soda": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / REFILL Mt. Dew": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / REFILL Ginger Beer": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / REFILL Dr. Pepper": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Soda / REFILL Lemonade": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Juice / Apple Juice": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Juice / Arnold Palmer": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Juice / Cranberry Juice": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Juice / Grapefruit Juice": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Juice / Lemonade": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Juice / Orange Juice": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Juice / Pineapple Juice": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Cappucino": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Coffee": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Dbl Cappucino": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Dbl Espresso": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Espresso": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Hot Chocolate": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Hot Tea": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Iced Tea": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Latte": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Macchiato": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Milk": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Coffee/Tea / Mocha": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Mocktails / Virg Mojito": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Mocktails / Virg Margarita": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Mocktails / Virg Daquiri": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "N/A Beverages / Mocktails / Virg Bloody": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Adami Prosecco HALF": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Corkage Fee": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Guado Vermentino GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / House Red GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / House White GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Marchese Antinori GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Moet Brut GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Moet Rose GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Pepe Cab RSV GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Pepe Chardonnay GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Pepe PN GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Pepe Rose GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Pepe SB GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Pepe Vesuvio GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Peppoli GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Prosecco GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Rombauer Chard GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Rosa Regale GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Santa Cristina PG GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Silvestri Chard GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Silvestri PN GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Tascante Etna GL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / By the Glass / Vietti Moscato HALF": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Adami Prosecco HALF": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Bele Casel Prosecco BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Caraccioli Brut BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Col de Salici Rose BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Dom Perignon BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Veuve Rose BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Vietti Moscato d'Asti 1/2 BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Ferrari Brut BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Badia Passignano BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Biserno Insoglio BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Cont'Ugo Merlot BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Conterno Fantino Dolcetto BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Felsina Rancia HALF": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Gaja Sito Moresco BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Grifalco Aglianico del Vulture BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Guado al Tasso BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Guidalberto BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Il Bruciato BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / La Fiorita BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Le Difese BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / M. Chiarlio Cipressi Nizza BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Marchese Antinori Riserva BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Mastro Lacryma Christi BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Mastro Taurasi Radici BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Mastro Taurasi Radici Riserva BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Matarocchio Cab Franc BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Mauro Veglio Barolo BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Monti Garbi Ripasso BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Ocone Apollo Aglianico BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Ornellaia BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Peppoli BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Pian D.V. Rosso di Montalcino BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Pian delle Vigne BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Poliziano Vino Nobile BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Prunotto 'Bric Turot' Barbaresco BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Prunotto Bussia Barolo BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Prunotto Nebbiolo BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Sassicaia BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Sassicaia HALF": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Solaia BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Tascanta Etna Rosso BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Tignanello BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Tignanello HALF": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Vietti Barolo BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Italian Reds / Villa Antinori Toscana BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Antinori 'Proficio' BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Antinori Townsend BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Bernardus 'Garys Vineyard' PN BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Boekenoogen PN BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Cachagua Cab Blend BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Cedar Lane \"Las Arenas\" BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Drouhin Roserock PN BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Melville 'Donnas Block' Syrah BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Occidental 'Freestone' PN BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Opus One BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Pepe Cab Reserve BTL BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Pepe Pinot BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Pepe Vesuvio BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Russell Joyce Gamay BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Silvestri Eugenia BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Silvestri Pinot BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Stag's Cask 23 BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Stag's Leap Artemis BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / The Calling Cabernet BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / The Calling PN BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / California Reds / Galante Red Rose Hill": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Antica A26 Chardonnay BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Cedar Lane Sauv Blanc BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Cervaro BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Ciro Picariello Falanghina BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Guado Vermentino BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Jermann Pinot Grigio BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Jermann Vintage Tunina BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Mastro Fiano Di Avellino BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Mastro Greco di Tufo BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Pepe Chardonnay BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Pepe Rose BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Pepe Sauvignon Blanc BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Rombauer Chard BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / San Giovanni Orvieto BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Santa Christina Pinot Grigio BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Silvestri Chardonnay BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Stag's Karia Chard BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Stags Aveta SB BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Stilema Fiano Di Avellino BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Stilema Greco Di Tufo BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / The Calling Chard BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Velenosi Pecorino BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Dessert Wines / Muffato, Castello Della Sala GLS": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Dessert Wines / Vin Santo, Marchesi Antinori GLS": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Glass / GLS Muffato": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Glass / GLS Vin Santo": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Glass / GLS Graham's 6 Grapes Ruby": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Glass / GLS Graham's 10yr Tawny": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Glass / GLS Graham's 20yr Tawny": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Glass / GLS Graham's 30yr Tawny": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Glass / GLS Graham's 40yr Tawny": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Glass / GLS Barolo Chinato": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Half Bottle / HALF BOTTLE Mostcato d'Asti, Vietti": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Antica Cab '14 MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Antinori Townsend MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Bernardus Marinus MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Cachuaga Mountain MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Cont'Ugo MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Guado Al Tasso '01 MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Pepe Cab RSV MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / PIan Delle Vigne MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Stag's Leap CASK 23 MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Large Format / Tignanello MAG": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Half Bottles / Tignanello HALF": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Half Bottles / Sassicaia HALF": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Half Bottles / Vietti Moscato HALF": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Half Bottles / Adami Prosecco HALF": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Half Bottles / Felsina Rancia HALF": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Like A Virgin / Chew On This": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Like A Virgin / Puttin' On The Spritz": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Like A Virgin / Shrub-A-Dub-Dub": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Allagash White": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Boont Amber": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Coors Light": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Modelo": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / NA Beer": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Angel's Envy": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Basil Hayden": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Bulleit Bourbon": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Crown Royal": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / House Whiskey": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Jack Daniel's": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Jack Sinatra": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Jameson": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Maker's Mark": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Michter's Rye Whiskey": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Pendleton 1910": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Rittenhouse 6yr Rye": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Templeton 6yr Rye": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bourbon/Whiskey / Woodford Reserve": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / DPL Old Fashion": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Old Fashioned Reserve": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / DPL Negroni": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Pepero Spritz": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Pepecello Drop": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / DPL Manhattan": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Manhattan Reserve": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Pepecello Spritz": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Pepero Sling": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Dirty Doc": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Lava Candy": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Maneater": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Purple Haze": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Smoke Show": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Vesuvio Sour": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Bel Canto": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Starlight Crush": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Chocolate Martini": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Espresso Martini": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Greco's Nightcap": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cocktails / Three Tenors": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Delamain XO": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Hennessy VS": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Louis XIII 0.5oz": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Louis XIII 1.5oz": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Louis XIII 1oz": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Remy Martin VSOP": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Remy Martin XO": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Grappa Nonino": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Cognac/Grappa / Gaia Sperrs Grappa ": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / DRAFT BEER / Menabrea Lager": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / DRAFT BEER / Alvarado Mai Tai PA": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Beefeater": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Bombay Sapphire": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Edin Mill Golf Gin": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Hendrick's": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / House Gin": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Blood Orange Gin": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Plymouth": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Plymouth Navy": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Sipsmith": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Tanqueray": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Absinthe": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Amaretto": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Amaro Di Angostura": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Averna": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Bailey's": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Benedictine": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Campari": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Chambord": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Cointreau": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Cynar": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Drambuie": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Elderflower liqueur": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Espresso Liqueur": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Fernet Branca": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Fernet Lazzaroni": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Frangelico": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Grand Marnier": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Green Chartreuese": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Lillet Blanc": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Liquore Strega": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Luxardo Amaro Abano": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Montenegro": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Nonino": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Pepecello": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Sambuca": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Vecchio Del Capo": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Pepero": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Yellow Chartreuese": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Rum / Planteray OFTD Rum": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Rum / Captain Morgan": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Rum / Diplomatico": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Rum / Goslings": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Rum / House Rum": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Rum / Mount Gay Eclipse": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Balvenie Doublewood": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Dewar's": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Glenlivet 12 ": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Glenmorangie 12": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Glenmorangie 18": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Hibiki Harmony": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / House Scotch": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Johnnie Black": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Johnnie Blue": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Lagavulin 16": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Laphroig 10": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Macallan 12": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Macallan 18": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Macallan 25": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Macallan Rare Cask": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Monkey Shoulder": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Oban 14": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Talisker 10": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Yamazaki 12 ": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Scotch / Yamazaki 18": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Casamigos Blanco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Casamigos Reposado": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Clase Azul Reposado": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Del Maguey Vida Mezcal": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Fulano Blanco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Fulano Reposado": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Fulano Anejo": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Julio 1942": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Julio Anejo": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Julio Blanco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Julio Real": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Julio Reposado": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / El Jefe Cristalino": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / El Jefe Reposado": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Fortaleza Blanco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Fortaleza Reposado": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / House Tequila": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Lalo Blanco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Patron Anejo": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Patron Blanco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Patron Piedra": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Patron Reposado": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Tears Of Llorona": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Yuu Baal Pechuga": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Vago Elote Mezcal": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Ocho Blanco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Grey Goose": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Skyy Citrus": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / House Vodka": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Ketel One": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Tito's": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Doc's Vodka": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Belvedere": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Artichoke Arancini (1)": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Artichoke Arancini (4)": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Baby Back Ribs (4)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Burrata & Red Peppers": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Fritto Misto": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Meatball Lollipops (1)": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Meatball Lollipops (4)": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Pepe Board": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Risotto Arancini (1)": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Risotto Arancini (4)": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Sausage & Peppers": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Steamed Clams & Mussels": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Appetizers / HH Truffled Gnocchi": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Burgers & Sandwiches / HH Pollo Pazzo": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Burgers & Sandwiches / HH McSuvio Burger": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH Abbruzzese": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH Cheese Pizza": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH Diavola": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH Fangool": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH Margherita \"dal 1889\"": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH Pepperoni Pizza": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH San Vito": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH White Truffle Pie": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Pizza / HH Nectarine Pie": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Cocktails / HH Cosmopolitan": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Cocktails / HH Gin Martini": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Cocktails / HH Lemon Drop": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Cocktails / HH Manhattan": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Cocktails / HH Margarita": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Cocktails / HH Old Fashioned": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Cocktails / HH Vodka Martini": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Liquor / HH House Gin": [
+  "POS"
+ ],
+ "Happy Hour / HH Liquor / HH House Rum": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Liquor / HH House Scotch": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Liquor / HH House Tequila": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Liquor / HH House Vodka": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Liquor / HH House Whiskey": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Wine & Beer / HH Red": [
+  "POS"
+ ],
+ "Happy Hour / HH Wine & Beer / HH White": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Wine & Beer / HH Prosecco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Wine & Beer / HH Draft Mai Tai": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Wine & Beer / HH Draft Menabrea": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / Arrabbiata Sauce - 1 jar": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / Garlic Basil Sauce- 1 jar": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / Marinara Sauce- 1 jar": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / Puttanesca Sauce - 1 jar": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / Bumba": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / 3 jars sauce - discount": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / Oil & Vinegar Caraffe": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / Pepe Jelly": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Food / Pepe Coffee": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Apparel / Pepe  T-Shirt": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Apparel / Pepe Jacket": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Pepe Rose": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Pepe Sauvignon Blanc": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Pepe Pinot Noir": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Pepe \"Vesuvio\" Cab Blend": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Pepe Cabernet \"Reserve\"": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Cachagua Cab Blend BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / PepeCello Bottle": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Pepero Bottle": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Pepe Chardonnay BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / Retail-Wine / Peppoli BTL": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Old Fashioned 200 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Old Fashioned 375 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Old Fashioned 750 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Old Fashioned Reserve 750 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Manhattan 200 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Manhattan 375 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Manhattan 750 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Manhattan Reserve  750ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Negroni 750ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Boulevardier 750 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Old Fashioned 1.75 ml": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / DPL Espresso Liqueur": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Retail / DPL / Doc's Vodka": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Garlic Bread": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Caesar Salad": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Rigatoni alla Vodka": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Rigatoni con Marinara": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Ravioli 'Della Hoboken'": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Chicken Parm": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Grandma Celia's Meatballs in Sugo": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Eggplant Parm": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Lasagna": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Truffled Gnocchi": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Tiramisu": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Asparagus": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Large Format / Catering - Visibility OFF 1/6/26 / A La Carte / LF Broccoli Rabe": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Single-Use Items / Single-Use Items / Request Utensils + Napkins": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Single-Use Items / Single-Use Items / Request Red Pepper Flakes": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Single-Use Items / Single-Use Items / Request Parmesan": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Occasions / Occasions / Birthday!!!": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Occasions / Occasions / Anniversary!!!": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Occasions / Occasions / Congratulations!!!": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ]
+}
