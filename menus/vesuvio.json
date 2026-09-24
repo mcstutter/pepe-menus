@@ -2,8 +2,8 @@
  "restaurant": "Vesuvio",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-09-24T13:44:32.743+0000",
- "updated": "2026-09-24T14:26:16.034Z",
+ "toastLastUpdated": "2026-09-24T15:57:21.150+0000",
+ "updated": "2026-09-24T15:59:54.541Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -806,14 +806,14 @@
       {
        "name": "Apple Pie 'Pan Dowdy'",
        "description": "french vanilla gelato, apple cider caramel",
-       "price": 13,
+       "price": 14,
        "flags": [],
        "guid": "a11ea569-fdc8-4481-baf3-53f5f65c9033"
       },
       {
        "name": "Carmel Bakery Brownie",
        "description": "\"di moda\" with hazelnut gelato, frangelico caramel",
-       "price": 13,
+       "price": 14,
        "flags": [],
        "guid": "43f42aef-0989-421d-bb60-ab781124fb0c"
       },
@@ -827,7 +827,7 @@
       {
        "name": "Pistachio Cannoli",
        "description": "pair with: Amaro Nonino",
-       "price": 11,
+       "price": 12,
        "flags": [],
        "guid": "064cbdcf-7f17-4955-acb3-189f0a79e043"
       },
@@ -987,7 +987,6 @@
    "groups": [
     {
      "name": "Bubbles",
-     "section": "By the Glass",
      "items": [
       {
        "name": "Adami Brut Prosecco, Valdobbiadene (half bottle)",
@@ -1031,11 +1030,11 @@
        "flags": [],
        "guid": "4fb4da05-d25d-4234-9684-94e04bfcbf7c"
       }
-     ]
+     ],
+     "section": "By the Glass"
     },
     {
      "name": "White + Rosé",
-     "section": "By the Glass",
      "items": [
       {
        "name": "Rombauer Chardonnay, Carneros, Napa",
@@ -1066,18 +1065,18 @@
        "guid": "48791f22-f42f-484a-bbe9-49cab72f17bf"
       },
       {
-       "name": "Pèpe Rosé, Atlas Peak, Napa",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "5e7b0621-1712-4d6a-8ebc-023d5241667a"
-      },
-      {
        "name": "Santa Cristina Pinot Grigio, Toscana",
        "description": "",
        "price": 14,
        "flags": [],
        "guid": "79aadcee-3fca-46a1-abac-a9abb2bfe04b"
+      },
+      {
+       "name": "Pèpe Rosé, Atlas Peak, Napa",
+       "description": "",
+       "price": 14,
+       "flags": [],
+       "guid": "5e7b0621-1712-4d6a-8ebc-023d5241667a"
       },
       {
        "name": "Silvestri Chardonnay, Carmel Valley",
@@ -1086,11 +1085,11 @@
        "flags": [],
        "guid": "a6fc28c6-b107-4ef5-ab29-45dfe4b5c01c"
       }
-     ]
+     ],
+     "section": "By the Glass"
     },
     {
      "name": "Red",
-     "section": "By the Glass",
      "items": [
       {
        "name": "Marchese Antinori Chianti Classico Riserva",
@@ -1141,142 +1140,11 @@
        "flags": [],
        "guid": "cfca09bf-9419-4012-b9ef-f4bc3eb9e5fa"
       }
-     ]
-    },
-    {
-     "name": "Sparkling",
-     "section": "Italy",
-     "items": [
-      {
-       "name": "Vietti Moscato d’Asti (half bottle)",
-       "description": "",
-       "price": 25,
-       "flags": [],
-       "guid": "f3da602f-4d52-429d-8249-9b7de4053cad"
-      },
-      {
-       "name": "Adami Brut Prosecco, Valdobbiadene (half bottle)",
-       "description": "",
-       "price": 35,
-       "flags": [],
-       "guid": "b0ca84bc-03e2-4e13-ae9f-1b2819cfe450"
-      },
-      {
-       "name": "Bele Casel Extra Brut, Prosecco Superiore",
-       "description": "",
-       "price": 45,
-       "flags": [],
-       "guid": "1ec0839e-2d7b-4abb-8c1f-2a4da8956b25"
-      },
-      {
-       "name": "Col de Salici Brut Rosé, Prosecco",
-       "description": "",
-       "price": 45,
-       "flags": [],
-       "guid": "094853ad-5e13-484f-8495-0a81bdbd77c0"
-      },
-      {
-       "name": "Ferrari Brut Metodo Classico, Trentodoc",
-       "description": "",
-       "price": 75,
-       "flags": [],
-       "guid": "4db52053-f60f-43f3-b947-d878d632c2d3"
-      }
-     ]
-    },
-    {
-     "name": "White + Rosé",
-     "section": "Italy",
-     "items": [
-      {
-       "name": "Velenosi Pecorino, Marche",
-       "description": "",
-       "price": 45,
-       "flags": [],
-       "guid": "c5617232-eec9-4014-be36-35e5642cf964"
-      },
-      {
-       "name": "Santa Cristina Pinot Grigio, Toscana",
-       "description": "",
-       "price": 46,
-       "flags": [],
-       "guid": "1afbe584-cee0-4dcf-ad06-508334dc94b1"
-      },
-      {
-       "name": "Guado al Tasso Vermentino, Bolgheri",
-       "description": "",
-       "price": 50,
-       "flags": [],
-       "guid": "9be98e52-a35d-4cf6-b867-21abd36c8e02"
-      },
-      {
-       "name": "Ciro Picariello ‘BruEmm’ Falanghina, Campania",
-       "description": "",
-       "price": 52,
-       "flags": [],
-       "guid": "a508c0ef-4ab9-465d-9275-6b5fc30ad191"
-      },
-      {
-       "name": "Castello della Sala ‘San Giovanni’ Orvieto Superiore",
-       "description": "",
-       "price": 52,
-       "flags": [],
-       "guid": "452da9d5-bf81-4b7b-ac04-19def7b51175"
-      },
-      {
-       "name": "Mastroberardino Fiano di Avellino, Campania",
-       "description": "",
-       "price": 54,
-       "flags": [],
-       "guid": "a8890bc7-c4cc-4c6b-9ddf-4ebaca219983"
-      },
-      {
-       "name": "Mastroberardino Greco di Tufo, Campania",
-       "description": "",
-       "price": 54,
-       "flags": [],
-       "guid": "e90f394e-a033-437f-97d4-e32a163915fd"
-      },
-      {
-       "name": "Jermann Pinot Grigio, Friuli-Venezia Giulia",
-       "description": "",
-       "price": 56,
-       "flags": [],
-       "guid": "c7b5fc15-85e4-4680-8ed0-76b84ec6cbc6"
-      },
-      {
-       "name": "Mastroberardino ‘Stilèma’ Fiano di Avellino, Campania",
-       "description": "",
-       "price": 90,
-       "flags": [],
-       "guid": "a110a76f-1548-41c1-8d20-3d0798a0df9c"
-      },
-      {
-       "name": "Mastroberardino ‘Stilèma’ Greco di Tufo, Campania",
-       "description": "",
-       "price": 90,
-       "flags": [],
-       "guid": "c336e72e-934e-4d30-95ef-161ff7a87c67"
-      },
-      {
-       "name": "Castello della Sala ‘Cervaro’, Umbria (Chardonnay)",
-       "description": "",
-       "price": 125,
-       "flags": [],
-       "guid": "794e9cb1-6d18-4d2d-bef1-6d75a0b29f1a"
-      },
-      {
-       "name": "Jermann ‘Vintage Tunina’, Friuli-Venezia Giulia",
-       "description": "",
-       "price": 140,
-       "flags": [],
-       "guid": "35d4f912-53d1-409c-8dad-ebc1b10c2523"
-      }
-     ]
+     ],
+     "section": "By the Glass"
     },
     {
      "name": "Southern Italian Red",
-     "section": "Italy",
      "items": [
       {
        "name": "Ocone ‘Apollo’ Aglianico",
@@ -1320,94 +1188,11 @@
        "flags": [],
        "guid": "e4716d53-e975-4068-b185-8e07e5ad877d"
       }
-     ]
-    },
-    {
-     "name": "Super Tuscan",
-     "section": "Italy",
-     "items": [
-      {
-       "name": "Biserno ‘Insoglio’, Toscana",
-       "description": "",
-       "price": 72,
-       "flags": [],
-       "guid": "62f1e383-c346-45b9-b720-78e290ec1edd"
-      },
-      {
-       "name": "Il Bruciato Bolgheri (Cabernet Blend) 2024",
-       "description": "",
-       "price": 75,
-       "flags": [],
-       "guid": "5dbc5f9d-b605-4e8b-aa03-266905d8c96f"
-      },
-      {
-       "name": "Le Difese, Tenuta San Guido",
-       "description": "",
-       "price": 90,
-       "flags": [],
-       "guid": "2264525c-c215-44d4-94e6-97083f61248c"
-      },
-      {
-       "name": "Cont’Ugo Bolgheri (Merlot) 2022",
-       "description": "",
-       "price": 115,
-       "flags": [],
-       "guid": "e11e0a22-fc83-4ee3-993f-bf7a982a1c40"
-      },
-      {
-       "name": "Guidalberto, Tenuta San Guido",
-       "description": "",
-       "price": 150,
-       "flags": [],
-       "guid": "feb7159b-9928-4851-b249-a8b44b806500"
-      },
-      {
-       "name": "Guado al Tasso Bolgheri Superiore (Cabernet Blend) 2021",
-       "description": "",
-       "price": 250,
-       "flags": [],
-       "guid": "449a92e9-d43d-44bc-bddf-55e87a127436"
-      },
-      {
-       "name": "Tignanello Toscana (Sangiovese/Cabernet) 2021",
-       "description": "",
-       "price": 295,
-       "flags": [],
-       "guid": "05cdda53-d0d9-4cca-866e-b69646662944"
-      },
-      {
-       "name": "Ornellaia, Bolgheri Superiore",
-       "description": "",
-       "price": 395,
-       "flags": [],
-       "guid": "89c0c142-3e62-4de4-91f4-45c1519434fa"
-      },
-      {
-       "name": "Solaia Toscana (Cabernet/Sangiovese) 2019",
-       "description": "",
-       "price": 575,
-       "flags": [],
-       "guid": "f933749a-c4ef-4b0f-ad03-061af9c33f8f"
-      },
-      {
-       "name": "Sassicaia Bolgheri (Cabernet/Cabernet Franc) 2021",
-       "description": "",
-       "price": 625,
-       "flags": [],
-       "guid": "9053778e-dc4f-418c-9c12-03c778c59eaf"
-      },
-      {
-       "name": "Matarocchio Bolgheri (Cabernet Franc) 2009",
-       "description": "",
-       "price": 1095,
-       "flags": [],
-       "guid": "0e09cba3-f533-4f2e-99b2-d111cf0cbeee"
-      }
-     ]
+     ],
+     "section": "Italy"
     },
     {
      "name": "Northern Italian Red",
-     "section": "Italy",
      "items": [
       {
        "name": "Conterno Fantino Dolcetto d’Alba 2024",
@@ -1528,11 +1313,225 @@
        "flags": [],
        "guid": "e23ed7e7-d3ef-4fcc-bba6-330e3672a7db"
       }
-     ]
+     ],
+     "section": "Italy"
+    },
+    {
+     "name": "Super Tuscan",
+     "items": [
+      {
+       "name": "Biserno ‘Insoglio’, Toscana",
+       "description": "",
+       "price": 72,
+       "flags": [],
+       "guid": "62f1e383-c346-45b9-b720-78e290ec1edd"
+      },
+      {
+       "name": "Il Bruciato Bolgheri (Cabernet Blend) 2024",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "5dbc5f9d-b605-4e8b-aa03-266905d8c96f"
+      },
+      {
+       "name": "Le Difese, Tenuta San Guido",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "2264525c-c215-44d4-94e6-97083f61248c"
+      },
+      {
+       "name": "Cont’Ugo Bolgheri (Merlot) 2022",
+       "description": "",
+       "price": 115,
+       "flags": [],
+       "guid": "e11e0a22-fc83-4ee3-993f-bf7a982a1c40"
+      },
+      {
+       "name": "Guidalberto, Tenuta San Guido",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "feb7159b-9928-4851-b249-a8b44b806500"
+      },
+      {
+       "name": "Guado al Tasso Bolgheri Superiore (Cabernet Blend) 2021",
+       "description": "",
+       "price": 250,
+       "flags": [],
+       "guid": "449a92e9-d43d-44bc-bddf-55e87a127436"
+      },
+      {
+       "name": "Tignanello Toscana (Sangiovese/Cabernet) 2021",
+       "description": "",
+       "price": 295,
+       "flags": [],
+       "guid": "05cdda53-d0d9-4cca-866e-b69646662944"
+      },
+      {
+       "name": "Ornellaia, Bolgheri Superiore",
+       "description": "",
+       "price": 395,
+       "flags": [],
+       "guid": "89c0c142-3e62-4de4-91f4-45c1519434fa"
+      },
+      {
+       "name": "Solaia Toscana (Cabernet/Sangiovese) 2019",
+       "description": "",
+       "price": 575,
+       "flags": [],
+       "guid": "f933749a-c4ef-4b0f-ad03-061af9c33f8f"
+      },
+      {
+       "name": "Sassicaia Bolgheri (Cabernet/Cabernet Franc) 2021",
+       "description": "",
+       "price": 625,
+       "flags": [],
+       "guid": "9053778e-dc4f-418c-9c12-03c778c59eaf"
+      },
+      {
+       "name": "Matarocchio Bolgheri (Cabernet Franc) 2009",
+       "description": "",
+       "price": 1095,
+       "flags": [],
+       "guid": "0e09cba3-f533-4f2e-99b2-d111cf0cbeee"
+      }
+     ],
+     "section": "Italy"
+    },
+    {
+     "name": "Sparkling",
+     "items": [
+      {
+       "name": "Vietti Moscato d'Asti 1/2",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "656d8251-1bb8-48bc-8c41-4872a3dc7bf8"
+      },
+      {
+       "name": "Adami Brut Prosecco, Valdobbiadene (half bottle)",
+       "description": "",
+       "price": 35,
+       "flags": [],
+       "guid": "b0ca84bc-03e2-4e13-ae9f-1b2819cfe450"
+      },
+      {
+       "name": "Bele Casel Extra Brut, Prosecco Superiore",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "1ec0839e-2d7b-4abb-8c1f-2a4da8956b25"
+      },
+      {
+       "name": "Col de Salici Brut Rosé, Prosecco",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "094853ad-5e13-484f-8495-0a81bdbd77c0"
+      },
+      {
+       "name": "Ferrari Brut Metodo Classico, Trentodoc",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "4db52053-f60f-43f3-b947-d878d632c2d3"
+      }
+     ],
+     "section": "Italy"
+    },
+    {
+     "name": "White + Rosé",
+     "items": [
+      {
+       "name": "Velenosi Pecorino, Marche",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "c5617232-eec9-4014-be36-35e5642cf964"
+      },
+      {
+       "name": "Santa Cristina Pinot Grigio, Toscana",
+       "description": "",
+       "price": 46,
+       "flags": [],
+       "guid": "1afbe584-cee0-4dcf-ad06-508334dc94b1"
+      },
+      {
+       "name": "Guado al Tasso Vermentino, Bolgheri",
+       "description": "",
+       "price": 50,
+       "flags": [],
+       "guid": "9be98e52-a35d-4cf6-b867-21abd36c8e02"
+      },
+      {
+       "name": "Ciro Picariello ‘BruEmm’ Falanghina, Campania",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "a508c0ef-4ab9-465d-9275-6b5fc30ad191"
+      },
+      {
+       "name": "Castello della Sala ‘San Giovanni’ Orvieto Superiore",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "452da9d5-bf81-4b7b-ac04-19def7b51175"
+      },
+      {
+       "name": "Mastroberardino Fiano di Avellino, Campania",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "a8890bc7-c4cc-4c6b-9ddf-4ebaca219983"
+      },
+      {
+       "name": "Mastroberardino Greco di Tufo, Campania",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "e90f394e-a033-437f-97d4-e32a163915fd"
+      },
+      {
+       "name": "Jermann Pinot Grigio, Friuli-Venezia Giulia",
+       "description": "",
+       "price": 56,
+       "flags": [],
+       "guid": "c7b5fc15-85e4-4680-8ed0-76b84ec6cbc6"
+      },
+      {
+       "name": "Mastroberardino ‘Stilèma’ Fiano di Avellino, Campania",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "a110a76f-1548-41c1-8d20-3d0798a0df9c"
+      },
+      {
+       "name": "Mastroberardino ‘Stilèma’ Greco di Tufo, Campania",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "c336e72e-934e-4d30-95ef-161ff7a87c67"
+      },
+      {
+       "name": "Castello della Sala ‘Cervaro’, Umbria (Chardonnay)",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "794e9cb1-6d18-4d2d-bef1-6d75a0b29f1a"
+      },
+      {
+       "name": "Jermann ‘Vintage Tunina’, Friuli-Venezia Giulia",
+       "description": "",
+       "price": 140,
+       "flags": [],
+       "guid": "35d4f912-53d1-409c-8dad-ebc1b10c2523"
+      }
+     ],
+     "section": "Italy"
     },
     {
      "name": "White + Rosé + Sparkling",
-     "section": "United States",
      "items": [
       {
        "name": "Cedar Lane Vineyard Sauvignon Blanc, Arroyo Seco",
@@ -1611,11 +1610,11 @@
        "flags": [],
        "guid": "809ef18b-0adc-4823-a4f6-1cf7b607277f"
       }
-     ]
+     ],
+     "section": "United States"
     },
     {
      "name": "Pinot Noir",
-     "section": "United States",
      "items": [
       {
        "name": "Pèpe Pinot Noir, Atlas Peak, Napa 2022",
@@ -1666,11 +1665,11 @@
        "flags": [],
        "guid": "b627dfc8-2eb6-44fc-8d2c-b8512387fda3"
       }
-     ]
+     ],
+     "section": "United States"
     },
     {
      "name": "Cabernet Sauvignon",
-     "section": "United States",
      "items": [
       {
        "name": "Cachagua Cabernet Blend",
@@ -1729,24 +1728,24 @@
        "guid": "65e3e8cd-62ba-4d3f-9efd-43f9dbc0cfe4"
       },
       {
+       "name": "Opus One, Oakville, Napa Valley 2016",
+       "description": "",
+       "price": 595,
+       "flags": [],
+       "guid": "58ce191a-1f5b-4bb8-8e23-c1884f296c14"
+      },
+      {
        "name": "Stag’s Leap ‘Cask 23’ Napa Valley 2014",
        "description": "",
        "price": 650,
        "flags": [],
        "guid": "abfb46de-dbdf-441a-8eee-929c712234af"
-      },
-      {
-       "name": "Opus One, Oakville, Napa Valley 2016",
-       "description": "",
-       "price": 695,
-       "flags": [],
-       "guid": "58ce191a-1f5b-4bb8-8e23-c1884f296c14"
       }
-     ]
+     ],
+     "section": "United States"
     },
     {
      "name": "Other Varietals",
-     "section": "United States",
      "items": [
       {
        "name": "Cedar Lane ‘Las Arenas’ Grenache/Syrah, Arroyo Seco 2022",
@@ -1776,11 +1775,11 @@
        "flags": [],
        "guid": "6bd7b3dd-2a88-4497-ae4b-ecb9ca8d7c7a"
       }
-     ]
+     ],
+     "section": "United States"
     },
     {
      "name": "Champagne",
-     "section": "France",
      "items": [
       {
        "name": "Veuve Clicquot Rosé, Champagne",
@@ -1796,11 +1795,11 @@
        "flags": [],
        "guid": "34bb43c1-768d-4647-adbb-cdd1e2992d0d"
       }
-     ]
+     ],
+     "section": "France"
     },
     {
      "name": "Magnums | 1.5L",
-     "section": "Other Formats",
      "items": [
       {
        "name": "Cachagua Mountain (magnum)",
@@ -1872,11 +1871,11 @@
        "flags": [],
        "guid": "b820bf66-98df-43e6-89f3-ed9023742fa1"
       }
-     ]
+     ],
+     "section": "Other Formats"
     },
     {
      "name": "Half Bottles",
-     "section": "Other Formats",
      "items": [
       {
        "name": "Felsina ‘Rancia’ Chianti Classico Riserva 2020 (half bottle)",
@@ -1899,7 +1898,8 @@
        "flags": [],
        "guid": "8012fe31-d5ee-4f18-929f-d56e80afbecc"
       }
-     ]
+     ],
+     "section": "Other Formats"
     }
    ]
   },
@@ -2149,5 +2149,5 @@
    ]
   }
  ],
- "configHash": "7fe549c6763d"
+ "configHash": "4066ebdfbfa0"
 }
