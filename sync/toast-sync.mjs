@@ -102,10 +102,19 @@ function groupWanted(group, w) {
   return true;
 }
 
+function hiddenByRule(it, cfg) {
+  if ((cfg.hideItems || []).map(norm).includes(norm(it.name))) return true;
+  if (cfg.hideZeroPrice !== false && typeof it.price === "number" && it.price <= 0 && !it.pricingRules?.sizeSequencePricingRules?.length) return true;
+  for (const pat of cfg.hidePatterns || []) {
+    if (new RegExp(pat, "i").test(it.name || "")) return true;
+  }
+  return false;
+}
+
 function transformGroup(group, cfg, channels) {
   const items = (group.menuItems || [])
     .filter((it) => visibleOn(it, channels))
-    .filter((it) => !(cfg.hideItems || []).map(norm).includes(norm(it.name)))
+    .filter((it) => !hiddenByRule(it, cfg))
     .map((it) => ({
       name: stripPrefix(it.name, cfg),
       description: it.description || "",
@@ -121,11 +130,11 @@ function transformGroup(group, cfg, channels) {
 }
 
 export function transform(raw, cfg) {
-  const channels = cfg.channels || [];
   const wanted = cfg.menus; // ordered list of { toastName, slug, name, subtitle?, pdf? }
   const byName = new Map((raw.menus || []).map((m) => [norm(m.name), m]));
   const menus = [];
   for (const w of wanted) {
+    const channels = w.channels || cfg.channels || [];
     const m = byName.get(norm(w.toastName));
     if (!m) {
       console.warn(`menu not found in Toast: "${w.toastName}" (available: ${[...byName.keys()].join(", ")})`);
