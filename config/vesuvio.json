@@ -15,7 +15,9 @@
         "Kids"
       ],
       "pdf": "",
-      "hideItems": [],
+      "hideItems": [
+        "Ribeye Cap Steak"
+      ],
       "hideInGroups": {
         "Pasta": [
           "Cioppino Rosso"
@@ -26,6 +28,13 @@
       },
       "channels": [
         "TOAST_ONLINE_ORDERING"
+      ],
+      "alwaysShow": [
+        "Al Forno \"Sinatra\"",
+        "Cheese Ravioli \"della Hoboken\"",
+        "Pesto 'Genovese'",
+        "Lamb Chops",
+        "Ribeye Cap"
       ]
     },
     {
@@ -36,6 +45,13 @@
       "pdf": "",
       "hideItems": [
         "Nectarine Pie"
+      ],
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ],
+      "alwaysShow": [
+        "HH Red",
+        "HH House Gin"
       ]
     },
     {
@@ -52,6 +68,10 @@
       ],
       "channels": [
         "TOAST_ONLINE_ORDERING"
+      ],
+      "alwaysShow": [
+        "Crème Brulée",
+        "Salted Caramel Affogato"
       ]
     },
     {
@@ -79,10 +99,7 @@
         "Penne/Pesto": "Penne Pesto",
         "Spaghetti Meatball": "Spaghetti & Meatball"
       },
-      "pdf": "",
-      "channels": [
-        "TOAST_ONLINE_ORDERING"
-      ]
+      "pdf": ""
     },
     {
       "toastName": "Wines",
@@ -252,6 +269,9 @@
         " GL",
         " MAG",
         " HALF"
+      ],
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
       ]
     },
     {
@@ -292,6 +312,9 @@
         "Like a Virgin (non-alcoholic)",
         "On Draft",
         "In Bottle"
+      ],
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
       ]
     }
   ],
