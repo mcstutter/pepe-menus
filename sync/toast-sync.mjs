@@ -202,7 +202,7 @@ export function transform(raw, cfg) {
       }
     }
     for (const g of out) for (const i of g.items) delete i.raw;
-    groups.length = 0; groups.push(...out);
+    if (out !== groups) { groups.length = 0; groups.push(...out); }
     if (w.groupOrder && !w.regroup) {
       const rank = (g) => { const k = w.groupOrder.map(norm).indexOf(norm(g.name)); return k < 0 ? 999 : k; };
       groups.sort((a, b) => rank(a) - rank(b));
@@ -252,6 +252,8 @@ async function main() {
   const out = transform(raw, config);
   out.configHash = configHash;
   const total = out.menus.reduce((n, m) => n + m.groups.reduce((k, g) => k + g.items.length, 0), 0);
+  const empty = out.menus.filter((m) => m.groups.every((g) => g.items.length === 0)).map((m) => m.slug);
+  if (empty.length) throw new Error(`refusing to write: empty menus ${empty.join(", ")}`);
   if (out.menus.length === 0 || total < (config.minItems || 10)) {
     throw new Error(`refusing to write: ${out.menus.length} menus, ${total} items (below minItems)`);
   }
