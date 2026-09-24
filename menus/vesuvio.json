@@ -1,1 +1,352 @@
-{"restaurant":"Vesuvio","source":"placeholder","menus":[]}
+{
+ "restaurant": "Vesuvio",
+ "location": "Carmel-by-the-Sea",
+ "source": "toast",
+ "toastLastUpdated": "2026-09-17T03:32:42.794+0000",
+ "updated": "2026-09-24T07:05:34.897Z",
+ "notes": [
+  "Vesuvio is a cash-free business.",
+  "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
+  "Items marked h/s may be spicy, though typically not more than a medium heat level."
+ ],
+ "menus": [
+  {
+   "slug": "happy-hour",
+   "name": "Happy Hour",
+   "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at both bars",
+   "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf",
+   "groups": [
+    {
+     "name": "HH Appetizers",
+     "items": [
+      {
+       "name": "HH Artichoke Arancini (1)",
+       "description": "",
+       "price": 2.5,
+       "flags": [],
+       "guid": "6e1e4b19-bbc4-4688-bff8-09f0b7a675e2"
+      },
+      {
+       "name": "HH Artichoke Arancini (4)",
+       "description": "fresh Scattini Farms baby artichokes, fried in a tempura batter, lemon-garlic-herb aioli",
+       "price": 10,
+       "flags": [],
+       "guid": "280eeac0-3e6c-47a2-ab14-95a1e8e44a8f"
+      },
+      {
+       "name": "HH Baby Back Ribs (4)",
+       "description": "asian glaze, mango salsa",
+       "price": 16,
+       "flags": [],
+       "guid": "430154a0-c0ab-47e3-88d5-e72998595e99"
+      },
+      {
+       "name": "HH Burrata & Red Peppers",
+       "description": "roasted peppers, crostini, balsamic reduction",
+       "price": 12,
+       "flags": [],
+       "guid": "baf38b42-56ed-4a7a-b0dc-53fe24fe7626"
+      },
+      {
+       "name": "HH Fritto Misto",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "2eb692ce-f65b-4195-b61f-bec32da4884b"
+      },
+      {
+       "name": "HH Meatball Lollipops (1)",
+       "description": "marinara sauce",
+       "price": 2.5,
+       "flags": [],
+       "guid": "45459334-1a44-4fe1-9432-7ebf966d0036"
+      },
+      {
+       "name": "HH Meatball Lollipops (4)",
+       "description": "marinara sauce",
+       "price": 10,
+       "flags": [],
+       "guid": "b88f3e3b-760a-4e9f-ba99-a60c86b739fc"
+      },
+      {
+       "name": "HH Pepe Board",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "81dc2966-c23e-49e5-a743-8df18e0cc5f4"
+      },
+      {
+       "name": "HH Risotto Arancini (1)",
+       "description": "saffron-risotto arancini, marinara sauce",
+       "price": 2.5,
+       "flags": [],
+       "guid": "684524f6-e471-45fc-858f-d76a133c54a5"
+      },
+      {
+       "name": "HH Risotto Arancini (4)",
+       "description": "saffron-risotto arancini, marinara sauce",
+       "price": 10,
+       "flags": [],
+       "guid": "5aabc13c-9e8d-47c3-8aff-2befee0d48c2"
+      },
+      {
+       "name": "HH Sausage & Peppers",
+       "description": "spicy sausage with peppers, onions, crispy polenta, fontina fonduta",
+       "price": 16,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "0bb3bac5-f342-466a-bbf4-4219ec370632"
+      },
+      {
+       "name": "HH Steamed Clams & Mussels",
+       "description": "lemon-caper cream sauce",
+       "price": 14,
+       "flags": [],
+       "guid": "af35767d-bc2f-4f99-830f-5d75f0cf17a0"
+      },
+      {
+       "name": "HH Truffled Gnocchi",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "175c11f1-ac98-4737-bbef-e16c2b92fb2a"
+      }
+     ]
+    },
+    {
+     "name": "HH Burgers & Sandwiches",
+     "items": [
+      {
+       "name": "HH Pollo Pazzo",
+       "description": "fire-grilled chicken breast sandwich, mozz'. tomato, onion, chipotle aioli, \"way-good\" seasoned fries",
+       "price": 16,
+       "flags": [],
+       "guid": "9f096cbf-0384-4702-9fd9-5c91f295c1d6"
+      },
+      {
+       "name": "HH McSuvio Burger",
+       "description": "Carmel Bakery brioche bun, caramelized onions, cambozola, chipotle aioli, \"way good\" fries",
+       "price": 16,
+       "flags": [],
+       "guid": "9f292668-c515-4db3-9c80-8f71ce32f1c3"
+      }
+     ]
+    },
+    {
+     "name": "HH Pizza",
+     "items": [
+      {
+       "name": "HH Abbruzzese",
+       "description": "goat cheese, mozz', basil pesto, tomato sauce, roasted tomato, pine nuts",
+       "price": 19,
+       "flags": [],
+       "guid": "928a77f2-3056-4107-9011-edf83ea6189b"
+      },
+      {
+       "name": "HH Cheese Pizza",
+       "description": "",
+       "price": 19,
+       "flags": [],
+       "guid": "e2744550-1957-48d0-9b15-a1e4a5a2a01d"
+      },
+      {
+       "name": "HH Diavola",
+       "description": "spicy soppressata, tomato sauce, PÈPE Bumba, mozz', provola",
+       "price": 19,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "9d470116-5953-4ae6-96e5-4220198781ae"
+      },
+      {
+       "name": "HH Fangool",
+       "description": "",
+       "price": 19,
+       "flags": [],
+       "guid": "80dd741d-6639-4e10-a4c8-074b05cb251e"
+      },
+      {
+       "name": "HH Margherita \"dal 1889\"",
+       "description": "tomato sauce, fior di latte mozz', basil",
+       "price": 18.5,
+       "flags": [],
+       "guid": "4e0a3e00-fc8f-4a25-8b6a-1d723f10849a"
+      },
+      {
+       "name": "HH Pepperoni Pizza",
+       "description": "",
+       "price": 19,
+       "flags": [],
+       "guid": "77851ae2-b338-4feb-ac20-2787c613bdb0"
+      },
+      {
+       "name": "HH San Vito",
+       "description": "house-made spicy sausage, peppers, onions, mozz', tomato sauce",
+       "price": 19,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "8ac0eb5b-d651-4ef4-b51e-13d3eaab8fc1"
+      },
+      {
+       "name": "HH White Truffle Pie",
+       "description": "mushrooms, cambozola, mozz', white truffle oil, caramelized onions (no tomato sauce)",
+       "price": 19,
+       "flags": [],
+       "guid": "dc5909d7-55ee-44af-9f38-4c72a386855a"
+      },
+      {
+       "name": "HH Nectarine Pie",
+       "description": "",
+       "price": 19,
+       "flags": [],
+       "guid": "2571846b-6472-4101-bf35-e6eb178c324a"
+      }
+     ]
+    },
+    {
+     "name": "HH Cocktails",
+     "items": [
+      {
+       "name": "HH Cosmopolitan",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "b8474627-da28-441e-bca4-ead3f12fd55b"
+      },
+      {
+       "name": "HH Gin Martini",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "53e9d86e-1f80-4413-b36d-34caa73af9f1"
+      },
+      {
+       "name": "HH Lemon Drop",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "20aff505-0cf0-4613-8337-dd6aaacc9571"
+      },
+      {
+       "name": "HH Manhattan",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "42b54716-7153-4c80-9698-898572807659"
+      },
+      {
+       "name": "HH Margarita",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "eca9da1e-1d5d-44ea-b340-b0221c961a34"
+      },
+      {
+       "name": "HH Old Fashioned",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "de56d9b7-b674-4e9d-a0b0-10dcfb83b5a9"
+      },
+      {
+       "name": "HH Vodka Martini",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "f33acf7f-e5e9-48d0-90c5-c56443505d52"
+      }
+     ]
+    },
+    {
+     "name": "HH Liquor",
+     "items": [
+      {
+       "name": "HH House Gin",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "a2f3e706-f414-410c-9d11-450addd9b0e9"
+      },
+      {
+       "name": "HH House Rum",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "5772d16e-9677-4668-ad5c-4183ad8dff09"
+      },
+      {
+       "name": "HH House Scotch",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "ff78e576-a0e5-4d8f-980e-16a3b761184f"
+      },
+      {
+       "name": "HH House Tequila",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "fd05552b-3b9b-4d08-a9f2-8bfa3b843145"
+      },
+      {
+       "name": "HH House Vodka",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "12f9c525-ea6e-47c4-bf7a-b3ba7735cb67"
+      },
+      {
+       "name": "HH House Whiskey",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "6c8e2295-3591-476a-9ef3-99b86eb40feb"
+      }
+     ]
+    },
+    {
+     "name": "HH Wine & Beer",
+     "items": [
+      {
+       "name": "HH Red",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "257f7008-53ec-4f22-b690-89829dbc8dce"
+      },
+      {
+       "name": "HH White",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "c2d79ab6-b5fe-42ea-8df8-7ba11a994be1"
+      },
+      {
+       "name": "HH Prosecco",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "588f403f-c01d-4437-9c69-8f8759e4b32e"
+      },
+      {
+       "name": "HH Draft Mai Tai",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "8c98c441-3793-4daa-89e7-5b32dfde927d"
+      },
+      {
+       "name": "HH Draft Menabrea",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "c77e68bb-8b24-4036-8490-499e2fc5fe00"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
