@@ -3,7 +3,7 @@
  "location": "Carmel-by-the-Sea",
  "source": "toast",
  "toastLastUpdated": "2026-09-24T15:57:21.150+0000",
- "updated": "2026-09-24T16:31:12.818Z",
+ "updated": "2026-09-24T18:33:45.584Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -483,7 +483,7 @@
   {
    "slug": "happy-hour",
    "name": "Happy Hour",
-   "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.",
+   "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Starlight Lounge only. Not in the dining room.",
    "pdf": "",
    "groups": [
     {
@@ -2149,5 +2149,5 @@
    ]
   }
  ],
- "configHash": "178ad72566ee"
+ "configHash": "6f50734ccdb8"
 }
