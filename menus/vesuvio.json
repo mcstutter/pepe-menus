@@ -3,7 +3,7 @@
  "location": "Carmel-by-the-Sea",
  "source": "toast",
  "toastLastUpdated": "2026-09-17T03:32:42.794+0000",
- "updated": "2026-09-24T07:05:34.897Z",
+ "updated": "2026-09-24T07:18:05.549Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -11,86 +11,939 @@
  ],
  "menus": [
   {
+   "slug": "dinner",
+   "name": "Dinner",
+   "subtitle": "",
+   "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf",
+   "groups": [
+    {
+     "name": "Appetizers",
+     "items": [
+      {
+       "name": "Artichoke Crochette (1)",
+       "description": "",
+       "price": 4,
+       "flags": [],
+       "guid": "f7d50327-dcbb-4a68-b3ed-8d196385ca6b"
+      },
+      {
+       "name": "Artichoke Crochette (4)",
+       "description": "aioli della casa",
+       "price": 14,
+       "flags": [],
+       "guid": "a2f42663-aa58-40ff-80fd-2efcb572735d"
+      },
+      {
+       "name": "Baby Back Ribs (4)",
+       "description": "asian glaze, mango salsa",
+       "price": 22.5,
+       "flags": [],
+       "guid": "67d0dfad-5367-4ffc-93d2-71fcf8b923ae"
+      },
+      {
+       "name": "Beef Carpaccio",
+       "description": "seared beef eye round, thinly sliced, with capers, dijon aioli, arugula, parmigiano, crostini",
+       "price": 25,
+       "flags": [],
+       "guid": "2802d2bf-5c85-44ba-a32f-810df19b6599"
+      },
+      {
+       "name": "Clam & Mussel Saute",
+       "description": "lemon-caper cream sauce",
+       "price": 18.25,
+       "flags": [],
+       "guid": "e4803dee-c8de-4d6d-bc22-b9bfa4b5bfe0"
+      },
+      {
+       "name": "Fritto Misto",
+       "description": "fried calamar, prawns, artichoke, carrot, fennel, aioli della casa",
+       "price": 21,
+       "flags": [],
+       "guid": "5090f3aa-4ca6-46f0-be88-17419354cde4"
+      },
+      {
+       "name": "Garlic Bread",
+       "description": "100-year-old family recipe",
+       "price": 9,
+       "flags": [],
+       "guid": "1878fd88-5e18-4229-9046-641c7dc15d49"
+      },
+      {
+       "name": "Meatball Lolli (1)",
+       "description": "",
+       "price": 4,
+       "flags": [],
+       "guid": "87d78ed4-6e14-4815-85fc-e4d313d2ecc9"
+      },
+      {
+       "name": "Meatball Lollipops (4)",
+       "description": "marinara sauce",
+       "price": 14,
+       "flags": [],
+       "guid": "2a57c09b-4ef9-4374-bc32-53ca5c093a68"
+      },
+      {
+       "name": "Pepe Board",
+       "description": "our house cheese board, with ‘nduja, bumba, pepper jelly, crostini, cheese, and accoutrements",
+       "price": 22,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "8e1bc586-a5ec-45ff-bcf3-ab6a183eedd3"
+      },
+      {
+       "name": "Prosciutto and Melon",
+       "description": "full belly farms organic melons, prosciutto di parma",
+       "price": 20,
+       "flags": [],
+       "guid": "57a32838-3142-42ae-804e-1c9a2e269554"
+      },
+      {
+       "name": "Risotto Arancini (1)",
+       "description": "",
+       "price": 4,
+       "flags": [],
+       "guid": "aa6f2523-dbc5-4bef-b434-be9801ab8507"
+      },
+      {
+       "name": "Risotto Arancini (4)",
+       "description": "saffron-risotto arancini, marinara sauce",
+       "price": 14,
+       "flags": [],
+       "guid": "428fcbc5-8a1f-49f3-ba9b-81e55c716291"
+      },
+      {
+       "name": "Sausage & Peppers",
+       "description": "spicy sausage with peppers, onions, crispy polenta, fontina fonduta",
+       "price": 23,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "544c94e6-37ca-498c-95db-378ff0a1fa36"
+      },
+      {
+       "name": "Truffled Gnocchi",
+       "description": "baked gnocchi, tartufata, fonduta di fontina",
+       "price": 22,
+       "flags": [],
+       "guid": "1972a990-56e6-4a49-8c77-8e614982d7b2"
+      },
+      {
+       "name": "Heirloom Tomato Caprese",
+       "description": "",
+       "price": 18,
+       "flags": [],
+       "guid": "fe2f5819-484a-4b23-9e44-29fda360883b"
+      }
+     ]
+    },
+    {
+     "name": "Salad/Soup",
+     "items": [
+      {
+       "name": "Amalfi",
+       "description": "romaine, prawns, bay shrimp, gorgonzola, avocado, caesar dressing",
+       "price": 25,
+       "flags": [],
+       "guid": "1df660fc-1f8b-48c5-938d-8fdb0f5be34e"
+      },
+      {
+       "name": "Caesar",
+       "description": "romaine, chicories, house croutons, parmigiano, breadcrumb, anchovy",
+       "price": 16,
+       "flags": [],
+       "guid": "e8d7686b-1abc-4a95-ae92-a35031983108"
+      },
+      {
+       "name": "Di Stefano",
+       "description": "mixed greens, local crispy goat cheese, roasted beets, fig-balsamic dressing",
+       "price": 18,
+       "flags": [],
+       "guid": "4e5110ff-99d2-484c-9e80-88d0efff9683"
+      },
+      {
+       "name": "Heirloom Wedge 'Riccardo'",
+       "description": "salinas iceburg, tomato, pancetta, gorgonzola-tarragon dressing",
+       "price": 19,
+       "flags": [],
+       "guid": "7fec87e4-918a-440d-bb6f-18e8cc9085bb"
+      },
+      {
+       "name": "Mista",
+       "description": "mixed green salad w/ balsamic vinaigrette",
+       "price": 18,
+       "flags": [],
+       "guid": "d63bfd1c-a7fa-499c-a0ad-d171143dcd18"
+      },
+      {
+       "name": "Strawberry-Gorgonzola",
+       "description": "mixed greens, arugula, strawberries, gorgonzola, candied walnuts, red onions, strawberry shrub dressing",
+       "price": 17.75,
+       "flags": [],
+       "guid": "a18f6e1a-4d19-4229-acbc-24cf4e1771ac"
+      },
+      {
+       "name": "Butternut Squash Soup",
+       "description": "Vegetarian Soup",
+       "price": 14,
+       "flags": [],
+       "guid": "51bbc80c-4487-41e4-9217-0278b42190c8"
+      },
+      {
+       "name": "Zuppa Cup",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "bed13fe0-aefd-452f-9b22-327aa3de857e"
+      }
+     ]
+    },
+    {
+     "name": "Pasta",
+     "items": [
+      {
+       "name": "\"1944\" Lasagna",
+       "description": "house-made pasta sheets, meatballs, soppressata, pepperoni, house-made sausage, ricotta, mozzarella, marinara",
+       "price": 34,
+       "flags": [],
+       "guid": "46d0241c-47ff-470a-8cba-f60827264ffa"
+      },
+      {
+       "name": "Al Forno \"Sinatra\"",
+       "description": "oven-baked ziti, house-made spicy sausage, mushrooms, goat cheese, mozzarella",
+       "price": 32,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "2a725d27-0e45-4b7c-a680-60df7e8ed06f"
+      },
+      {
+       "name": "Bolognese",
+       "description": "",
+       "price": 32,
+       "flags": [],
+       "guid": "504eeb67-e49d-426b-acbb-d1bc01788542"
+      },
+      {
+       "name": "Cacio e Pepe",
+       "description": "",
+       "price": 29,
+       "flags": [],
+       "guid": "22b6ba2d-2844-45d0-b525-fbdba2292ee2"
+      },
+      {
+       "name": "Cheese Ravioli \"della Hoboken\"",
+       "description": "ricotta, parmigiano, arrabbiata sauce",
+       "price": 30,
+       "flags": [],
+       "guid": "c7fd39fe-fe41-4d01-bff7-56b10ed27967"
+      },
+      {
+       "name": "Cioppino Rosso",
+       "description": "tomato & wine based seafood stew with garlic bread",
+       "price": 39,
+       "flags": [],
+       "guid": "20c1a833-f1cb-4c58-9777-f0a261513e7e"
+      },
+      {
+       "name": "Crab Ravioli",
+       "description": "creamy champagne lobster reduction",
+       "price": 36,
+       "flags": [],
+       "guid": "a7419910-9494-4a69-b26c-b3f1eeb30f82"
+      },
+      {
+       "name": "Pasta / Sauce",
+       "description": "choice of pasta & sauce",
+       "price": 23,
+       "flags": [],
+       "guid": "79f63a75-dac7-467a-97c2-ef4b07ec2fa5"
+      },
+      {
+       "name": "Pasta Vesuviana",
+       "description": "'nduja + tomato passata sauce, young pecorino *spicy",
+       "price": 29,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "acbe9c51-f2fe-4f38-8ec8-8b414f7d9f3d"
+      },
+      {
+       "name": "Pesto 'Genovese'",
+       "description": "creamy basil pesto, asparagus, potatoes, tagliatelle",
+       "price": 29,
+       "flags": [],
+       "guid": "e049cfb1-e965-41f5-89fb-d492a209aaaa"
+      },
+      {
+       "name": "Pink Vodka Sauce \"Jackie-O\"",
+       "description": "pancetta, peas, tomato-cream sauce",
+       "price": 32,
+       "flags": [],
+       "guid": "ce274a63-47c8-41db-9273-bac7f8015fea"
+      },
+      {
+       "name": "Spaghetti & Meatballs \"Grandma Celia\"",
+       "description": "beef & pork meatballs, ragù Napoletano",
+       "price": 32,
+       "flags": [],
+       "guid": "7da28b35-9872-454a-ade2-2fc955aa9360"
+      },
+      {
+       "name": "Veal \"Osso Buco\" Ravioli",
+       "description": "mushrooms, porcini cream sauce",
+       "price": 35,
+       "flags": [],
+       "guid": "4bc4727e-7995-4943-9f3f-cb9c6006cb27"
+      },
+      {
+       "name": "Butternut Squash Ravioli",
+       "description": "",
+       "price": 32,
+       "flags": [],
+       "guid": "dc267c17-8ea7-48b4-a443-d4a3e272e6ab"
+      }
+     ]
+    },
+    {
+     "name": "Pizza",
+     "items": [
+      {
+       "name": "Abruzzese",
+       "description": "goat cheese, mozz', basil pesto, tomato sauce, roasted tomato, pine nuts",
+       "price": 24,
+       "flags": [],
+       "guid": "ccbcc368-7fb6-46ba-87ac-a4e09b231d10"
+      },
+      {
+       "name": "Cheese Pizza",
+       "description": "tomato sauce, mozz'",
+       "price": 22,
+       "flags": [],
+       "guid": "14446219-a22c-4e5a-b74a-e77e0f3aedde"
+      },
+      {
+       "name": "Diavola",
+       "description": "spicy soppressata, tomato sauce, PÈPE Bumba, mozz', provola",
+       "price": 25,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "d4e93bb9-f8da-49d5-b1a6-5131dcfc1060"
+      },
+      {
+       "name": "Fangool",
+       "description": "pepperoni, hot honey, ranch, mozz', tomato sauce",
+       "price": 26,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "46601c44-2868-4521-9c48-099e47e41845"
+      },
+      {
+       "name": "Farmer's Market Pie",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "10d910ff-78b5-4543-81f6-a02bc11c0a54"
+      },
+      {
+       "name": "Gluten Free Pizza Crust",
+       "description": "",
+       "price": 2,
+       "flags": [],
+       "guid": "5668907c-941c-487c-b2e1-f3d7859f57c7"
+      },
+      {
+       "name": "Margherita \"dal 1889\"",
+       "description": "tomato sauce, fior di latte mozz', basil",
+       "price": 22,
+       "flags": [],
+       "guid": "0019b903-c6f7-462b-87f1-0ff814c2f7fc"
+      },
+      {
+       "name": "Pepperoni Pizza",
+       "description": "tomato sauce, mozz', American pepperoni",
+       "price": 25,
+       "flags": [],
+       "guid": "90a5717f-0fa8-4db8-a648-bb7caca36d7f"
+      },
+      {
+       "name": "San Vito",
+       "description": "house-made spicy sausage, peppers, onions, mozz', tomato sauce",
+       "price": 25,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "6d485925-b623-41e8-8aeb-6bee8e9a683a"
+      },
+      {
+       "name": "Vegan Pizza",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "53376ce4-a4fa-47c8-b426-fb5b1a4b834e"
+      },
+      {
+       "name": "White Truffle Pie",
+       "description": "mushrooms, cambozola, mozz', white truffle oil, caramelized onions (no tomato sauce)",
+       "price": 26,
+       "flags": [],
+       "guid": "a2eb3200-fcab-4700-b2d7-2d707b933d99"
+      }
+     ]
+    },
+    {
+     "name": "Grill & Fish",
+     "items": [
+      {
+       "name": "Halibut",
+       "description": "Monterey Fish Co.'s Daily Catch.",
+       "price": 44,
+       "flags": [],
+       "guid": "e5a9bc6c-c635-4226-a604-c08ca1c9a88e"
+      },
+      {
+       "name": "McSuvio Burger",
+       "description": "Carmel Bakery brioche bun, caramelized onions, cambozola, chipotle aioli, \"way good\" fries",
+       "price": 27,
+       "flags": [],
+       "guid": "5652acf2-f791-42fb-8569-89aa641c4ca2"
+      },
+      {
+       "name": "Salmon",
+       "description": "Sardinian fregola, lobster cream sauce, grilled asparagus",
+       "price": 42,
+       "flags": [],
+       "guid": "6212dede-d6a0-4bc3-9980-62ad057ef0c3"
+      },
+      {
+       "name": "Steak Frites",
+       "description": "House Style: Medium Rare +, for optimal texture and flavor. This exacting preparation does not allow for exceptions.",
+       "price": 58,
+       "flags": [],
+       "guid": "48791d52-46a3-48ee-9157-09603b8f53d6"
+      },
+      {
+       "name": "Ribeye Cap",
+       "description": "",
+       "price": 64,
+       "flags": [],
+       "guid": "ed5b4d2b-fc59-4106-9d1b-81754a1332ae"
+      },
+      {
+       "name": "Lamb Chops",
+       "description": "",
+       "price": 48.25,
+       "flags": [],
+       "guid": "0e2c9cb5-c0ed-4fd8-922b-5c2f931b6876"
+      },
+      {
+       "name": "Pollo Pazzo Panino",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "4212c36d-d424-431d-aff4-9e4144a64af9"
+      },
+      {
+       "name": "Sole Piccata",
+       "description": "potatoes, broccoli, lemon-caper butter sauce",
+       "price": 39,
+       "flags": [],
+       "guid": "c66d5402-d175-45c8-81b9-998d6f97cb4f"
+      }
+     ]
+    },
+    {
+     "name": "Specialties",
+     "items": [
+      {
+       "name": "Chicken Parmigiana",
+       "description": "with pappardelle and alfredo sauce",
+       "price": 36.25,
+       "flags": [],
+       "guid": "dd54d5fb-736a-417a-b10d-c20c5f917d13"
+      },
+      {
+       "name": "Cioppino Rosso",
+       "description": "tomato & wine based seafood stew with garlic bread",
+       "price": 39,
+       "flags": [],
+       "guid": "20c1a833-f1cb-4c58-9777-f0a261513e7e"
+      },
+      {
+       "name": "Eggplant Parmigiana",
+       "description": "with pappardelle and alfredo sauce",
+       "price": 31,
+       "flags": [],
+       "guid": "58c6b7e8-c825-4584-8da0-966c5317e20e"
+      },
+      {
+       "name": "Halibut",
+       "description": "Monterey Fish Co.'s Daily Catch.",
+       "price": 44,
+       "flags": [],
+       "guid": "e5a9bc6c-c635-4226-a604-c08ca1c9a88e"
+      },
+      {
+       "name": "Hobo Stew",
+       "description": "beef short-rib, potato, carrot, celery, gnocchi, black pepper",
+       "price": 40,
+       "flags": [],
+       "guid": "4b84e4ce-8304-48c5-98f3-85187a7de640"
+      },
+      {
+       "name": "Lamb Osso Buco",
+       "description": "4-hour braised New Zealand lamb shank, parmesan mashed potatoes, lemon gremolata",
+       "price": 46,
+       "flags": [],
+       "guid": "a1f4027a-c3d1-42a7-8d71-f7b34b229e31"
+      },
+      {
+       "name": "Ribeye Cap Steak",
+       "description": "",
+       "price": 64,
+       "flags": [],
+       "guid": "e2b02572-9494-4019-884a-047fd8e3f8a5"
+      },
+      {
+       "name": "Seafood Risotto",
+       "description": "white prawns, bay scallops, PÈPE Bumba Risotto, house-made spicy 'nduja, lobster reduction",
+       "price": 36,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "75c3422f-691e-4a6c-b296-b0240af532cc"
+      },
+      {
+       "name": "Veal Parm",
+       "description": "",
+       "price": 68,
+       "flags": [],
+       "guid": "2d3b5f37-dd26-497e-bb89-1dba3a3a65f7"
+      }
+     ]
+    },
+    {
+     "name": "Sides",
+     "items": [
+      {
+       "name": "Asparagus + Breadcrumbs",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "8c91245b-c5ff-4701-ad20-75409f0047dd"
+      },
+      {
+       "name": "Broccoli Rabe",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "8e4e9bef-904b-4368-be59-94038fd71d0c"
+      },
+      {
+       "name": "Crostini (4)",
+       "description": "",
+       "price": 4,
+       "flags": [],
+       "guid": "4d0fa2f7-6010-4c76-b9e2-ef50febeeaec"
+      },
+      {
+       "name": "Mashed Potatoes",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "d21e1d78-e457-4007-9411-9a7a1abd6e6e"
+      },
+      {
+       "name": "Meatballs (2 Large)",
+       "description": "",
+       "price": 14,
+       "flags": [],
+       "guid": "5716fae0-84b5-44bf-aa21-66934502a1ee"
+      },
+      {
+       "name": "Mushrooms",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "48f160b0-4744-4d8c-95b0-b51332f34f82"
+      },
+      {
+       "name": "Regular Broccoli",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "6a7e0ad8-15ee-43f8-9870-7f91fccc9fc1"
+      },
+      {
+       "name": "Roasted Peppers",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "5cac845e-0f70-44a5-8cd9-d02238e8b50b"
+      },
+      {
+       "name": "Seasoned Fries",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "640345aa-c049-417f-a16c-e1776a2c3940"
+      },
+      {
+       "name": "Side of Ranch",
+       "description": "",
+       "price": 1.65,
+       "flags": [],
+       "guid": "4eedab6d-7352-4461-97fe-9c81e5d6368c"
+      },
+      {
+       "name": "Side Sauce $4",
+       "description": "",
+       "price": 4,
+       "flags": [],
+       "guid": "af7cb126-750c-492b-bb6c-47cd90d516e3"
+      },
+      {
+       "name": "Truffle-Parmesan Fries",
+       "description": "with parmigiano reggiano",
+       "price": 16,
+       "flags": [],
+       "guid": "a8fe06ef-9cf5-4798-b274-439cb16b4902"
+      },
+      {
+       "name": "Side of Bumba",
+       "description": "",
+       "price": 1.95,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "38ae644c-1a78-4cd6-9861-1691ccc9ff5b"
+      },
+      {
+       "name": "Side Hot Honey",
+       "description": "",
+       "price": 1.65,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "8f3cc22b-0407-43ee-9ecc-3ad54061059f"
+      },
+      {
+       "name": "Side Chili Oil",
+       "description": "",
+       "price": 1.65,
+       "flags": [],
+       "guid": "62e75b20-de4f-4583-9623-02bf66131c97"
+      }
+     ]
+    },
+    {
+     "name": "Kids",
+     "items": [
+      {
+       "name": "Child Bolognese",
+       "description": "",
+       "price": 12,
+       "flags": [],
+       "guid": "f581216f-49a8-4689-897d-dfd3deb43a0d"
+      },
+      {
+       "name": "Child Caesar",
+       "description": "caesar salad for kids",
+       "price": 7,
+       "flags": [],
+       "guid": "42f5a133-acf1-468e-b765-1ad715be1d0e"
+      },
+      {
+       "name": "Child Cheese",
+       "description": "",
+       "price": 12,
+       "flags": [],
+       "guid": "52540434-859e-4369-ab0c-4085ca32387e"
+      },
+      {
+       "name": "Child Spaghetti Meatball",
+       "description": "",
+       "price": 12,
+       "flags": [],
+       "guid": "3b4c2163-732f-4382-9329-e0fe63209d97"
+      },
+      {
+       "name": "Child Mista",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "7189861c-5d6c-4121-bc7c-9f4937087d6a"
+      },
+      {
+       "name": "Child Pasta / Sauce",
+       "description": "",
+       "price": 12,
+       "flags": [],
+       "guid": "7169e28f-7d35-470b-8397-5d029794cc53"
+      },
+      {
+       "name": "Child Penne/Pesto",
+       "description": "",
+       "price": 12,
+       "flags": [],
+       "guid": "3cb3779e-eb64-4213-83a5-d3fe2b9880c2"
+      },
+      {
+       "name": "Child Pepperoni",
+       "description": "",
+       "price": 12,
+       "flags": [],
+       "guid": "62fcf3ff-5baf-48d9-a80a-f16f632fce66"
+      },
+      {
+       "name": "Child Ravioli",
+       "description": "",
+       "price": 12,
+       "flags": [],
+       "guid": "a780e165-9b2a-405e-9f14-9fa01af292e1"
+      },
+      {
+       "name": "Child Zuppa",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "eee5da48-798b-4a16-8521-a06bea26dc45"
+      }
+     ]
+    },
+    {
+     "name": "Off-Menu",
+     "items": [
+      {
+       "name": "Bruschetta Pomodoro (1)",
+       "description": "",
+       "price": 3.08,
+       "flags": [],
+       "guid": "63720f24-79dc-4dd2-89ad-3c5e9df82294"
+      },
+      {
+       "name": "Bruschetta Pomodoro (4)",
+       "description": "crostini, tomatoes, garlic, basil",
+       "price": 12.25,
+       "flags": [],
+       "guid": "85855208-9a1c-4b8f-b84d-1ef7651bf714"
+      },
+      {
+       "name": "Bumba Bruschetta (1)",
+       "description": "",
+       "price": 3,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "5708ec72-ec02-4cea-97ba-db3ad63c1557"
+      },
+      {
+       "name": "Bumba Bruschetta (4)",
+       "description": "goat cheese, calabrian chili",
+       "price": 12,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "7517bec1-ea06-489b-af6e-d6050cd679b3"
+      },
+      {
+       "name": "Calamari Fritti",
+       "description": "chipotle aioli",
+       "price": 17.75,
+       "flags": [],
+       "guid": "9422e06f-6ca4-46d0-a3c8-411d9323c93c"
+      },
+      {
+       "name": "Carbonara",
+       "description": "farm egg, pancetta, peas, parmigiana, pecorino, spaghetti",
+       "price": 28.5,
+       "flags": [],
+       "guid": "1013cc5f-692b-44d4-8968-6d173bf54b77"
+      },
+      {
+       "name": "Cheese Ravioli \"della Hoboken\"",
+       "description": "ricotta, parmigiano, arrabbiata sauce",
+       "price": 30,
+       "flags": [],
+       "guid": "c7fd39fe-fe41-4d01-bff7-56b10ed27967"
+      },
+      {
+       "name": "Mixed Green",
+       "description": "tomato, cucumber",
+       "price": 15,
+       "flags": [],
+       "guid": "00f3cfdf-52d1-44a6-af76-0b09b88f13ad"
+      },
+      {
+       "name": "Mussels Arrabbiata",
+       "description": "steamed mediterranean mussels, spicy tomato broth",
+       "price": 17,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "23c37fcf-8e01-4853-8ec7-b30602baf9dd"
+      },
+      {
+       "name": "Pesto 'Genovese'",
+       "description": "creamy basil pesto, asparagus, potatoes, tagliatelle",
+       "price": 29,
+       "flags": [],
+       "guid": "e049cfb1-e965-41f5-89fb-d492a209aaaa"
+      },
+      {
+       "name": "Pizza Dough To Go",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "dacdbfcc-c88f-459f-a1d9-8d26771c9a22"
+      },
+      {
+       "name": "Spaghetti alle Vongole",
+       "description": "steamed manila clams, garlic-butter white wine sauce",
+       "price": 33,
+       "flags": [],
+       "guid": "5ebafe2c-87f5-4f06-8e99-33859ec2b9d4"
+      },
+      {
+       "name": "Spaghetti Pomodoro",
+       "description": "plain spaghetti w/ tomato sauce",
+       "price": 21,
+       "flags": [],
+       "guid": "4c37f720-8f95-4aa5-9122-b7d5c4285c49"
+      },
+      {
+       "name": "Wild Boar Bolognese",
+       "description": "Carmel Valley Wild Boar, beef, pappardelle",
+       "price": 32,
+       "flags": [],
+       "guid": "a0553d71-9411-481f-9b14-3e2d52899170"
+      },
+      {
+       "name": "Da Sila",
+       "description": "tomato sauce, caramelized onions, 'nduja, burrata",
+       "price": 25,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "0b8b8646-7397-416c-84c1-924b46442bca"
+      },
+      {
+       "name": "Spicy Pie 2.0",
+       "description": "house-made 'nduja, pineapple, jalapeño, mozz' (no tomato sauce)",
+       "price": 25,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "832e4d8b-b89e-4dbc-a045-cacb137fa79b"
+      },
+      {
+       "name": "Pollo Pazzo Panino",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "4212c36d-d424-431d-aff4-9e4144a64af9"
+      },
+      {
+       "name": "Grilled Artichoke",
+       "description": "",
+       "price": 18,
+       "flags": [],
+       "guid": "abcfa64f-9a7f-4cee-9b9d-bc56c726273e"
+      },
+      {
+       "name": "See Modifier",
+       "description": "",
+       "price": 0,
+       "flags": [],
+       "guid": "afa30639-36c9-4087-9ca9-3bdc0a03aee1"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "slug": "happy-hour",
    "name": "Happy Hour",
-   "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at both bars",
+   "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.",
    "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf",
    "groups": [
     {
-     "name": "HH Appetizers",
+     "name": "Appetizers",
      "items": [
       {
-       "name": "HH Artichoke Arancini (1)",
+       "name": "Artichoke Arancini (1)",
        "description": "",
        "price": 2.5,
        "flags": [],
        "guid": "6e1e4b19-bbc4-4688-bff8-09f0b7a675e2"
       },
       {
-       "name": "HH Artichoke Arancini (4)",
+       "name": "Artichoke Arancini (4)",
        "description": "fresh Scattini Farms baby artichokes, fried in a tempura batter, lemon-garlic-herb aioli",
        "price": 10,
        "flags": [],
        "guid": "280eeac0-3e6c-47a2-ab14-95a1e8e44a8f"
       },
       {
-       "name": "HH Baby Back Ribs (4)",
+       "name": "Baby Back Ribs (4)",
        "description": "asian glaze, mango salsa",
        "price": 16,
        "flags": [],
        "guid": "430154a0-c0ab-47e3-88d5-e72998595e99"
       },
       {
-       "name": "HH Burrata & Red Peppers",
+       "name": "Burrata & Red Peppers",
        "description": "roasted peppers, crostini, balsamic reduction",
        "price": 12,
        "flags": [],
        "guid": "baf38b42-56ed-4a7a-b0dc-53fe24fe7626"
       },
       {
-       "name": "HH Fritto Misto",
+       "name": "Fritto Misto",
        "description": "",
        "price": 16,
        "flags": [],
        "guid": "2eb692ce-f65b-4195-b61f-bec32da4884b"
       },
       {
-       "name": "HH Meatball Lollipops (1)",
+       "name": "Meatball Lollipops (1)",
        "description": "marinara sauce",
        "price": 2.5,
        "flags": [],
        "guid": "45459334-1a44-4fe1-9432-7ebf966d0036"
       },
       {
-       "name": "HH Meatball Lollipops (4)",
+       "name": "Meatball Lollipops (4)",
        "description": "marinara sauce",
        "price": 10,
        "flags": [],
        "guid": "b88f3e3b-760a-4e9f-ba99-a60c86b739fc"
       },
       {
-       "name": "HH Pepe Board",
+       "name": "Pepe Board",
        "description": "",
        "price": 16,
        "flags": [],
        "guid": "81dc2966-c23e-49e5-a743-8df18e0cc5f4"
       },
       {
-       "name": "HH Risotto Arancini (1)",
+       "name": "Risotto Arancini (1)",
        "description": "saffron-risotto arancini, marinara sauce",
        "price": 2.5,
        "flags": [],
        "guid": "684524f6-e471-45fc-858f-d76a133c54a5"
       },
       {
-       "name": "HH Risotto Arancini (4)",
+       "name": "Risotto Arancini (4)",
        "description": "saffron-risotto arancini, marinara sauce",
        "price": 10,
        "flags": [],
        "guid": "5aabc13c-9e8d-47c3-8aff-2befee0d48c2"
       },
       {
-       "name": "HH Sausage & Peppers",
+       "name": "Sausage & Peppers",
        "description": "spicy sausage with peppers, onions, crispy polenta, fontina fonduta",
        "price": 16,
        "flags": [
@@ -99,14 +952,14 @@
        "guid": "0bb3bac5-f342-466a-bbf4-4219ec370632"
       },
       {
-       "name": "HH Steamed Clams & Mussels",
+       "name": "Steamed Clams & Mussels",
        "description": "lemon-caper cream sauce",
        "price": 14,
        "flags": [],
        "guid": "af35767d-bc2f-4f99-830f-5d75f0cf17a0"
       },
       {
-       "name": "HH Truffled Gnocchi",
+       "name": "Truffled Gnocchi",
        "description": "",
        "price": 16,
        "flags": [],
@@ -115,17 +968,17 @@
      ]
     },
     {
-     "name": "HH Burgers & Sandwiches",
+     "name": "Burgers & Sandwiches",
      "items": [
       {
-       "name": "HH Pollo Pazzo",
+       "name": "Pollo Pazzo",
        "description": "fire-grilled chicken breast sandwich, mozz'. tomato, onion, chipotle aioli, \"way-good\" seasoned fries",
        "price": 16,
        "flags": [],
        "guid": "9f096cbf-0384-4702-9fd9-5c91f295c1d6"
       },
       {
-       "name": "HH McSuvio Burger",
+       "name": "McSuvio Burger",
        "description": "Carmel Bakery brioche bun, caramelized onions, cambozola, chipotle aioli, \"way good\" fries",
        "price": 16,
        "flags": [],
@@ -134,24 +987,24 @@
      ]
     },
     {
-     "name": "HH Pizza",
+     "name": "Pizza",
      "items": [
       {
-       "name": "HH Abbruzzese",
+       "name": "Abbruzzese",
        "description": "goat cheese, mozz', basil pesto, tomato sauce, roasted tomato, pine nuts",
        "price": 19,
        "flags": [],
        "guid": "928a77f2-3056-4107-9011-edf83ea6189b"
       },
       {
-       "name": "HH Cheese Pizza",
+       "name": "Cheese Pizza",
        "description": "",
        "price": 19,
        "flags": [],
        "guid": "e2744550-1957-48d0-9b15-a1e4a5a2a01d"
       },
       {
-       "name": "HH Diavola",
+       "name": "Diavola",
        "description": "spicy soppressata, tomato sauce, PÈPE Bumba, mozz', provola",
        "price": 19,
        "flags": [
@@ -160,28 +1013,28 @@
        "guid": "9d470116-5953-4ae6-96e5-4220198781ae"
       },
       {
-       "name": "HH Fangool",
+       "name": "Fangool",
        "description": "",
        "price": 19,
        "flags": [],
        "guid": "80dd741d-6639-4e10-a4c8-074b05cb251e"
       },
       {
-       "name": "HH Margherita \"dal 1889\"",
+       "name": "Margherita \"dal 1889\"",
        "description": "tomato sauce, fior di latte mozz', basil",
        "price": 18.5,
        "flags": [],
        "guid": "4e0a3e00-fc8f-4a25-8b6a-1d723f10849a"
       },
       {
-       "name": "HH Pepperoni Pizza",
+       "name": "Pepperoni Pizza",
        "description": "",
        "price": 19,
        "flags": [],
        "guid": "77851ae2-b338-4feb-ac20-2787c613bdb0"
       },
       {
-       "name": "HH San Vito",
+       "name": "San Vito",
        "description": "house-made spicy sausage, peppers, onions, mozz', tomato sauce",
        "price": 19,
        "flags": [
@@ -190,14 +1043,14 @@
        "guid": "8ac0eb5b-d651-4ef4-b51e-13d3eaab8fc1"
       },
       {
-       "name": "HH White Truffle Pie",
+       "name": "White Truffle Pie",
        "description": "mushrooms, cambozola, mozz', white truffle oil, caramelized onions (no tomato sauce)",
        "price": 19,
        "flags": [],
        "guid": "dc5909d7-55ee-44af-9f38-4c72a386855a"
       },
       {
-       "name": "HH Nectarine Pie",
+       "name": "Nectarine Pie",
        "description": "",
        "price": 19,
        "flags": [],
@@ -206,52 +1059,52 @@
      ]
     },
     {
-     "name": "HH Cocktails",
+     "name": "Cocktails",
      "items": [
       {
-       "name": "HH Cosmopolitan",
+       "name": "Cosmopolitan",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "b8474627-da28-441e-bca4-ead3f12fd55b"
       },
       {
-       "name": "HH Gin Martini",
+       "name": "Gin Martini",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "53e9d86e-1f80-4413-b36d-34caa73af9f1"
       },
       {
-       "name": "HH Lemon Drop",
+       "name": "Lemon Drop",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "20aff505-0cf0-4613-8337-dd6aaacc9571"
       },
       {
-       "name": "HH Manhattan",
+       "name": "Manhattan",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "42b54716-7153-4c80-9698-898572807659"
       },
       {
-       "name": "HH Margarita",
+       "name": "Margarita",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "eca9da1e-1d5d-44ea-b340-b0221c961a34"
       },
       {
-       "name": "HH Old Fashioned",
+       "name": "Old Fashioned",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "de56d9b7-b674-4e9d-a0b0-10dcfb83b5a9"
       },
       {
-       "name": "HH Vodka Martini",
+       "name": "Vodka Martini",
        "description": "",
        "price": 11,
        "flags": [],
@@ -260,45 +1113,45 @@
      ]
     },
     {
-     "name": "HH Liquor",
+     "name": "Liquor",
      "items": [
       {
-       "name": "HH House Gin",
+       "name": "House Gin",
        "description": "",
        "price": 9,
        "flags": [],
        "guid": "a2f3e706-f414-410c-9d11-450addd9b0e9"
       },
       {
-       "name": "HH House Rum",
+       "name": "House Rum",
        "description": "",
        "price": 9,
        "flags": [],
        "guid": "5772d16e-9677-4668-ad5c-4183ad8dff09"
       },
       {
-       "name": "HH House Scotch",
+       "name": "House Scotch",
        "description": "",
        "price": 9,
        "flags": [],
        "guid": "ff78e576-a0e5-4d8f-980e-16a3b761184f"
       },
       {
-       "name": "HH House Tequila",
+       "name": "House Tequila",
        "description": "",
        "price": 9,
        "flags": [],
        "guid": "fd05552b-3b9b-4d08-a9f2-8bfa3b843145"
       },
       {
-       "name": "HH House Vodka",
+       "name": "House Vodka",
        "description": "",
        "price": 9,
        "flags": [],
        "guid": "12f9c525-ea6e-47c4-bf7a-b3ba7735cb67"
       },
       {
-       "name": "HH House Whiskey",
+       "name": "House Whiskey",
        "description": "",
        "price": 9,
        "flags": [],
@@ -307,38 +1160,38 @@
      ]
     },
     {
-     "name": "HH Wine & Beer",
+     "name": "Wine & Beer",
      "items": [
       {
-       "name": "HH Red",
+       "name": "Red",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "257f7008-53ec-4f22-b690-89829dbc8dce"
       },
       {
-       "name": "HH White",
+       "name": "White",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "c2d79ab6-b5fe-42ea-8df8-7ba11a994be1"
       },
       {
-       "name": "HH Prosecco",
+       "name": "Prosecco",
        "description": "",
        "price": 11,
        "flags": [],
        "guid": "588f403f-c01d-4437-9c69-8f8759e4b32e"
       },
       {
-       "name": "HH Draft Mai Tai",
+       "name": "Draft Mai Tai",
        "description": "",
        "price": 7,
        "flags": [],
        "guid": "8c98c441-3793-4daa-89e7-5b32dfde927d"
       },
       {
-       "name": "HH Draft Menabrea",
+       "name": "Draft Menabrea",
        "description": "",
        "price": 7,
        "flags": [],
@@ -347,6 +1200,132 @@
      ]
     }
    ]
+  },
+  {
+   "slug": "dessert",
+   "name": "Dessert",
+   "subtitle": "La dolce vita",
+   "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf",
+   "groups": [
+    {
+     "name": "Dessert",
+     "items": [
+      {
+       "name": "Apple Pie 'Pan Dowdy'",
+       "description": "french vanilla gelato, apple cider caramel",
+       "price": 13,
+       "flags": [],
+       "guid": "a11ea569-fdc8-4481-baf3-53f5f65c9033"
+      },
+      {
+       "name": "Birthday Brownie",
+       "description": "",
+       "price": 0,
+       "flags": [],
+       "guid": "85e1c09a-a368-4bdb-8141-695cd0949915"
+      },
+      {
+       "name": "Cake Fee / Person",
+       "description": "",
+       "price": 5,
+       "flags": [],
+       "guid": "69a6d177-6a3f-4f7b-a3e1-6b971946d944"
+      },
+      {
+       "name": "Carmel Bakery Brownie",
+       "description": "\"di moda\" with hazelnut gelato, frangelico caramel",
+       "price": 13,
+       "flags": [],
+       "guid": "43f42aef-0989-421d-bb60-ab781124fb0c"
+      },
+      {
+       "name": "Child Spumone",
+       "description": "",
+       "price": 5.25,
+       "flags": [],
+       "guid": "875fa7e3-0e80-406b-8cfa-bd15b23cf50e"
+      },
+      {
+       "name": "Child Vanilla",
+       "description": "",
+       "price": 5.25,
+       "flags": [],
+       "guid": "24847a6b-1318-4da3-ae00-f655c25802ef"
+      },
+      {
+       "name": "Chocolate Chip Biscotti (6)",
+       "description": "",
+       "price": 3,
+       "flags": [],
+       "guid": "ba7e82d0-9869-49ac-869b-363479e2e5d4"
+      },
+      {
+       "name": "Crème Brulée",
+       "description": "",
+       "price": 12,
+       "flags": [],
+       "guid": "65bb51a6-4299-4b19-a585-4e5427a912e8"
+      },
+      {
+       "name": "Pistachio Cannoli",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "064cbdcf-7f17-4955-acb3-189f0a79e043"
+      },
+      {
+       "name": "Salted Caramel Affogato",
+       "description": "salted caramel gelato, espresso, chocolate biscotti liquore",
+       "price": 16,
+       "flags": [],
+       "guid": "c877f83e-e07a-471f-b578-29b53d515ccf"
+      },
+      {
+       "name": "Tiramisu",
+       "description": "",
+       "price": 14,
+       "flags": [],
+       "guid": "5683af25-6be1-4e61-aaae-c9bd60de0a39"
+      },
+      {
+       "name": "Vanilla Ice Cream & Chocolate Sauce",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "10bb2e3b-f0ab-4cd2-a0a6-a7792198cdae"
+      },
+      {
+       "name": "Hazelnut Gelato",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "d297f734-6ac9-436c-a239-4e47ba2e1d34"
+      },
+      {
+       "name": "Salted Caramel Gelato",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "7b183b93-0966-4a15-9bd5-0dba98b28eb8"
+      },
+      {
+       "name": "Strawberry Creme Pie",
+       "description": "",
+       "price": 20,
+       "flags": [],
+       "guid": "36388d16-e4f6-45e2-86b6-4ba7cc4660c6"
+      },
+      {
+       "name": "Peach Cream Pie",
+       "description": "",
+       "price": 20,
+       "flags": [],
+       "guid": "451ea8f4-d410-482e-8c12-fff2bdb6e4c6"
+      }
+     ]
+    }
+   ]
   }
- ]
+ ],
+ "configHash": "08e6d9b5828f"
 }

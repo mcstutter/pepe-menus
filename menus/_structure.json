@@ -1,0 +1,504 @@
+[
+ {
+  "menu": "Food",
+  "visibility": [
+   "ORDERING_PARTNERS",
+   "TOAST_ONLINE_ORDERING",
+   "POS",
+   "KIOSK"
+  ],
+  "groups": [
+   {
+    "name": "Appetizers",
+    "depth": 0,
+    "items": 16,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS",
+     "KIOSK"
+    ]
+   },
+   {
+    "name": "Salad/Soup",
+    "depth": 0,
+    "items": 8,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS",
+     "KIOSK"
+    ]
+   },
+   {
+    "name": "Pasta",
+    "depth": 0,
+    "items": 14,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS",
+     "KIOSK"
+    ]
+   },
+   {
+    "name": "Pizza",
+    "depth": 0,
+    "items": 11,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS",
+     "KIOSK"
+    ]
+   },
+   {
+    "name": "Grill & Fish",
+    "depth": 0,
+    "items": 8,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS",
+     "KIOSK"
+    ]
+   },
+   {
+    "name": "Specialties",
+    "depth": 0,
+    "items": 9,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS",
+     "KIOSK"
+    ]
+   },
+   {
+    "name": "Sides",
+    "depth": 0,
+    "items": 15,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS",
+     "KIOSK"
+    ]
+   },
+   {
+    "name": "Kids",
+    "depth": 0,
+    "items": 10,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Dessert",
+    "depth": 0,
+    "items": 16,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS",
+     "KIOSK"
+    ]
+   },
+   {
+    "name": "Off-Menu",
+    "depth": 0,
+    "items": 19,
+    "visibility": [
+     "POS"
+    ]
+   }
+  ]
+ },
+ {
+  "menu": "N/A Beverages",
+  "visibility": [
+   "POS"
+  ],
+  "groups": [
+   {
+    "name": "Soda",
+    "depth": 0,
+    "items": 25,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Juice",
+    "depth": 0,
+    "items": 7,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Coffee/Tea",
+    "depth": 0,
+    "items": 12,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Mocktails",
+    "depth": 0,
+    "items": 4,
+    "visibility": [
+     "POS"
+    ]
+   }
+  ]
+ },
+ {
+  "menu": "Wines",
+  "visibility": [
+   "POS"
+  ],
+  "groups": [
+   {
+    "name": "By the Glass",
+    "depth": 0,
+    "items": 23,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Sparkling",
+    "depth": 0,
+    "items": 8,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Italian Reds",
+    "depth": 0,
+    "items": 37,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "California Reds",
+    "depth": 0,
+    "items": 21,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "White",
+    "depth": 0,
+    "items": 22,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Dessert Wines",
+    "depth": 0,
+    "items": 2,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Glass",
+    "depth": 1,
+    "items": 8,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Half Bottle",
+    "depth": 1,
+    "items": 1,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Large Format",
+    "depth": 0,
+    "items": 10,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Half Bottles",
+    "depth": 0,
+    "items": 7,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   }
+  ]
+ },
+ {
+  "menu": "Drinks",
+  "visibility": [
+   "POS"
+  ],
+  "groups": [
+   {
+    "name": "Like A Virgin",
+    "depth": 0,
+    "items": 3,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Bottled Beer",
+    "depth": 0,
+    "items": 5,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Bourbon/Whiskey",
+    "depth": 0,
+    "items": 14,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Cocktails",
+    "depth": 0,
+    "items": 21,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Cognac/Grappa",
+    "depth": 0,
+    "items": 9,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "DRAFT BEER",
+    "depth": 0,
+    "items": 2,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Gin",
+    "depth": 0,
+    "items": 10,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Liqueurs/Cordials",
+    "depth": 0,
+    "items": 28,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Rum",
+    "depth": 0,
+    "items": 6,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Scotch",
+    "depth": 0,
+    "items": 20,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Tequila",
+    "depth": 0,
+    "items": 26,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Vodka",
+    "depth": 0,
+    "items": 7,
+    "visibility": [
+     "POS"
+    ]
+   }
+  ]
+ },
+ {
+  "menu": "Happy Hour",
+  "visibility": [
+   "POS"
+  ],
+  "groups": [
+   {
+    "name": "HH Appetizers",
+    "depth": 0,
+    "items": 13,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "HH Burgers & Sandwiches",
+    "depth": 0,
+    "items": 2,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "HH Pizza",
+    "depth": 0,
+    "items": 9,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "HH Cocktails",
+    "depth": 0,
+    "items": 7,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "HH Liquor",
+    "depth": 0,
+    "items": 6,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "HH Wine & Beer",
+    "depth": 0,
+    "items": 5,
+    "visibility": [
+     "POS"
+    ]
+   }
+  ]
+ },
+ {
+  "menu": "Retail",
+  "visibility": [
+   "POS"
+  ],
+  "groups": [
+   {
+    "name": "Retail-Food",
+    "depth": 0,
+    "items": 9,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Retail-Apparel",
+    "depth": 0,
+    "items": 2,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "Retail-Wine",
+    "depth": 0,
+    "items": 10,
+    "visibility": [
+     "POS"
+    ]
+   },
+   {
+    "name": "DPL",
+    "depth": 0,
+    "items": 13,
+    "visibility": [
+     "POS"
+    ]
+   }
+  ]
+ },
+ {
+  "menu": "Large Format / Catering - Visibility OFF 1/6/26",
+  "visibility": [],
+  "groups": [
+   {
+    "name": "A La Carte",
+    "depth": 0,
+    "items": 13,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   }
+  ]
+ },
+ {
+  "menu": "Single-Use Items",
+  "visibility": [
+   "ORDERING_PARTNERS",
+   "TOAST_ONLINE_ORDERING"
+  ],
+  "groups": [
+   {
+    "name": "Single-Use Items",
+    "depth": 0,
+    "items": 3,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   }
+  ]
+ },
+ {
+  "menu": "Occasions",
+  "visibility": [
+   "POS"
+  ],
+  "groups": [
+   {
+    "name": "Occasions",
+    "depth": 0,
+    "items": 3,
+    "visibility": [
+     "POS"
+    ]
+   }
+  ]
+ }
+]
