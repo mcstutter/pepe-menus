@@ -192,7 +192,8 @@ async function main() {
   }
   const configText = readFileSync(CONFIG_PATH, "utf8");
   const config = JSON.parse(configText);
-  const configHash = createHash("sha256").update(configText).digest("hex").slice(0, 12);
+  // Hash covers the config and this script, so editing either forces a rebuild.
+  const configHash = createHash("sha256").update(configText).update(readFileSync(new URL(import.meta.url), "utf8")).digest("hex").slice(0, 12);
   const token = await login();
   const meta = await get("/menus/v2/metadata", token);
   const existing = existsSync(OUT_PATH) ? JSON.parse(readFileSync(OUT_PATH, "utf8")) : null;
