@@ -141,7 +141,7 @@ function transformGroup(group, cfg, channels, w = {}) {
   const out = { name: group.name, items };
   if (group.description) out.note = group.description;
   // Nested groups flatten into sibling groups after the parent
-  const nested = (group.menuGroups || []).filter((g) => visibleOn(g, channels)).map((g) => transformGroup(g, cfg, channels, w));
+  const nested = (group.menuGroups || []).map((g) => transformGroup(g, cfg, channels, w));
   return [out, ...nested.flat()];
 }
 
@@ -156,9 +156,8 @@ export function transform(raw, cfg) {
       console.warn(`menu not found in Toast: "${w.toastName}" (available: ${[...byName.keys()].join(", ")})`);
       continue;
     }
-    if (!visibleOn(m, channels)) continue;
+    // Channel rule applies to items only (the manager toggle). Menu/group channel settings are ignored.
     const groups = (m.menuGroups || [])
-      .filter((g) => visibleOn(g, channels))
       .filter((g) => groupWanted(g, w))
       .flatMap((g) => transformGroup(g, cfg, channels, w))
       .map((g) => ({ ...g, name: (w.groupNames || {})[g.name] || stripPrefix(g.name, cfg) }))
