@@ -266,7 +266,24 @@
       "sortBy": {
         "By the Glass": "price-desc",
         "*": "price-asc"
-      }
+      },
+      "groupOrder": [
+        "By the Glass > Bubbles",
+        "By the Glass > White + Rosé",
+        "By the Glass > Red",
+        "Italy > Sparkling",
+        "Italy > White + Rosé",
+        "Southern Italian Red",
+        "Northern Italian Red",
+        "Super Tuscan",
+        "White + Rosé + Sparkling",
+        "Pinot Noir",
+        "Cabernet Sauvignon",
+        "Other Varietals",
+        "Champagne",
+        "Magnums | 1.5L",
+        "Half Bottles"
+      ]
     },
     {
       "toastName": "Drinks",
