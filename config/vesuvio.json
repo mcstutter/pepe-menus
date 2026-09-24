@@ -4,19 +4,95 @@
   "channels": [],
   "minItems": 25,
   "menus": [
-    { "toastName": "Food", "slug": "dinner", "name": "Dinner", "subtitle": "", "excludeGroups": ["Dessert", "Desserts", "Dolci", "La Dolce Vita"], "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf" },
-    { "toastName": "Happy Hour", "slug": "happy-hour", "name": "Happy Hour", "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.", "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf" },
-    { "toastName": "Food", "slug": "dessert", "name": "Dessert", "subtitle": "La dolce vita", "groups": ["Dessert", "Desserts", "Dolci", "La Dolce Vita"], "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf" }
+    {
+      "toastName": "Food",
+      "slug": "dinner",
+      "name": "Dinner",
+      "subtitle": "",
+      "excludeGroups": [
+        "Dessert",
+        "Off-Menu",
+        "Kids"
+      ],
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf",
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ]
+    },
+    {
+      "toastName": "Happy Hour",
+      "slug": "happy-hour",
+      "name": "Happy Hour",
+      "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.",
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf",
+      "channels": [
+        "POS"
+      ]
+    },
+    {
+      "toastName": "Food",
+      "slug": "dessert",
+      "name": "Dessert",
+      "subtitle": "La dolce vita",
+      "groups": [
+        "Dessert"
+      ],
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf",
+      "channels": [
+        "POS"
+      ]
+    }
   ],
-  "stripPrefixes": ["HH ", "HH-", "H/H "],
-  "hideItems": ["open food", "open item", "gift card", "misc", "service charge"],
+  "stripPrefixes": [
+    "HH ",
+    "HH-",
+    "H/H "
+  ],
+  "hideItems": [
+    "open food",
+    "open item",
+    "gift card",
+    "misc",
+    "service charge"
+  ],
   "flags": {
-    "h/s": ["calabrian", "spicy", "hot honey", "’nduja", "'nduja", "diavola", "bumba"]
+    "h/s": [
+      "calabrian",
+      "spicy",
+      "hot honey",
+      "’nduja",
+      "'nduja",
+      "diavola",
+      "bumba"
+    ]
   },
-  "tagFlags": { "vegetarian": "vg", "vegan": "v", "gluten free": "gf", "gluten-free": "gf", "spicy": "h/s" },
+  "tagFlags": {
+    "vegetarian": "vg",
+    "vegan": "v",
+    "gluten free": "gf",
+    "gluten-free": "gf",
+    "spicy": "h/s"
+  },
   "notes": [
     "Vesuvio is a cash-free business.",
     "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
     "Items marked h/s may be spicy, though typically not more than a medium heat level."
-  ]
+  ],
+  "hidePatterns": [
+    "\\(1\\)$",
+    "^Side ",
+    "^Child ",
+    "Fee",
+    "See Modifier",
+    "^Gluten Free Pizza Crust",
+    "^Pasta / Sauce$",
+    "^Zuppa Cup$",
+    "^Crostini",
+    "^Meatballs \\(2",
+    "Pizza Dough",
+    "^Birthday",
+    "Biscotti",
+    "^Vanilla Ice Cream"
+  ],
+  "hideZeroPrice": true
 }
