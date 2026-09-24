@@ -111,7 +111,7 @@ function groupWanted(group, w) {
 function hiddenByRule(it, cfg, w = {}, groupName = "") {
   if (Array.isArray(it.visibility) && it.visibility.length === 0) return true; // hidden everywhere in Toast
   const hideNames = [...(cfg.hideItems || []), ...(w.hideItems || []), ...((w.hideInGroups || {})[groupName] || [])].map(norm);
-  if (hideNames.includes(norm(it.name))) return true;
+  if (hideNames.includes(norm(it.name)) || hideNames.includes(norm(stripPrefix(it.name, cfg, w)))) return true;
   const only = (w.groupItemPatterns || {})[groupName];
   if (only && !new RegExp(only, "i").test(it.name || "")) return true;
   for (const pat of w.hidePatterns || []) {
@@ -145,6 +145,33 @@ function transformGroup(group, cfg, channels, w = {}) {
   return [out, ...nested.flat()];
 }
 
+// Re-sort a menu's groups into website sections (e.g. the printed wine list's Italy / United States pages).
+// cfg.regroup = { sections: ["Italy", ...], groups: [ { section, name, from: [Toast group names], match?: regex on display name, items?: [display or Toast names] } ] }
+// Each item lands in the first rule whose `from` includes its Toast group and whose `match` (if any) hits; `items` pins an item to a rule
+// (and may list it under more than one rule, e.g. a half bottle that is on both the glass list and the bottle list).
+function regroup(groups, rg) {
+  const rules = (rg.groups || []).map((r) => ({ ...r, re: r.match ? new RegExp(r.match, "i") : null, out: [] }));
+  for (const g of groups) {
+    for (const it of g.items) {
+      const pinned = rules.filter((r) => (r.items || []).map(norm).some((n) => n === norm(it.name) || n === norm(it.raw)));
+      if (pinned.length) { for (const r of pinned) r.out.push({ ...it }); continue; }
+      const r = rules.find((r) => (r.from || []).map(norm).includes(norm(g.name)) && (!r.re || r.re.test(it.name)));
+      if (r) r.out.push({ ...it });
+      else console.warn(`regroup: no rule for "${it.name}" (Toast group ${g.name}); dropped`);
+    }
+  }
+  const order = (rg.sections || []).map(norm);
+  const byPrice = (dir) => (a, b) => ((typeof a.price === "number" ? a.price : 0) - (typeof b.price === "number" ? b.price : 0)) * dir;
+  for (const r of rules) {
+    if (r.sort === "price-asc") r.out.sort(byPrice(1));
+    if (r.sort === "price-desc") r.out.sort(byPrice(-1));
+  }
+  return rules
+    .filter((r) => r.out.length)
+    .sort((a, b) => order.indexOf(norm(a.section)) - order.indexOf(norm(b.section)))
+    .map((r) => ({ name: r.name, section: r.section, items: r.out }));
+}
+
 export function transform(raw, cfg) {
   const wanted = cfg.menus; // ordered list of { toastName, slug, name, subtitle?, pdf? }
   const byName = new Map((raw.menus || []).map((m) => [norm(m.name), m]));
@@ -162,12 +189,21 @@ export function transform(raw, cfg) {
       .flatMap((g) => transformGroup(g, cfg, channels, w))
       .map((g) => ({ ...g, name: (w.groupNames || {})[g.name] || stripPrefix(g.name, cfg) }))
       .filter((g) => g.items.length > 0);
+    let out = groups;
+    if (w.regroup) out = regroup(groups, w.regroup);
     if (w.dedupe) {
-      const seen = new Set();
-      for (const g of groups) g.items = g.items.filter((i) => (seen.has(norm(i.raw)) ? false : seen.add(norm(i.raw))));
+      // One entry per Toast item within a section (or the whole menu when there are no sections).
+      const seen = new Map();
+      for (const g of out) {
+        const key = g.section || "";
+        if (!seen.has(key)) seen.set(key, new Set());
+        const s = seen.get(key);
+        g.items = g.items.filter((i) => (s.has(norm(i.raw)) ? false : s.add(norm(i.raw))));
+      }
     }
-    for (const g of groups) for (const i of g.items) delete i.raw;
-    if (w.groupOrder) {
+    for (const g of out) for (const i of g.items) delete i.raw;
+    groups.length = 0; groups.push(...out);
+    if (w.groupOrder && !w.regroup) {
       const rank = (g) => { const k = w.groupOrder.map(norm).indexOf(norm(g.name)); return k < 0 ? 999 : k; };
       groups.sort((a, b) => rank(a) - rank(b));
     }
