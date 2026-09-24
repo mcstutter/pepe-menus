@@ -3,7 +3,7 @@
  "location": "Carmel-by-the-Sea",
  "source": "toast",
  "toastLastUpdated": "2026-09-24T13:44:32.743+0000",
- "updated": "2026-09-24T14:02:51.186Z",
+ "updated": "2026-09-24T14:14:17.078Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -481,6 +481,327 @@
    ]
   },
   {
+   "slug": "happy-hour",
+   "name": "Happy Hour",
+   "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.",
+   "pdf": "",
+   "groups": [
+    {
+     "name": "Appetizers",
+     "items": [
+      {
+       "name": "Artichoke Arancini (4)",
+       "description": "fresh Scattini Farms baby artichokes, fried in a tempura batter, lemon-garlic-herb aioli",
+       "price": 10,
+       "flags": [],
+       "guid": "280eeac0-3e6c-47a2-ab14-95a1e8e44a8f"
+      },
+      {
+       "name": "Baby Back Ribs (4)",
+       "description": "ginger soy glaze, mango salsa",
+       "price": 16,
+       "flags": [],
+       "guid": "430154a0-c0ab-47e3-88d5-e72998595e99"
+      },
+      {
+       "name": "Burrata & Red Peppers",
+       "description": "roasted peppers, crostini, balsamic reduction",
+       "price": 12,
+       "flags": [],
+       "guid": "baf38b42-56ed-4a7a-b0dc-53fe24fe7626"
+      },
+      {
+       "name": "Fritto Misto",
+       "description": "fried calamari, carrots, fennel, aioli",
+       "price": 16,
+       "flags": [],
+       "guid": "2eb692ce-f65b-4195-b61f-bec32da4884b"
+      },
+      {
+       "name": "Meatball Lollipops (4)",
+       "description": "marinara sauce",
+       "price": 10,
+       "flags": [],
+       "guid": "b88f3e3b-760a-4e9f-ba99-a60c86b739fc"
+      },
+      {
+       "name": "Pèpe Board",
+       "description": "our cheese plate w/ olives, candied walnuts, crostini, pèpe ‘nduja, pèpe bumba, pèpe jelly & more",
+       "price": 16,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "81dc2966-c23e-49e5-a743-8df18e0cc5f4"
+      },
+      {
+       "name": "Risotto Arancini (4)",
+       "description": "saffron-risotto arancini, marinara sauce",
+       "price": 10,
+       "flags": [],
+       "guid": "5aabc13c-9e8d-47c3-8aff-2befee0d48c2"
+      },
+      {
+       "name": "Sausage & Peppers",
+       "description": "spicy sausage with peppers, onions, crispy polenta, fontina fonduta",
+       "price": 16,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "0bb3bac5-f342-466a-bbf4-4219ec370632"
+      },
+      {
+       "name": "Steamed Clams & Mussels",
+       "description": "lemon-caper cream sauce",
+       "price": 14,
+       "flags": [],
+       "guid": "af35767d-bc2f-4f99-830f-5d75f0cf17a0"
+      },
+      {
+       "name": "Truffled Gnocchi",
+       "description": "baked gnocchi, tartufata, fonduta di fontina",
+       "price": 16,
+       "flags": [],
+       "guid": "175c11f1-ac98-4737-bbef-e16c2b92fb2a"
+      }
+     ]
+    },
+    {
+     "name": "Burgers & Sandwiches",
+     "items": [
+      {
+       "name": "Pollo Pazzo",
+       "description": "fire-grilled chicken breast sandwich, mozz'. tomato, onion, chipotle aioli, \"way-good\" seasoned fries",
+       "price": 16,
+       "flags": [],
+       "guid": "9f096cbf-0384-4702-9fd9-5c91f295c1d6"
+      },
+      {
+       "name": "McSuvio Burger",
+       "description": "Carmel Bakery brioche bun, caramelized onions, cambozola, chipotle aioli, \"way good\" fries",
+       "price": 16,
+       "flags": [],
+       "guid": "9f292668-c515-4db3-9c80-8f71ce32f1c3"
+      }
+     ]
+    },
+    {
+     "name": "Pizza",
+     "items": [
+      {
+       "name": "Abruzzese",
+       "description": "goat cheese, mozz', basil pesto, tomato sauce, roasted tomato, pine nuts",
+       "price": 19,
+       "flags": [],
+       "guid": "928a77f2-3056-4107-9011-edf83ea6189b"
+      },
+      {
+       "name": "Cheese Pizza",
+       "description": "tomato sauce, mozz’",
+       "price": 19,
+       "flags": [],
+       "guid": "e2744550-1957-48d0-9b15-a1e4a5a2a01d"
+      },
+      {
+       "name": "Diavola",
+       "description": "spicy soppressata, tomato sauce, PÈPE Bumba, mozz', provola",
+       "price": 19,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "9d470116-5953-4ae6-96e5-4220198781ae"
+      },
+      {
+       "name": "Fangool",
+       "description": "pepperoni, hot honey, ranch, mozz’, tomato sauce",
+       "price": 19,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "80dd741d-6639-4e10-a4c8-074b05cb251e"
+      },
+      {
+       "name": "Margherita \"dal 1889\"",
+       "description": "tomato sauce, fior di latte mozz', basil",
+       "price": 18.5,
+       "flags": [],
+       "guid": "4e0a3e00-fc8f-4a25-8b6a-1d723f10849a"
+      },
+      {
+       "name": "Pepperoni Pizza",
+       "description": "tomato sauce, mozz’, American pepperoni",
+       "price": 19,
+       "flags": [],
+       "guid": "77851ae2-b338-4feb-ac20-2787c613bdb0"
+      },
+      {
+       "name": "San Vito",
+       "description": "house-made spicy sausage, peppers, onions, mozz', tomato sauce",
+       "price": 19,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "8ac0eb5b-d651-4ef4-b51e-13d3eaab8fc1"
+      },
+      {
+       "name": "White Truffle Pie",
+       "description": "mushrooms, cambozola, mozz', white truffle oil, caramelized onions (no tomato sauce)",
+       "price": 19,
+       "flags": [],
+       "guid": "dc5909d7-55ee-44af-9f38-4c72a386855a"
+      },
+      {
+       "name": "Nectarine Pie",
+       "description": "",
+       "price": 19,
+       "flags": [],
+       "guid": "2571846b-6472-4101-bf35-e6eb178c324a"
+      }
+     ]
+    },
+    {
+     "name": "Cocktails",
+     "items": [
+      {
+       "name": "Cosmopolitan",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "b8474627-da28-441e-bca4-ead3f12fd55b"
+      },
+      {
+       "name": "Gin Martini",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "53e9d86e-1f80-4413-b36d-34caa73af9f1"
+      },
+      {
+       "name": "Lemon Drop",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "20aff505-0cf0-4613-8337-dd6aaacc9571"
+      },
+      {
+       "name": "Manhattan",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "42b54716-7153-4c80-9698-898572807659"
+      },
+      {
+       "name": "Margarita",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "eca9da1e-1d5d-44ea-b340-b0221c961a34"
+      },
+      {
+       "name": "Old Fashioned",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "de56d9b7-b674-4e9d-a0b0-10dcfb83b5a9"
+      },
+      {
+       "name": "Vodka Martini",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "f33acf7f-e5e9-48d0-90c5-c56443505d52"
+      }
+     ]
+    },
+    {
+     "name": "Liquor",
+     "items": [
+      {
+       "name": "House Gin",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "a2f3e706-f414-410c-9d11-450addd9b0e9"
+      },
+      {
+       "name": "House Rum",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "5772d16e-9677-4668-ad5c-4183ad8dff09"
+      },
+      {
+       "name": "House Scotch",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "ff78e576-a0e5-4d8f-980e-16a3b761184f"
+      },
+      {
+       "name": "House Tequila",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "fd05552b-3b9b-4d08-a9f2-8bfa3b843145"
+      },
+      {
+       "name": "House Vodka",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "12f9c525-ea6e-47c4-bf7a-b3ba7735cb67"
+      },
+      {
+       "name": "House Whiskey",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "6c8e2295-3591-476a-9ef3-99b86eb40feb"
+      }
+     ]
+    },
+    {
+     "name": "Wine & Beer",
+     "items": [
+      {
+       "name": "Red",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "257f7008-53ec-4f22-b690-89829dbc8dce"
+      },
+      {
+       "name": "White",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "c2d79ab6-b5fe-42ea-8df8-7ba11a994be1"
+      },
+      {
+       "name": "Prosecco",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "588f403f-c01d-4437-9c69-8f8759e4b32e"
+      },
+      {
+       "name": "Draft Mai Tai",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "8c98c441-3793-4daa-89e7-5b32dfde927d"
+      },
+      {
+       "name": "Draft Menabrea",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "c77e68bb-8b24-4036-8490-499e2fc5fe00"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "slug": "dessert",
    "name": "Dessert",
    "subtitle": "",
@@ -664,7 +985,1107 @@
      ]
     }
    ]
+  },
+  {
+   "slug": "wine",
+   "name": "Wine",
+   "subtitle": "Corkage $30 per 750ml.",
+   "pdf": "",
+   "groups": [
+    {
+     "name": "By the Glass",
+     "items": [
+      {
+       "name": "Adami Brut Prosecco, Valdobbiadene (half bottle)",
+       "description": "",
+       "price": 35,
+       "flags": [],
+       "guid": "b0ca84bc-03e2-4e13-ae9f-1b2819cfe450"
+      },
+      {
+       "name": "Guado al Tasso Vermentino, Bolgheri",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "3a7c1b8f-cb65-420f-90bf-a9ca2d185632"
+      },
+      {
+       "name": "Marchese Antinori Chianti Classico Riserva",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "d47445c8-f800-4d2d-b166-b4c1033383c0"
+      },
+      {
+       "name": "Moët & Chandon Brut, Champagne",
+       "description": "",
+       "price": 22,
+       "flags": [],
+       "guid": "bf0478a2-c9ac-489c-877d-5239f19cc0a5"
+      },
+      {
+       "name": "Moët & Chandon Brut Rosé, Champagne",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "eae3f7e0-5e0e-4d12-b18d-dffe152a32a1"
+      },
+      {
+       "name": "Pèpe Cabernet Reserve, Atlas Peak, Napa",
+       "description": "",
+       "price": 22,
+       "flags": [],
+       "guid": "7b606f4d-86d2-491c-8e22-058f053e71ff"
+      },
+      {
+       "name": "Pèpe Chardonnay, Atlas Peak, Napa",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "d81fabce-52ba-468d-8f94-59aa4bafe52b"
+      },
+      {
+       "name": "Pèpe Pinot Noir, Atlas Peak, Napa",
+       "description": "",
+       "price": 18,
+       "flags": [],
+       "guid": "50ecda51-788c-4039-b577-01b3bf12eedc"
+      },
+      {
+       "name": "Pèpe Rosé, Atlas Peak, Napa",
+       "description": "",
+       "price": 14,
+       "flags": [],
+       "guid": "5e7b0621-1712-4d6a-8ebc-023d5241667a"
+      },
+      {
+       "name": "Pèpe Sauvignon Blanc, Atlas Peak, Napa",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "48791f22-f42f-484a-bbe9-49cab72f17bf"
+      },
+      {
+       "name": "Pèpe ‘Vesuvio’ Cabernet Blend, Atlas Peak, Napa",
+       "description": "",
+       "price": 18,
+       "flags": [],
+       "guid": "20cb90d2-9604-498b-a2e2-691867a25745"
+      },
+      {
+       "name": "Pèppoli Chianti Classico",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "24edfc0b-cc90-40f3-899c-78428d195a0f"
+      },
+      {
+       "name": "Maschio Brut Prosecco",
+       "description": "",
+       "price": 14,
+       "flags": [],
+       "guid": "4fb4da05-d25d-4234-9684-94e04bfcbf7c"
+      },
+      {
+       "name": "Rombauer Chardonnay, Carneros, Napa",
+       "description": "",
+       "price": 22,
+       "flags": [],
+       "guid": "501ff27f-6099-4699-b8f0-ab5907f817eb"
+      },
+      {
+       "name": "Banfi ‘Rosa Regale’ Sweet Sparkling Rosé, Piemonte",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "51ecd1c1-347a-4d3b-8d62-11280bab38ab"
+      },
+      {
+       "name": "Santa Cristina Pinot Grigio, Toscana",
+       "description": "",
+       "price": 14,
+       "flags": [],
+       "guid": "79aadcee-3fca-46a1-abac-a9abb2bfe04b"
+      },
+      {
+       "name": "Silvestri Chardonnay, Carmel Valley",
+       "description": "",
+       "price": 14,
+       "flags": [],
+       "guid": "a6fc28c6-b107-4ef5-ab29-45dfe4b5c01c"
+      },
+      {
+       "name": "Silvestri Pinot Noir, Carmel Valley",
+       "description": "",
+       "price": 16,
+       "flags": [],
+       "guid": "cfca09bf-9419-4012-b9ef-f4bc3eb9e5fa"
+      },
+      {
+       "name": "Tascante ‘Ghiaia Nera’ Etna Rosso, Sicilia",
+       "description": "",
+       "price": 20,
+       "flags": [],
+       "guid": "eba370be-3185-410c-b1a6-bfeb47e903cc"
+      },
+      {
+       "name": "Vietti Moscato d’Asti (half bottle)",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "f3da602f-4d52-429d-8249-9b7de4053cad"
+      }
+     ]
+    },
+    {
+     "name": "Sparkling",
+     "items": [
+      {
+       "name": "Bele Casel Extra Brut, Prosecco Superiore",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "1ec0839e-2d7b-4abb-8c1f-2a4da8956b25"
+      },
+      {
+       "name": "Caraccioli Brut, Santa Lucia Highlands",
+       "description": "",
+       "price": 95,
+       "flags": [],
+       "guid": "a07a211b-0d04-40f5-b446-7bac32af709b"
+      },
+      {
+       "name": "Col de Salici Brut Rosé, Prosecco",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "094853ad-5e13-484f-8495-0a81bdbd77c0"
+      },
+      {
+       "name": "Dom Pérignon, Champagne",
+       "description": "",
+       "price": 425,
+       "flags": [],
+       "guid": "34bb43c1-768d-4647-adbb-cdd1e2992d0d"
+      },
+      {
+       "name": "Veuve Clicquot Rosé, Champagne",
+       "description": "",
+       "price": 145,
+       "flags": [],
+       "guid": "19f240eb-880d-476d-b720-75040e257069"
+      },
+      {
+       "name": "Ferrari Brut Metodo Classico, Trentodoc",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "4db52053-f60f-43f3-b947-d878d632c2d3"
+      }
+     ]
+    },
+    {
+     "name": "White + Rosé",
+     "items": [
+      {
+       "name": "Antinori ‘A26’ Chardonnay, Atlas Peak, Napa",
+       "description": "",
+       "price": 100,
+       "flags": [],
+       "guid": "809ef18b-0adc-4823-a4f6-1cf7b607277f"
+      },
+      {
+       "name": "Cedar Lane Vineyard Sauvignon Blanc, Arroyo Seco",
+       "description": "",
+       "price": 48,
+       "flags": [],
+       "guid": "ddd5fde0-0724-40ac-8b2c-af55628d0763"
+      },
+      {
+       "name": "Castello della Sala ‘Cervaro’, Umbria (Chardonnay)",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "794e9cb1-6d18-4d2d-bef1-6d75a0b29f1a"
+      },
+      {
+       "name": "Ciro Picariello ‘BruEmm’ Falanghina, Campania",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "a508c0ef-4ab9-465d-9275-6b5fc30ad191"
+      },
+      {
+       "name": "Guado al Tasso Vermentino, Bolgheri",
+       "description": "",
+       "price": 50,
+       "flags": [],
+       "guid": "9be98e52-a35d-4cf6-b867-21abd36c8e02"
+      },
+      {
+       "name": "Jermann Pinot Grigio, Friuli-Venezia Giulia",
+       "description": "",
+       "price": 56,
+       "flags": [],
+       "guid": "c7b5fc15-85e4-4680-8ed0-76b84ec6cbc6"
+      },
+      {
+       "name": "Jermann ‘Vintage Tunina’, Friuli-Venezia Giulia",
+       "description": "",
+       "price": 140,
+       "flags": [],
+       "guid": "35d4f912-53d1-409c-8dad-ebc1b10c2523"
+      },
+      {
+       "name": "Mastroberardino Fiano di Avellino, Campania",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "a8890bc7-c4cc-4c6b-9ddf-4ebaca219983"
+      },
+      {
+       "name": "Mastroberardino Greco di Tufo, Campania",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "e90f394e-a033-437f-97d4-e32a163915fd"
+      },
+      {
+       "name": "Pèpe Chardonnay, Atlas Peak, Napa",
+       "description": "",
+       "price": 60,
+       "flags": [],
+       "guid": "1a862a08-16b8-4234-8f8b-b92732ac5d89"
+      },
+      {
+       "name": "Pèpe Rosé, Atlas Peak, Napa",
+       "description": "",
+       "price": 50,
+       "flags": [],
+       "guid": "89fcb3d5-4383-481a-86e5-6247f99ec228"
+      },
+      {
+       "name": "Pèpe Sauvignon Blanc, Atlas Peak, Napa",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "03f1fab5-c4de-4bfe-b3e3-d13786f76aaf"
+      },
+      {
+       "name": "Rombauer Chardonnay, Carneros, Napa",
+       "description": "",
+       "price": 85,
+       "flags": [],
+       "guid": "1724acec-dc4f-4f87-9e6d-1430a7139d6a"
+      },
+      {
+       "name": "Castello della Sala ‘San Giovanni’ Orvieto Superiore",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "452da9d5-bf81-4b7b-ac04-19def7b51175"
+      },
+      {
+       "name": "Santa Cristina Pinot Grigio, Toscana",
+       "description": "",
+       "price": 46,
+       "flags": [],
+       "guid": "1afbe584-cee0-4dcf-ad06-508334dc94b1"
+      },
+      {
+       "name": "Silvestri Chardonnay, Carmel Valley",
+       "description": "",
+       "price": 55,
+       "flags": [],
+       "guid": "d5e92836-b9c5-4e71-8fbe-88ae739392fd"
+      },
+      {
+       "name": "Stag’s Leap ‘Karia’ Chardonnay, Napa Valley",
+       "description": "",
+       "price": 80,
+       "flags": [],
+       "guid": "6d6912e4-f0bb-4c55-bbdf-63eac3215db0"
+      },
+      {
+       "name": "Stag’s Leap ‘Aveta’ Sauvignon Blanc, Napa Valley",
+       "description": "",
+       "price": 72,
+       "flags": [],
+       "guid": "12f495af-45a4-4879-9c26-e032cfc1f16e"
+      },
+      {
+       "name": "Mastroberardino ‘Stilèma’ Fiano di Avellino, Campania",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "a110a76f-1548-41c1-8d20-3d0798a0df9c"
+      },
+      {
+       "name": "Mastroberardino ‘Stilèma’ Greco di Tufo, Campania",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "c336e72e-934e-4d30-95ef-161ff7a87c67"
+      },
+      {
+       "name": "The Calling Chardonnay, Russian River",
+       "description": "",
+       "price": 58,
+       "flags": [],
+       "guid": "bd8c635d-7522-40bc-8a1c-1f2e12c73748"
+      },
+      {
+       "name": "Velenosi Pecorino, Marche",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "c5617232-eec9-4014-be36-35e5642cf964"
+      }
+     ]
+    },
+    {
+     "name": "Italian Reds",
+     "items": [
+      {
+       "name": "Badia a Passignano Chianti Classico Gran Selezione 2021",
+       "description": "",
+       "price": 110,
+       "flags": [],
+       "guid": "a75c2b09-57e6-4d3e-83c2-f7dc27ea32ef"
+      },
+      {
+       "name": "Biserno ‘Insoglio’, Toscana",
+       "description": "",
+       "price": 72,
+       "flags": [],
+       "guid": "62f1e383-c346-45b9-b720-78e290ec1edd"
+      },
+      {
+       "name": "Cont’Ugo Bolgheri (Merlot) 2022",
+       "description": "",
+       "price": 115,
+       "flags": [],
+       "guid": "e11e0a22-fc83-4ee3-993f-bf7a982a1c40"
+      },
+      {
+       "name": "Conterno Fantino Dolcetto d’Alba 2024",
+       "description": "",
+       "price": 48,
+       "flags": [],
+       "guid": "08ce4fae-6dd4-4219-864b-af5d24904220"
+      },
+      {
+       "name": "Gaja ‘Sito Moresco’ Langhe (Nebbiolo Blend) 2021",
+       "description": "",
+       "price": 160,
+       "flags": [],
+       "guid": "4197e59c-6584-4239-a225-d9ee5eafeac9"
+      },
+      {
+       "name": "Grifalco Aglianico del Vulture 2022",
+       "description": "",
+       "price": 56,
+       "flags": [],
+       "guid": "d2728b0c-5f78-4968-a4fd-7f08ce1bce66"
+      },
+      {
+       "name": "Guado al Tasso Bolgheri Superiore (Cabernet Blend) 2021",
+       "description": "",
+       "price": 250,
+       "flags": [],
+       "guid": "449a92e9-d43d-44bc-bddf-55e87a127436"
+      },
+      {
+       "name": "Guidalberto, Tenuta San Guido",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "feb7159b-9928-4851-b249-a8b44b806500"
+      },
+      {
+       "name": "Il Bruciato Bolgheri (Cabernet Blend) 2024",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "5dbc5f9d-b605-4e8b-aa03-266905d8c96f"
+      },
+      {
+       "name": "La Fiorita Brunello di Montalcino 2018",
+       "description": "",
+       "price": 140,
+       "flags": [],
+       "guid": "e087ba86-5411-4fa4-a6cb-8b4e7882a770"
+      },
+      {
+       "name": "Le Difese, Tenuta San Guido",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "2264525c-c215-44d4-94e6-97083f61248c"
+      },
+      {
+       "name": "Michele Chiarlo ‘Cipressi’ Nizza (Barbera) 2022",
+       "description": "",
+       "price": 64,
+       "flags": [],
+       "guid": "745abd42-65a9-45d6-8793-30adcee5baa0"
+      },
+      {
+       "name": "Marchese Antinori Chianti Classico Riserva 2022",
+       "description": "",
+       "price": 95,
+       "flags": [],
+       "guid": "5257d137-c90a-49a0-b01f-6cba874ade5d"
+      },
+      {
+       "name": "Mastroberardino Lacryma Christi del Vesuvio 2023",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "4f036875-b2e5-4832-8b48-256875896213"
+      },
+      {
+       "name": "Mastroberardino ‘Radici’ Taurasi (Aglianico) 2019",
+       "description": "",
+       "price": 110,
+       "flags": [],
+       "guid": "c4d58811-8192-4177-8a3c-9eddc294e1a6"
+      },
+      {
+       "name": "Mastroberardino ‘Radici’ Taurasi Riserva (Aglianico) 2017",
+       "description": "",
+       "price": 165,
+       "flags": [],
+       "guid": "e4716d53-e975-4068-b185-8e07e5ad877d"
+      },
+      {
+       "name": "Matarocchio Bolgheri (Cabernet Franc) 2009",
+       "description": "",
+       "price": 1095,
+       "flags": [],
+       "guid": "0e09cba3-f533-4f2e-99b2-d111cf0cbeee"
+      },
+      {
+       "name": "Mauro Veglio Barolo 2021",
+       "description": "",
+       "price": 100,
+       "flags": [],
+       "guid": "2b36f978-b8ee-4310-91a7-e41c24542cb6"
+      },
+      {
+       "name": "Monti Garbi Valpolicella Ripasso Classico Superiore 2021",
+       "description": "",
+       "price": 58,
+       "flags": [],
+       "guid": "3552ff64-af6f-4c58-9a13-91998df3e3d2"
+      },
+      {
+       "name": "Ocone ‘Apollo’ Aglianico",
+       "description": "",
+       "price": 48,
+       "flags": [],
+       "guid": "6bd5c273-49af-4b0a-867e-a596c17a711c"
+      },
+      {
+       "name": "Ornellaia, Bolgheri Superiore",
+       "description": "",
+       "price": 395,
+       "flags": [],
+       "guid": "89c0c142-3e62-4de4-91f4-45c1519434fa"
+      },
+      {
+       "name": "Pèppoli Chianti Classico ‘Single Vineyard’ 2023",
+       "description": "",
+       "price": 60,
+       "flags": [],
+       "guid": "57178993-d027-4cb7-9803-7397422bbbe6"
+      },
+      {
+       "name": "Pian delle Vigne Rosso di Montalcino 2023",
+       "description": "",
+       "price": 68,
+       "flags": [],
+       "guid": "945fb7a5-4e4c-4926-a855-d9a0854f7b31"
+      },
+      {
+       "name": "Pian delle Vigne Brunello di Montalcino 2020",
+       "description": "",
+       "price": 155,
+       "flags": [],
+       "guid": "789a0c2e-0d31-4663-ad7c-e2177bfe6b8b"
+      },
+      {
+       "name": "Poliziano Vino Nobile di Montepulciano 2022",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "29795dc1-be95-4089-807f-d02374a2d4b5"
+      },
+      {
+       "name": "Prunotto ‘Bric Turot’ Barbaresco ‘Single Vineyard’ 2020",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "43f235bb-1beb-485b-b49c-6ce15dd5f7d0"
+      },
+      {
+       "name": "Prunotto ‘Bussia’ Barolo ‘Single Vineyard’ 2020",
+       "description": "",
+       "price": 195,
+       "flags": [],
+       "guid": "e23ed7e7-d3ef-4fcc-bba6-330e3672a7db"
+      },
+      {
+       "name": "Prunotto ‘Occhetti’ Langhe (Nebbiolo) 2022",
+       "description": "",
+       "price": 62,
+       "flags": [],
+       "guid": "398d9c37-f97f-4b9d-a17e-194873d7fd93"
+      },
+      {
+       "name": "Sassicaia Bolgheri (Cabernet/Cabernet Franc) 2021",
+       "description": "",
+       "price": 625,
+       "flags": [],
+       "guid": "9053778e-dc4f-418c-9c12-03c778c59eaf"
+      },
+      {
+       "name": "Solaia Toscana (Cabernet/Sangiovese) 2019",
+       "description": "",
+       "price": 575,
+       "flags": [],
+       "guid": "f933749a-c4ef-4b0f-ad03-061af9c33f8f"
+      },
+      {
+       "name": "Tascante ‘Ghiaia Nera’ Etna Rosso, Sicilia 2022",
+       "description": "",
+       "price": 80,
+       "flags": [],
+       "guid": "f00b49d7-c43a-4b89-80ba-4905cdf898d8"
+      },
+      {
+       "name": "Tignanello Toscana (Sangiovese/Cabernet) 2021",
+       "description": "",
+       "price": 295,
+       "flags": [],
+       "guid": "05cdda53-d0d9-4cca-866e-b69646662944"
+      },
+      {
+       "name": "Vietti Barolo 2021",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "5b480b34-9db9-442b-b454-b8739e7922bf"
+      },
+      {
+       "name": "Villa Antinori Toscana (Sangiovese) 2022",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "e9a18086-83ed-4ea0-b6d5-b836f33d4c10"
+      }
+     ]
+    },
+    {
+     "name": "California Reds",
+     "items": [
+      {
+       "name": "Antinori ‘Proficio’ Atlas Peak, Napa 2021",
+       "description": "",
+       "price": 495,
+       "flags": [],
+       "guid": "65e3e8cd-62ba-4d3f-9efd-43f9dbc0cfe4"
+      },
+      {
+       "name": "Antinori ‘Townsend’ Atlas Peak, Napa 2019",
+       "description": "",
+       "price": 195,
+       "flags": [],
+       "guid": "1c32d290-9d41-482c-8d71-dd04d29813ee"
+      },
+      {
+       "name": "Bernardus ‘Garys’ Vineyard’ Pinot Noir, Santa Lucia Highlands 2022",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "e5d7299c-26c0-4ca2-a025-a40098e550c9"
+      },
+      {
+       "name": "Boekenoogen Pinot Noir, Santa Lucia Highlands 2022",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "6c85d968-057d-4560-bbd4-9ecf1b35afe4"
+      },
+      {
+       "name": "Cachagua Cabernet Blend",
+       "description": "",
+       "price": 55,
+       "flags": [],
+       "guid": "4aefa93d-1d04-4f1f-bf28-8f6794dfd25a"
+      },
+      {
+       "name": "Cedar Lane ‘Las Arenas’ Grenache/Syrah, Arroyo Seco 2022",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "fcb2aa72-4e31-4c8b-a77b-783bb565fb83"
+      },
+      {
+       "name": "Drouhin ‘Roserock’ Pinot Noir, Eola-Amity Hills, Oregon 2023",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "e5a39db5-0912-41d7-8660-02f1aeebfb6b"
+      },
+      {
+       "name": "Melville ‘Donna’s Block’ Syrah, Sta. Rita Hills 2023",
+       "description": "",
+       "price": 110,
+       "flags": [],
+       "guid": "6bd7b3dd-2a88-4497-ae4b-ecb9ca8d7c7a"
+      },
+      {
+       "name": "Occidental ‘Freestone’ Pinot Noir, West Sonoma Coast 2023",
+       "description": "",
+       "price": 140,
+       "flags": [],
+       "guid": "b627dfc8-2eb6-44fc-8d2c-b8512387fda3"
+      },
+      {
+       "name": "Opus One, Oakville, Napa Valley 2016",
+       "description": "",
+       "price": 695,
+       "flags": [],
+       "guid": "58ce191a-1f5b-4bb8-8e23-c1884f296c14"
+      },
+      {
+       "name": "Pèpe Cabernet Reserve, Atlas Peak, Napa 2022",
+       "description": "",
+       "price": 85,
+       "flags": [],
+       "guid": "20100a22-bddd-425a-951b-e3ff0a421d9e"
+      },
+      {
+       "name": "Pèpe Pinot Noir, Atlas Peak, Napa 2022",
+       "description": "",
+       "price": 66,
+       "flags": [],
+       "guid": "947a86af-97b6-4c5a-bbfa-55dc1f06da9e"
+      },
+      {
+       "name": "Pèpe ‘Vesuvio’ Cabernet Blend, Atlas Peak, Napa 2022",
+       "description": "",
+       "price": 66,
+       "flags": [],
+       "guid": "c38572a6-a0db-43a8-a720-a90135564c38"
+      },
+      {
+       "name": "Russell Joyce Gamay Noir, Arroyo Seco 2023",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "c085deff-907c-4cdb-bec5-2c33b032488f"
+      },
+      {
+       "name": "Silvestri ‘Eugenia’, Carmel Valley",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "b13f79cc-f75f-4652-ac1a-16e95e780c3e"
+      },
+      {
+       "name": "Silvestri Pinot Noir, Carmel Valley 2022",
+       "description": "",
+       "price": 68,
+       "flags": [],
+       "guid": "066380b0-b94a-4708-98af-5f588256ec36"
+      },
+      {
+       "name": "Stag’s Leap ‘Cask 23’ Napa Valley 2014",
+       "description": "",
+       "price": 650,
+       "flags": [],
+       "guid": "abfb46de-dbdf-441a-8eee-929c712234af"
+      },
+      {
+       "name": "Stag’s Leap ‘Artemis’ Cabernet Sauvignon, Napa Valley 2022",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "bcbda8ac-bd61-41bc-9ab4-c79207005bd0"
+      },
+      {
+       "name": "The Calling Cabernet Sauvignon, Alexander Valley 2021",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "9a6daa66-157b-4109-8a6b-2bcabe16282d"
+      },
+      {
+       "name": "The Calling Pinot Noir, Russian River 2022",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "1612d62b-7988-4246-95e9-d65f703f39b9"
+      },
+      {
+       "name": "Galante ‘Red Rose Hill’ Cabernet Sauvignon, Carmel Valley 2021",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "dbd66458-9897-43bf-9fda-1e9a9fc719ec"
+      }
+     ]
+    },
+    {
+     "name": "Magnums",
+     "items": [
+      {
+       "name": "Antica Cabernet Sauvignon, Atlas Peak, Napa 2014 (magnum)",
+       "description": "",
+       "price": 225,
+       "flags": [],
+       "guid": "5e94c9a2-46b7-485a-a191-eb5491c68ff7"
+      },
+      {
+       "name": "Antinori ‘Townsend’ Cabernet Sauvignon, Atlas Peak, Napa 2019 (magnum)",
+       "description": "",
+       "price": 395,
+       "flags": [],
+       "guid": "34865848-ef39-4585-a55a-432e9e531a33"
+      },
+      {
+       "name": "Bernardus ‘Marinus’, Carmel Valley (magnum)",
+       "description": "",
+       "price": 145,
+       "flags": [],
+       "guid": "89a1eb50-edfb-4fcc-92e1-074087cf202d"
+      },
+      {
+       "name": "Cachagua Mountain (magnum)",
+       "description": "",
+       "price": 100,
+       "flags": [],
+       "guid": "8cada41b-f17f-45af-8b9b-785e7c55e97e"
+      },
+      {
+       "name": "Cont’Ugo Bolgheri (Merlot) 2021 (magnum)",
+       "description": "",
+       "price": 195,
+       "flags": [],
+       "guid": "b61f34b7-0888-43b1-9290-4a6d4613ff23"
+      },
+      {
+       "name": "Guado al Tasso Bolgheri Superiore 2001 (magnum)",
+       "description": "",
+       "price": 600,
+       "flags": [],
+       "guid": "f7afa9e3-ca00-4584-b485-981343b4562b"
+      },
+      {
+       "name": "Pèpe Cabernet Reserve, Atlas Peak, Napa 2020 (magnum)",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "359ec8bf-5eae-4c75-9757-1134ad5d7734"
+      },
+      {
+       "name": "Pian delle Vigne Brunello di Montalcino 2018 (magnum)",
+       "description": "",
+       "price": 295,
+       "flags": [],
+       "guid": "c9ce93db-cd63-44dd-8190-3338b7ecdfdb"
+      },
+      {
+       "name": "Stag’s Leap ‘Cask 23’ Napa Valley 2018 (magnum)",
+       "description": "",
+       "price": 995,
+       "flags": [],
+       "guid": "b820bf66-98df-43e6-89f3-ed9023742fa1"
+      },
+      {
+       "name": "Tignanello Toscana 2019 (magnum)",
+       "description": "",
+       "price": 595,
+       "flags": [],
+       "guid": "91d464e0-bebf-4772-9e0f-fe12e5ecfa5a"
+      }
+     ]
+    },
+    {
+     "name": "Half Bottles",
+     "items": [
+      {
+       "name": "Tignanello Toscana 2022 (half bottle)",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "8012fe31-d5ee-4f18-929f-d56e80afbecc"
+      },
+      {
+       "name": "Sassicaia Bolgheri 2020 (half bottle)",
+       "description": "",
+       "price": 300,
+       "flags": [],
+       "guid": "590c6cb9-7590-4131-b209-8ae26865325f"
+      },
+      {
+       "name": "Felsina ‘Rancia’ Chianti Classico Riserva 2020 (half bottle)",
+       "description": "",
+       "price": 65,
+       "flags": [],
+       "guid": "1ee067d4-f79d-439d-a8c5-75b70c81769f"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "drinks",
+   "name": "Drinks",
+   "subtitle": "",
+   "pdf": "",
+   "groups": [
+    {
+     "name": "Cocktails",
+     "items": [
+      {
+       "name": "Old Fashioned",
+       "description": "Doc Pèpe’s Lab barrel-aged: Kentucky straight bourbon, cane sugar, aromatic bitters, cherry juice, orange, cherry slice",
+       "price": 18,
+       "flags": [],
+       "guid": "b21b9be0-7922-4021-8980-0575d81e97df"
+      },
+      {
+       "name": "Old Fashioned Reserve",
+       "description": "Doc Pèpe’s Lab: classic rye Old Fashioned aged one year in rum barrels",
+       "price": 20,
+       "flags": [],
+       "guid": "96c5d936-5a61-4eca-8a67-ebba32a1a9a8"
+      },
+      {
+       "name": "Negroni",
+       "description": "Doc Pèpe’s Lab: London dry gin, Italian vermouth, Campari, orange slice",
+       "price": 18,
+       "flags": [],
+       "guid": "18db15f6-8520-41c9-a7da-3f43f00355c2"
+      },
+      {
+       "name": "Pèpero Spritz",
+       "description": "Pèpero, prosecco, club soda, orange",
+       "price": 18,
+       "flags": [],
+       "guid": "b02bc93e-7d11-4465-a7b6-70f9fdf8b867"
+      },
+      {
+       "name": "The Drop",
+       "description": "Pèpecello limoncello, citrus vodka, raspberry shrub, lemon",
+       "price": 18,
+       "flags": [],
+       "guid": "7ef2b96c-cb29-4a49-a7cf-d7ed9f251d09"
+      },
+      {
+       "name": "Manhattan",
+       "description": "Doc Pèpe’s Lab barrel-aged: straight bourbon whiskey, Italian vermouth, aromatic bitters, aged in American port barrels",
+       "price": 18,
+       "flags": [],
+       "guid": "80976cbd-57ee-4961-b6e3-0b90483c46f0"
+      },
+      {
+       "name": "Manhattan Reserve",
+       "description": "Doc Pèpe’s Lab: classic rye Manhattan aged one year in tawny port casks",
+       "price": 20,
+       "flags": [],
+       "guid": "b2d47359-a0e4-42ca-9069-d6b66848049c"
+      },
+      {
+       "name": "Pèpecello Spritz",
+       "description": "Pèpecello limoncello, prosecco, fresh mint & basil",
+       "price": 18,
+       "flags": [],
+       "guid": "99b0f5e8-56d1-41c9-9206-8bcaf0e7eb58"
+      },
+      {
+       "name": "Pèpero Sling",
+       "description": "Pèpero, pineapple, aromatic bitters, lime",
+       "price": 18,
+       "flags": [],
+       "guid": "ca10d56e-1cd1-4bef-80cc-c90903d09e43"
+      },
+      {
+       "name": "Dirty Doc 2.0",
+       "description": "Doc’s Vodka, house olive-pickle-pepperoncini brine, rosemary olive oil, blue cheese olives",
+       "price": 18,
+       "flags": [],
+       "guid": "ff0def30-e341-41c8-826c-5e07d7a5dd1d"
+      },
+      {
+       "name": "Lava Candy",
+       "description": "Patrón Reposado tequila, strawberry shrub, passionfruit syrup, chamoy, lime, fire tincture, Tajín",
+       "price": 18,
+       "flags": [],
+       "guid": "25ae4700-eb3a-422b-8d8b-cea98ed42f5b"
+      },
+      {
+       "name": "Maneater",
+       "description": "Malfy Blood Orange gin, DPL Ginger Liqueur, strawberry shrub, lime, basil, prosecco",
+       "price": 18,
+       "flags": [],
+       "guid": "bb1e05cc-ae27-43c8-837d-458803b05f9e"
+      },
+      {
+       "name": "Purple Haze",
+       "description": "blanco tequila, DPL Pear Liqueur, prickly pear, butterfly pea flower, ginger bitters, lime",
+       "price": 18,
+       "flags": [],
+       "guid": "d60fd7a9-ae12-40e8-8016-88209a56b069"
+      },
+      {
+       "name": "Smoke Show",
+       "description": "Vida mezcal, almond orgeat, peach/mango preserves, lime, basil, smoked sea salt",
+       "price": 18,
+       "flags": [],
+       "guid": "6b664222-2ab1-48ba-9512-11ddee2e007a"
+      },
+      {
+       "name": "Vesuvio Sour",
+       "description": "Angel’s Envy bourbon, amaretto, passionfruit syrup, Benedictine, lemon, Vesuvio Cabernet float",
+       "price": 18,
+       "flags": [],
+       "guid": "963e7b6c-87d1-4b9d-b966-39ddbe3ba409"
+      },
+      {
+       "name": "Bel Canto",
+       "description": "Mt. Gay Barbados rum, DPL Bitter Italiano, raspberry shrub, almond orgeat, passionfruit, lime, overproof rum float",
+       "price": 18,
+       "flags": [],
+       "guid": "72d493f7-f0fb-4eec-b153-20ca4ef98364"
+      },
+      {
+       "name": "Starlight Crush",
+       "description": "Doc’s Vodka, DPL Hibiscus Liqueur, strawberry shrub, lime, soda",
+       "price": 18,
+       "flags": [],
+       "guid": "8e8f573d-520f-4854-be7f-66314501aa35"
+      },
+      {
+       "name": "Chocolate Martini",
+       "description": "Doc’s Vodka, Dorda Chocolate Liqueur, Frangelico, Baileys",
+       "price": 16,
+       "flags": [],
+       "guid": "67dbbd45-85f0-4084-9709-da1a6b5e195b"
+      },
+      {
+       "name": "Espresso Martini",
+       "description": "Doc’s Vodka, espresso, DPL Espresso Liqueur",
+       "price": 16,
+       "flags": [],
+       "guid": "36299eae-54a0-460c-82d1-0da616e58c58"
+      },
+      {
+       "name": "Greco’s Nightcap",
+       "description": "Fernet Branca, DPL Espresso Liqueur, espresso",
+       "price": 16,
+       "flags": [],
+       "guid": "c732f088-c525-4591-9d93-9a0339e1d7ed"
+      },
+      {
+       "name": "The Three Tenors",
+       "description": "Humboldt Spiced Rum, Lazzaroni Amaretto, DPL Espresso Liqueur",
+       "price": 16,
+       "flags": [],
+       "guid": "1d0cfab3-15c7-4539-bf40-87da0bac5cb9"
+      }
+     ]
+    },
+    {
+     "name": "Like a Virgin (non-alcoholic)",
+     "items": [
+      {
+       "name": "Chew On This",
+       "description": "chamoy, pineapple, passion fruit, Tajín, lime, soda",
+       "price": 11,
+       "flags": [],
+       "guid": "29116913-8576-407a-b80e-3a215b979ea3"
+      },
+      {
+       "name": "Puttin' On The Spritz",
+       "description": "house strawberry shrub, The Dew, DPL Cherry Bark/Vanilla Bitters, lime, wild rosemary",
+       "price": 11,
+       "flags": [],
+       "guid": "b14f145c-bfc5-4f0a-8671-3338f532fff8"
+      },
+      {
+       "name": "Shrub-A-Dub-Dub",
+       "description": "Pèpe raspberry shrub, DPL Lavender Bitters, lemon, edible flower, soda",
+       "price": 11,
+       "flags": [],
+       "guid": "e8c168d3-899e-4b9e-aaa8-0dcb60a1905a"
+      }
+     ]
+    },
+    {
+     "name": "On Draft",
+     "items": [
+      {
+       "name": "Menabrea Bionda",
+       "description": "Menabrea Birreria Bionda lager, Piemonte, Italia",
+       "price": 9,
+       "flags": [],
+       "guid": "9b2244c5-4633-43f6-8768-83ffccdd1af3"
+      },
+      {
+       "name": "Alvarado Street Mai Tai IPA",
+       "description": "Alvarado Street Brewery Mai Tai IPA, Monterey CA",
+       "price": 9,
+       "flags": [],
+       "guid": "5851eff5-8725-4c22-a13d-ff2890d7898a"
+      }
+     ]
+    },
+    {
+     "name": "In Bottle",
+     "items": [
+      {
+       "name": "Allagash White",
+       "description": "white wheat ale, Portland ME",
+       "price": 8,
+       "flags": [],
+       "guid": "3e3b6963-3c77-4cc0-98d5-15e5393e4ca5"
+      },
+      {
+       "name": "Boont Amber",
+       "description": "Anderson Valley amber ale, Mendocino CA",
+       "price": 9,
+       "flags": [],
+       "guid": "a0745278-be22-40f6-b814-7ea20e26c427"
+      },
+      {
+       "name": "Coors Light",
+       "description": "lager, Golden CO",
+       "price": 7,
+       "flags": [],
+       "guid": "a43cad80-e25e-42f0-a65d-ddebc42243d2"
+      },
+      {
+       "name": "Modelo",
+       "description": "pilsner-style lager, Mexico",
+       "price": 7,
+       "flags": [],
+       "guid": "c4fb6275-faa6-46da-8ff6-98ec8b385b44"
+      },
+      {
+       "name": "Erdinger N/A",
+       "description": "Erdinger N/A, Germany",
+       "price": 7,
+       "flags": [],
+       "guid": "c84ba28b-35d1-4930-a063-287b38f40ecf"
+      }
+     ]
+    }
+   ]
   }
  ],
- "configHash": "06161bc0ee78"
+ "configHash": "c96383eb9b86"
 }
