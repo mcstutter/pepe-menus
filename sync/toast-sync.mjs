@@ -87,11 +87,13 @@ function flagsFor(item, cfg) {
   return [...new Set(flags)];
 }
 
-function stripPrefix(name, cfg) {
+function stripPrefix(name, cfg, w = {}) {
   let n = (name || "").trim();
-  for (const p of cfg.stripPrefixes || []) {
+  for (const p of [...(cfg.stripPrefixes || []), ...(w.stripPrefixes || [])]) {
     if (n.toLowerCase().startsWith(p.toLowerCase())) n = n.slice(p.length).trim();
   }
+  const rn = { ...(cfg.rename || {}), ...(w.rename || {}) };
+  for (const [from, to] of Object.entries(rn)) if (norm(from) === norm(n)) return to;
   return n;
 }
 
@@ -102,8 +104,15 @@ function groupWanted(group, w) {
   return true;
 }
 
-function hiddenByRule(it, cfg) {
-  if ((cfg.hideItems || []).map(norm).includes(norm(it.name))) return true;
+function hiddenByRule(it, cfg, w = {}, groupName = "") {
+  if (Array.isArray(it.visibility) && it.visibility.length === 0) return true; // hidden everywhere in Toast
+  const hideNames = [...(cfg.hideItems || []), ...(w.hideItems || []), ...((w.hideInGroups || {})[groupName] || [])].map(norm);
+  if (hideNames.includes(norm(it.name))) return true;
+  const only = (w.groupItemPatterns || {})[groupName];
+  if (only && !new RegExp(only, "i").test(it.name || "")) return true;
+  for (const pat of w.hidePatterns || []) {
+    if (new RegExp(pat, "i").test(it.name || "")) return true;
+  }
   if (cfg.hideZeroPrice !== false && typeof it.price === "number" && it.price <= 0 && !it.pricingRules?.sizeSequencePricingRules?.length) return true;
   for (const pat of cfg.hidePatterns || []) {
     if (new RegExp(pat, "i").test(it.name || "")) return true;
@@ -111,12 +120,12 @@ function hiddenByRule(it, cfg) {
   return false;
 }
 
-function transformGroup(group, cfg, channels) {
+function transformGroup(group, cfg, channels, w = {}) {
   const items = (group.menuItems || [])
     .filter((it) => visibleOn(it, channels))
-    .filter((it) => !hiddenByRule(it, cfg))
+    .filter((it) => !hiddenByRule(it, cfg, w, group.name))
     .map((it) => ({
-      name: stripPrefix(it.name, cfg),
+      name: stripPrefix(it.name, cfg, w),
       description: it.description || "",
       ...itemPrices(it),
       flags: flagsFor(it, cfg),
@@ -125,7 +134,7 @@ function transformGroup(group, cfg, channels) {
   const out = { name: group.name, items };
   if (group.description) out.note = group.description;
   // Nested groups flatten into sibling groups after the parent
-  const nested = (group.menuGroups || []).filter((g) => visibleOn(g, channels)).map((g) => transformGroup(g, cfg, channels));
+  const nested = (group.menuGroups || []).filter((g) => visibleOn(g, channels)).map((g) => transformGroup(g, cfg, channels, w));
   return [out, ...nested.flat()];
 }
 
@@ -144,8 +153,8 @@ export function transform(raw, cfg) {
     const groups = (m.menuGroups || [])
       .filter((g) => visibleOn(g, channels))
       .filter((g) => groupWanted(g, w))
-      .flatMap((g) => transformGroup(g, cfg, channels))
-      .map((g) => ({ ...g, name: stripPrefix(g.name, cfg) }))
+      .flatMap((g) => transformGroup(g, cfg, channels, w))
+      .map((g) => ({ ...g, name: (w.groupNames || {})[g.name] || stripPrefix(g.name, cfg) }))
       .filter((g) => g.items.length > 0);
     menus.push({ slug: w.slug, name: w.name || m.name, subtitle: w.subtitle || "", pdf: w.pdf || "", groups });
   }
