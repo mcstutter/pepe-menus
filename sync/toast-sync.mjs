@@ -124,7 +124,7 @@ function hiddenByRule(it, cfg, w = {}, groupName = "") {
   return false;
 }
 
-function transformGroup(group, cfg, channels, w = {}) {
+function transformGroup(group, cfg, channels, w = {}, parentName = null) {
   const items = (group.menuItems || [])
     // Website rule: an item shows only if it is on in Toast for the menu's channels (online ordering),
     // unless it is a printed, dine-in-only dish listed in alwaysShow.
@@ -140,8 +140,15 @@ function transformGroup(group, cfg, channels, w = {}) {
     }));
   const out = { name: group.name, items };
   if (group.description) out.note = group.description;
+  // Sections from Toast's own nesting: a subgroup's section is its parent group (mapped through sectionNames),
+  // a top-level group's section comes from sectionOf. Used by the wine list (Italy / United States / ...).
+  if (w.sections) {
+    const map = w.sectionNames || {};
+    const sec = parentName ? (map[parentName] || parentName) : (w.sectionOf || {})[group.name];
+    if (sec) out.section = sec;
+  }
   // Nested groups flatten into sibling groups after the parent
-  const nested = (group.menuGroups || []).map((g) => transformGroup(g, cfg, channels, w));
+  const nested = (group.menuGroups || []).map((g) => transformGroup(g, cfg, channels, w, group.name));
   return [out, ...nested.flat()];
 }
 
@@ -191,6 +198,17 @@ export function transform(raw, cfg) {
       .filter((g) => g.items.length > 0);
     let out = groups;
     if (w.regroup) out = regroup(groups, w.regroup);
+    if (w.sections) {
+      const order = w.sections.map(norm);
+      out = out.filter((g) => g.section && order.includes(norm(g.section)));
+      out.sort((a, b) => order.indexOf(norm(a.section)) - order.indexOf(norm(b.section)));
+      const byPrice = (dir) => (a, b) => ((typeof a.price === "number" ? a.price : 0) - (typeof b.price === "number" ? b.price : 0)) * dir;
+      for (const g of out) {
+        const how = (w.sortBy || {})[g.section] || (w.sortBy || {})["*"];
+        if (how === "price-asc") g.items.sort(byPrice(1));
+        if (how === "price-desc") g.items.sort(byPrice(-1));
+      }
+    }
     if (w.dedupe) {
       // One entry per Toast item within a section (or the whole menu when there are no sections).
       const seen = new Map();
@@ -203,7 +221,7 @@ export function transform(raw, cfg) {
     }
     for (const g of out) for (const i of g.items) delete i.raw;
     if (out !== groups) { groups.length = 0; groups.push(...out); }
-    if (w.groupOrder && !w.regroup) {
+    if (w.groupOrder && !w.regroup && !w.sections) {
       const rank = (g) => { const k = w.groupOrder.map(norm).indexOf(norm(g.name)); return k < 0 ? 999 : k; };
       groups.sort((a, b) => rank(a) - rank(b));
     }
