@@ -14,14 +14,31 @@
         "Off-Menu",
         "Kids"
       ],
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf"
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf",
+      "hideItems": [
+        "Farmer's Market Pie",
+        "Vegan Pizza",
+        "Heirloom Tomato Caprese",
+        "Ribeye Cap Steak"
+      ],
+      "hideInGroups": {
+        "Pasta": [
+          "Cioppino Rosso"
+        ],
+        "Specialties": [
+          "Halibut"
+        ]
+      }
     },
     {
       "toastName": "Happy Hour",
       "slug": "happy-hour",
       "name": "Happy Hour",
       "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.",
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf"
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf",
+      "hideItems": [
+        "Nectarine Pie"
+      ]
     },
     {
       "toastName": "Food",
@@ -31,7 +48,51 @@
       "groups": [
         "Dessert"
       ],
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf"
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf",
+      "hidePatterns": [
+        "^Child "
+      ]
+    },
+    {
+      "toastName": "Food",
+      "slug": "kids",
+      "name": "Kids",
+      "subtitle": "",
+      "groups": [
+        "Kids",
+        "Dessert"
+      ],
+      "groupItemPatterns": {
+        "Dessert": "^Child "
+      },
+      "groupNames": {
+        "Dessert": "Kids Dessert"
+      },
+      "stripPrefixes": [
+        "Child "
+      ],
+      "rename": {
+        "Cheese": "Cheese Pizza",
+        "Pepperoni": "Pepperoni Pizza",
+        "Pasta / Sauce": "Pasta with Sauce",
+        "Penne/Pesto": "Penne Pesto",
+        "Spaghetti Meatball": "Spaghetti & Meatball"
+      },
+      "pdf": ""
+    },
+    {
+      "toastName": "Wines",
+      "slug": "wine",
+      "name": "Wine",
+      "subtitle": "",
+      "pdf": ""
+    },
+    {
+      "toastName": "Drinks",
+      "slug": "drinks",
+      "name": "Drinks",
+      "subtitle": "",
+      "pdf": ""
     }
   ],
   "stripPrefixes": [
@@ -72,7 +133,6 @@
   "hidePatterns": [
     "\\(1\\)$",
     "^Side ",
-    "^Child ",
     "Fee",
     "See Modifier",
     "^Gluten Free Pizza Crust",
@@ -85,5 +145,13 @@
     "Biscotti",
     "^Vanilla Ice Cream"
   ],
-  "hideZeroPrice": true
+  "hideZeroPrice": true,
+  "rename": {
+    "Tiramisu": "Tiramisù",
+    "Crème Brulée": "Crème Brûlée",
+    "Pepe Board": "Pèpe Board",
+    "Abbruzzese": "Abruzzese",
+    "Artichoke Crochette (4)": "Artichoke Crocchette (4)",
+    "Clam & Mussel Saute": "Clam & Mussel Sauté"
+  }
 }
