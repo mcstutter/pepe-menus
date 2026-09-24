@@ -3,7 +3,7 @@
  "location": "Carmel-by-the-Sea",
  "source": "toast",
  "toastLastUpdated": "2026-09-17T03:32:42.794+0000",
- "updated": "2026-09-24T13:31:32.318Z",
+ "updated": "2026-09-24T13:39:20.373Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -14,7 +14,7 @@
    "slug": "dinner",
    "name": "Dinner",
    "subtitle": "",
-   "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf",
+   "pdf": "",
    "groups": [
     {
      "name": "Appetizers",
@@ -507,7 +507,7 @@
    "slug": "happy-hour",
    "name": "Happy Hour",
    "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.",
-   "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf",
+   "pdf": "",
    "groups": [
     {
      "name": "Appetizers",
@@ -824,7 +824,7 @@
    "slug": "dessert",
    "name": "Dessert",
    "subtitle": "La dolce vita",
-   "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf",
+   "pdf": "",
    "groups": [
     {
      "name": "Dessert",
@@ -1867,72 +1867,6 @@
    "pdf": "",
    "groups": [
     {
-     "name": "Like a Virgin (non-alcoholic)",
-     "items": [
-      {
-       "name": "Chew On This",
-       "description": "",
-       "price": 11,
-       "flags": [],
-       "guid": "29116913-8576-407a-b80e-3a215b979ea3"
-      },
-      {
-       "name": "Puttin' On The Spritz",
-       "description": "",
-       "price": 11,
-       "flags": [],
-       "guid": "b14f145c-bfc5-4f0a-8671-3338f532fff8"
-      },
-      {
-       "name": "Shrub-A-Dub-Dub",
-       "description": "",
-       "price": 11,
-       "flags": [],
-       "guid": "e8c168d3-899e-4b9e-aaa8-0dcb60a1905a"
-      }
-     ]
-    },
-    {
-     "name": "In Bottle",
-     "items": [
-      {
-       "name": "Allagash White",
-       "description": "",
-       "price": 8,
-       "flags": [],
-       "guid": "3e3b6963-3c77-4cc0-98d5-15e5393e4ca5"
-      },
-      {
-       "name": "Boont Amber",
-       "description": "",
-       "price": 9,
-       "flags": [],
-       "guid": "a0745278-be22-40f6-b814-7ea20e26c427"
-      },
-      {
-       "name": "Coors Light",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "a43cad80-e25e-42f0-a65d-ddebc42243d2"
-      },
-      {
-       "name": "Modelo",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "c4fb6275-faa6-46da-8ff6-98ec8b385b44"
-      },
-      {
-       "name": "Erdinger N/A",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "c84ba28b-35d1-4930-a063-287b38f40ecf"
-      }
-     ]
-    },
-    {
      "name": "Cocktails",
      "items": [
       {
@@ -2085,6 +2019,32 @@
      ]
     },
     {
+     "name": "Like a Virgin (non-alcoholic)",
+     "items": [
+      {
+       "name": "Chew On This",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "29116913-8576-407a-b80e-3a215b979ea3"
+      },
+      {
+       "name": "Puttin' On The Spritz",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "b14f145c-bfc5-4f0a-8671-3338f532fff8"
+      },
+      {
+       "name": "Shrub-A-Dub-Dub",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "e8c168d3-899e-4b9e-aaa8-0dcb60a1905a"
+      }
+     ]
+    },
+    {
      "name": "On Draft",
      "items": [
       {
@@ -2102,9 +2062,49 @@
        "guid": "5851eff5-8725-4c22-a13d-ff2890d7898a"
       }
      ]
+    },
+    {
+     "name": "In Bottle",
+     "items": [
+      {
+       "name": "Allagash White",
+       "description": "",
+       "price": 8,
+       "flags": [],
+       "guid": "3e3b6963-3c77-4cc0-98d5-15e5393e4ca5"
+      },
+      {
+       "name": "Boont Amber",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "a0745278-be22-40f6-b814-7ea20e26c427"
+      },
+      {
+       "name": "Coors Light",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "a43cad80-e25e-42f0-a65d-ddebc42243d2"
+      },
+      {
+       "name": "Modelo",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "c4fb6275-faa6-46da-8ff6-98ec8b385b44"
+      },
+      {
+       "name": "Erdinger N/A",
+       "description": "",
+       "price": 7,
+       "flags": [],
+       "guid": "c84ba28b-35d1-4930-a063-287b38f40ecf"
+      }
+     ]
     }
    ]
   }
  ],
- "configHash": "24c2d2b76315"
+ "configHash": "281925312ce1"
 }
