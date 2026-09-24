@@ -16,6 +16,7 @@
 //   Any failure exits 1 and leaves the last good file untouched, so the website never goes blank.
 
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { createHash } from "node:crypto";
 
 const HOST = process.env.TOAST_HOST || "https://ws-api.toasttab.com";
 const CLIENT_ID = process.env.TOAST_CLIENT_ID;
@@ -156,11 +157,13 @@ async function main() {
   if (!CLIENT_ID || !CLIENT_SECRET || !RESTAURANT) {
     throw new Error("Missing TOAST_CLIENT_ID, TOAST_CLIENT_SECRET or TOAST_RESTAURANT_GUID");
   }
-  const config = JSON.parse(readFileSync(CONFIG_PATH, "utf8"));
+  const configText = readFileSync(CONFIG_PATH, "utf8");
+  const config = JSON.parse(configText);
+  const configHash = createHash("sha256").update(configText).digest("hex").slice(0, 12);
   const token = await login();
   const meta = await get("/menus/v2/metadata", token);
   const existing = existsSync(OUT_PATH) ? JSON.parse(readFileSync(OUT_PATH, "utf8")) : null;
-  if (existing?.source === "toast" && meta?.lastUpdated && existing.toastLastUpdated === meta.lastUpdated) {
+  if (existing?.source === "toast" && meta?.lastUpdated && existing.toastLastUpdated === meta.lastUpdated && existing.configHash === configHash) {
     console.log(`unchanged (Toast lastUpdated ${meta.lastUpdated}); nothing written`);
     return;
   }
@@ -173,6 +176,7 @@ async function main() {
   }));
   writeFileSync(OUT_PATH.replace(/[^/]+$/, "_structure.json"), JSON.stringify(structure, null, 1) + "\n");
   const out = transform(raw, config);
+  out.configHash = configHash;
   const total = out.menus.reduce((n, m) => n + m.groups.reduce((k, g) => k + g.items.length, 0), 0);
   if (out.menus.length === 0 || total < (config.minItems || 10)) {
     throw new Error(`refusing to write: ${out.menus.length} menus, ${total} items (below minItems)`);
