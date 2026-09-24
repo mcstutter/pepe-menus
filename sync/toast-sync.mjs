@@ -93,6 +93,10 @@ function stripPrefix(name, cfg, w = {}) {
     if (n.toLowerCase().startsWith(p.toLowerCase())) n = n.slice(p.length).trim();
   }
   const rn = { ...(cfg.rename || {}), ...(w.rename || {}) };
+  for (const [from, to] of Object.entries(rn)) if (norm(from) === norm(name)) return to;
+  for (const suf of w.stripSuffixes || []) {
+    if (n.toLowerCase().endsWith(suf.toLowerCase())) n = n.slice(0, -suf.length).trim();
+  }
   for (const [from, to] of Object.entries(rn)) if (norm(from) === norm(n)) return to;
   return n;
 }
@@ -126,6 +130,7 @@ function transformGroup(group, cfg, channels, w = {}) {
     .filter((it) => !hiddenByRule(it, cfg, w, group.name))
     .map((it) => ({
       name: stripPrefix(it.name, cfg, w),
+      raw: it.name,
       description: it.description || "",
       ...itemPrices(it),
       flags: flagsFor(it, cfg),
@@ -156,7 +161,16 @@ export function transform(raw, cfg) {
       .flatMap((g) => transformGroup(g, cfg, channels, w))
       .map((g) => ({ ...g, name: (w.groupNames || {})[g.name] || stripPrefix(g.name, cfg) }))
       .filter((g) => g.items.length > 0);
-    menus.push({ slug: w.slug, name: w.name || m.name, subtitle: w.subtitle || "", pdf: w.pdf || "", groups });
+    if (w.dedupe) {
+      const seen = new Set();
+      for (const g of groups) g.items = g.items.filter((i) => (seen.has(norm(i.raw)) ? false : seen.add(norm(i.raw))));
+    }
+    for (const g of groups) for (const i of g.items) delete i.raw;
+    if (w.groupOrder) {
+      const rank = (g) => { const k = w.groupOrder.map(norm).indexOf(norm(g.name)); return k < 0 ? 999 : k; };
+      groups.sort((a, b) => rank(a) - rank(b));
+    }
+    menus.push({ slug: w.slug, name: w.name || m.name, subtitle: w.subtitle || "", pdf: w.pdf || "", groups: groups.filter((g) => g.items.length > 0) });
   }
   return {
     restaurant: cfg.restaurant,
