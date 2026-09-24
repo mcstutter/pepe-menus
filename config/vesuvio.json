@@ -15,12 +15,7 @@
         "Kids"
       ],
       "pdf": "",
-      "hideItems": [
-        "Farmer's Market Pie",
-        "Vegan Pizza",
-        "Heirloom Tomato Caprese",
-        "Ribeye Cap Steak"
-      ],
+      "hideItems": [],
       "hideInGroups": {
         "Pasta": [
           "Cioppino Rosso"
@@ -28,7 +23,10 @@
         "Specialties": [
           "Halibut"
         ]
-      }
+      },
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ]
     },
     {
       "toastName": "Happy Hour",
@@ -44,13 +42,16 @@
       "toastName": "Food",
       "slug": "dessert",
       "name": "Dessert",
-      "subtitle": "La dolce vita",
+      "subtitle": "",
       "groups": [
         "Dessert"
       ],
       "pdf": "",
       "hidePatterns": [
         "^Child "
+      ],
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
       ]
     },
     {
@@ -78,7 +79,10 @@
         "Penne/Pesto": "Penne Pesto",
         "Spaghetti Meatball": "Spaghetti & Meatball"
       },
-      "pdf": ""
+      "pdf": "",
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ]
     },
     {
       "toastName": "Wines",
