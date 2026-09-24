@@ -1,0 +1,51 @@
+name: Sync menus from Toast
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:          # "Run workflow" button for a manual refresh
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: menus
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Pull Vesuvio menus from Toast
+        env:
+          TOAST_CLIENT_ID: ${{ secrets.TOAST_CLIENT_ID }}
+          TOAST_CLIENT_SECRET: ${{ secrets.TOAST_CLIENT_SECRET }}
+          TOAST_RESTAURANT_GUID: ${{ secrets.TOAST_RESTAURANT_GUID }}
+        run: node sync/toast-sync.mjs
+      - name: Commit if changed
+        id: commit
+        run: |
+          git config user.name "menu-sync"
+          git config user.email "menu-sync@users.noreply.github.com"
+          if git diff --quiet -- menus; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git add menus
+            git commit -m "menus: sync from Toast $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Upload site
+        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy to GitHub Pages
+        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/deploy-pages@v4
