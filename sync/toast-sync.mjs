@@ -201,7 +201,10 @@ export function transform(raw, cfg) {
     if (w.sections) {
       const order = w.sections.map(norm);
       out = out.filter((g) => g.section && order.includes(norm(g.section)));
-      out.sort((a, b) => order.indexOf(norm(a.section)) - order.indexOf(norm(b.section)));
+      // groupOrder entries may be "Section > Group" to disambiguate names reused across sections.
+      const go = (w.groupOrder || []).map(norm);
+      const gRank = (g) => { let k = go.indexOf(norm(g.section + " > " + g.name)); if (k < 0) k = go.indexOf(norm(g.name)); return k < 0 ? 999 : k; };
+      out.sort((a, b) => (order.indexOf(norm(a.section)) - order.indexOf(norm(b.section))) || (gRank(a) - gRank(b)));
       const byPrice = (dir) => (a, b) => ((typeof a.price === "number" ? a.price : 0) - (typeof b.price === "number" ? b.price : 0)) * dir;
       for (const g of out) {
         const how = (w.sortBy || {})[g.section] || (w.sortBy || {})["*"];
