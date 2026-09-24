@@ -107,33 +107,19 @@
       "name": "Wine",
       "subtitle": "Corkage $30 per 750ml.",
       "pdf": "",
-      "excludeGroups": [
-        "Dessert Wines",
-        "Glass",
-        "Half Bottle"
-      ],
       "hideItems": [
         "House Red GL",
-        "House White GL"
+        "House White GL",
+        "Corkage Fee"
       ],
       "hideInGroups": {
-        "Sparkling": [
-          "Adami Prosecco HALF",
-          "Vietti Moscato d'Asti 1/2 BTL"
-        ],
-        "Italian Reds": [
-          "Felsina Rancia HALF",
-          "Sassicaia HALF",
-          "Tignanello HALF"
-        ],
         "Half Bottles": [
           "Vietti Moscato HALF",
           "Adami Prosecco HALF"
         ]
       },
       "groupNames": {
-        "White": "White + Rosé",
-        "Large Format": "Magnums",
+        "Large Format": "Magnums | 1.5L",
         "Half Bottles": "Half Bottles"
       },
       "dedupe": true,
@@ -264,154 +250,22 @@
       "channels": [
         "TOAST_ONLINE_ORDERING"
       ],
-      "regroup": {
-        "sections": [
-          "By the Glass",
-          "Italy",
-          "United States",
-          "France",
-          "Other Formats"
-        ],
-        "groups": [
-          {
-            "section": "By the Glass",
-            "name": "Bubbles",
-            "from": [
-              "By the Glass"
-            ],
-            "match": "prosecco|brut|moscato|champagne|sparkling|spumante|franciacorta",
-            "items": [
-              "Adami Prosecco HALF",
-              "Vietti Moscato HALF"
-            ],
-            "sort": "price-desc"
-          },
-          {
-            "section": "By the Glass",
-            "name": "White + Rosé",
-            "from": [
-              "By the Glass"
-            ],
-            "match": "chardonnay|grigio|vermentino|sauvignon|pecorino|falanghina|fiano|greco|orvieto|riesling|albari|blanc|bianco|ros[eé]",
-            "sort": "price-desc"
-          },
-          {
-            "section": "By the Glass",
-            "name": "Red",
-            "from": [
-              "By the Glass"
-            ],
-            "sort": "price-desc"
-          },
-          {
-            "section": "Italy",
-            "name": "Sparkling",
-            "from": [
-              "Sparkling"
-            ],
-            "match": "prosecco|moscato|trentodoc|franciacorta|lambrusco|asti|italia",
-            "items": [
-              "Adami Prosecco HALF",
-              "Vietti Moscato HALF"
-            ],
-            "sort": "price-asc"
-          },
-          {
-            "section": "France",
-            "name": "Champagne",
-            "from": [
-              "Sparkling"
-            ],
-            "match": "champagne|p[ée]rignon|veuve|mo[eë]t|krug|cristal",
-            "sort": "price-asc"
-          },
-          {
-            "section": "Italy",
-            "name": "White + Rosé",
-            "from": [
-              "White + Rosé"
-            ],
-            "match": "pecorino|vermentino|falanghina|grigio|greco|fiano|orvieto|umbria|marche|bolgheri|campania|friuli|toscana|sicilia|piemonte|alto adige|soave|gavi|tunina|cervaro",
-            "sort": "price-asc"
-          },
-          {
-            "section": "Italy",
-            "name": "Southern Italian Red",
-            "from": [
-              "Italian Reds"
-            ],
-            "match": "etna|sicilia|aglianico|campania|taurasi|lacryma|vulture|apollo|primitivo|nero d.avola|puglia|basilicata",
-            "sort": "price-asc"
-          },
-          {
-            "section": "Italy",
-            "name": "Super Tuscan",
-            "from": [
-              "Italian Reds"
-            ],
-            "match": "bolgheri|tignanello|solaia|sassicaia|matarocchio|cont.?ugo|bruciato|guado al tasso|insoglio|guidalberto|le difese|ornellaia|masseto",
-            "sort": "price-asc"
-          },
-          {
-            "section": "Italy",
-            "name": "Northern Italian Red",
-            "from": [
-              "Italian Reds"
-            ],
-            "sort": "price-asc"
-          },
-          {
-            "section": "United States",
-            "name": "White + Rosé + Sparkling",
-            "from": [
-              "Sparkling",
-              "White + Rosé"
-            ],
-            "sort": "price-asc"
-          },
-          {
-            "section": "United States",
-            "name": "Pinot Noir",
-            "from": [
-              "California Reds"
-            ],
-            "match": "pinot",
-            "sort": "price-asc"
-          },
-          {
-            "section": "United States",
-            "name": "Cabernet Sauvignon",
-            "from": [
-              "California Reds"
-            ],
-            "match": "cabernet|cab blend|opus one|cask 23|artemis|townsend|proficio|red rose hill",
-            "sort": "price-asc"
-          },
-          {
-            "section": "United States",
-            "name": "Other Varietals",
-            "from": [
-              "California Reds"
-            ],
-            "sort": "price-asc"
-          },
-          {
-            "section": "Other Formats",
-            "name": "Magnums | 1.5L",
-            "from": [
-              "Magnums"
-            ],
-            "sort": "price-asc"
-          },
-          {
-            "section": "Other Formats",
-            "name": "Half Bottles",
-            "from": [
-              "Half Bottles"
-            ],
-            "sort": "price-asc"
-          }
-        ]
+      "sections": [
+        "By the Glass",
+        "Italy",
+        "United States",
+        "France",
+        "Other Formats"
+      ],
+      "sectionOf": {
+        "Champagne": "France",
+        "Large Format": "Other Formats",
+        "Half Bottles": "Other Formats"
+      },
+      "sectionNames": {},
+      "sortBy": {
+        "By the Glass": "price-desc",
+        "*": "price-asc"
       }
     },
     {
