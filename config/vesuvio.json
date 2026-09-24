@@ -4,10 +4,11 @@
   "channels": [],
   "minItems": 25,
   "menus": [
-    { "toastName": "Dinner", "slug": "dinner", "name": "Dinner", "subtitle": "", "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf" },
-    { "toastName": "Happy Hour", "slug": "happy-hour", "name": "Happy Hour", "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at both bars", "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf" },
-    { "toastName": "Dessert", "slug": "dessert", "name": "Dessert", "subtitle": "La dolce vita", "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf" }
+    { "toastName": "Food", "slug": "dinner", "name": "Dinner", "subtitle": "", "excludeGroups": ["Dessert", "Desserts", "Dolci", "La Dolce Vita"], "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf" },
+    { "toastName": "Happy Hour", "slug": "happy-hour", "name": "Happy Hour", "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.", "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf" },
+    { "toastName": "Food", "slug": "dessert", "name": "Dessert", "subtitle": "La dolce vita", "groups": ["Dessert", "Desserts", "Dolci", "La Dolce Vita"], "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf" }
   ],
+  "stripPrefixes": ["HH ", "HH-", "H/H "],
   "hideItems": ["open food", "open item", "gift card", "misc", "service charge"],
   "flags": {
     "h/s": ["calabrian", "spicy", "hot honey", "’nduja", "'nduja", "diavola", "bumba"]
