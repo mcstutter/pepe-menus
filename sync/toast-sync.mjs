@@ -207,6 +207,10 @@ async function main() {
     groups: (function walk(gs, depth) { return (gs || []).flatMap((g) => [{ name: g.name, depth, items: (g.menuItems || []).length, visibility: g.visibility || null }, ...walk(g.menuGroups, depth + 1)]); })(m.menuGroups, 0),
   }));
   writeFileSync(OUT_PATH.replace(/[^/]+$/, "_structure.json"), JSON.stringify(structure, null, 1) + "\n");
+  // Item visibility map (name -> Toast channels) so managers' toggles can be audited without credentials.
+  const vis = {};
+  for (const m of raw.menus || []) (function walk(gs) { for (const g of gs || []) { for (const it of g.menuItems || []) vis[`${m.name} / ${g.name} / ${it.name}`] = it.visibility || null; walk(g.menuGroups); } })(m.menuGroups);
+  writeFileSync(OUT_PATH.replace(/[^/]+$/, "_visibility.json"), JSON.stringify(vis, null, 1) + "\n");
   const out = transform(raw, config);
   out.configHash = configHash;
   const total = out.menus.reduce((n, m) => n + m.groups.reduce((k, g) => k + g.items.length, 0), 0);
