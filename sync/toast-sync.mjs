@@ -86,12 +86,27 @@ function flagsFor(item, cfg) {
   return [...new Set(flags)];
 }
 
+function stripPrefix(name, cfg) {
+  let n = (name || "").trim();
+  for (const p of cfg.stripPrefixes || []) {
+    if (n.toLowerCase().startsWith(p.toLowerCase())) n = n.slice(p.length).trim();
+  }
+  return n;
+}
+
+function groupWanted(group, w) {
+  const n = norm(group.name);
+  if (w.groups && w.groups.length) return w.groups.map(norm).includes(n);
+  if (w.excludeGroups && w.excludeGroups.length) return !w.excludeGroups.map(norm).includes(n);
+  return true;
+}
+
 function transformGroup(group, cfg, channels) {
   const items = (group.menuItems || [])
     .filter((it) => visibleOn(it, channels))
     .filter((it) => !(cfg.hideItems || []).map(norm).includes(norm(it.name)))
     .map((it) => ({
-      name: it.name,
+      name: stripPrefix(it.name, cfg),
       description: it.description || "",
       ...itemPrices(it),
       flags: flagsFor(it, cfg),
@@ -118,7 +133,9 @@ export function transform(raw, cfg) {
     if (!visibleOn(m, channels)) continue;
     const groups = (m.menuGroups || [])
       .filter((g) => visibleOn(g, channels))
+      .filter((g) => groupWanted(g, w))
       .flatMap((g) => transformGroup(g, cfg, channels))
+      .map((g) => ({ ...g, name: stripPrefix(g.name, cfg) }))
       .filter((g) => g.items.length > 0);
     menus.push({ slug: w.slug, name: w.name || m.name, subtitle: w.subtitle || "", pdf: w.pdf || "", groups });
   }
@@ -149,6 +166,12 @@ async function main() {
   }
   const raw = await get("/menus/v2/menus", token);
   if (!raw.lastUpdated && meta?.lastUpdated) raw.lastUpdated = meta.lastUpdated;
+  // Structure map (menu and group names only) so the config can be tuned without credentials.
+  const structure = (raw.menus || []).map((m) => ({
+    menu: m.name, visibility: m.visibility || null,
+    groups: (function walk(gs, depth) { return (gs || []).flatMap((g) => [{ name: g.name, depth, items: (g.menuItems || []).length, visibility: g.visibility || null }, ...walk(g.menuGroups, depth + 1)]); })(m.menuGroups, 0),
+  }));
+  writeFileSync(OUT_PATH.replace(/[^/]+$/, "_structure.json"), JSON.stringify(structure, null, 1) + "\n");
   const out = transform(raw, config);
   const total = out.menus.reduce((n, m) => n + m.groups.reduce((k, g) => k + g.items.length, 0), 0);
   if (out.menus.length === 0 || total < (config.minItems || 10)) {
