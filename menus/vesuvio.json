@@ -3,7 +3,7 @@
  "location": "Carmel-by-the-Sea",
  "source": "toast",
  "toastLastUpdated": "2026-09-17T03:32:42.794+0000",
- "updated": "2026-09-24T07:27:03.295Z",
+ "updated": "2026-09-24T07:30:05.912Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -148,6 +148,13 @@
        "guid": "7fec87e4-918a-440d-bb6f-18e8cc9085bb"
       },
       {
+       "name": "Mista",
+       "description": "mixed green salad w/ balsamic vinaigrette",
+       "price": 18,
+       "flags": [],
+       "guid": "d63bfd1c-a7fa-499c-a0ad-d171143dcd18"
+      },
+      {
        "name": "Strawberry-Gorgonzola",
        "description": "mixed greens, arugula, strawberries, gorgonzola, candied walnuts, red onions, strawberry shrub dressing",
        "price": 17.75,
@@ -174,6 +181,15 @@
        "guid": "46d0241c-47ff-470a-8cba-f60827264ffa"
       },
       {
+       "name": "Al Forno \"Sinatra\"",
+       "description": "oven-baked ziti, house-made spicy sausage, mushrooms, goat cheese, mozzarella",
+       "price": 32,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "2a725d27-0e45-4b7c-a680-60df7e8ed06f"
+      },
+      {
        "name": "Bolognese",
        "description": "",
        "price": 32,
@@ -186,6 +202,13 @@
        "price": 29,
        "flags": [],
        "guid": "22b6ba2d-2844-45d0-b525-fbdba2292ee2"
+      },
+      {
+       "name": "Cheese Ravioli \"della Hoboken\"",
+       "description": "ricotta, parmigiano, arrabbiata sauce",
+       "price": 30,
+       "flags": [],
+       "guid": "c7fd39fe-fe41-4d01-bff7-56b10ed27967"
       },
       {
        "name": "Cioppino Rosso",
@@ -209,6 +232,13 @@
         "h/s"
        ],
        "guid": "acbe9c51-f2fe-4f38-8ec8-8b414f7d9f3d"
+      },
+      {
+       "name": "Pesto 'Genovese'",
+       "description": "creamy basil pesto, asparagus, potatoes, tagliatelle",
+       "price": 29,
+       "flags": [],
+       "guid": "e049cfb1-e965-41f5-89fb-d492a209aaaa"
       },
       {
        "name": "Pink Vodka Sauce \"Jackie-O\"",
@@ -276,6 +306,13 @@
        "guid": "46601c44-2868-4521-9c48-099e47e41845"
       },
       {
+       "name": "Farmer's Market Pie",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "10d910ff-78b5-4543-81f6-a02bc11c0a54"
+      },
+      {
        "name": "Margherita \"dal 1889\"",
        "description": "tomato sauce, fior di latte mozz', basil",
        "price": 22,
@@ -297,6 +334,13 @@
         "h/s"
        ],
        "guid": "6d485925-b623-41e8-8aeb-6bee8e9a683a"
+      },
+      {
+       "name": "Vegan Pizza",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "53376ce4-a4fa-47c8-b426-fb5b1a4b834e"
       },
       {
        "name": "White Truffle Pie",
@@ -337,6 +381,27 @@
        "price": 58,
        "flags": [],
        "guid": "48791d52-46a3-48ee-9157-09603b8f53d6"
+      },
+      {
+       "name": "Ribeye Cap",
+       "description": "",
+       "price": 64,
+       "flags": [],
+       "guid": "ed5b4d2b-fc59-4106-9d1b-81754a1332ae"
+      },
+      {
+       "name": "Lamb Chops",
+       "description": "",
+       "price": 48.25,
+       "flags": [],
+       "guid": "0e2c9cb5-c0ed-4fd8-922b-5c2f931b6876"
+      },
+      {
+       "name": "Pollo Pazzo Panino",
+       "description": "",
+       "price": 25,
+       "flags": [],
+       "guid": "4212c36d-d424-431d-aff4-9e4144a64af9"
       },
       {
        "name": "Sole Piccata",
@@ -447,6 +512,20 @@
        "price": 9,
        "flags": [],
        "guid": "48f160b0-4744-4d8c-95b0-b51332f34f82"
+      },
+      {
+       "name": "Regular Broccoli",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "6a7e0ad8-15ee-43f8-9870-7f91fccc9fc1"
+      },
+      {
+       "name": "Roasted Peppers",
+       "description": "",
+       "price": 9,
+       "flags": [],
+       "guid": "5cac845e-0f70-44a5-8cd9-d02238e8b50b"
       },
       {
        "name": "Seasoned Fries",
@@ -867,5 +946,5 @@
    ]
   }
  ],
- "configHash": "137c85e5e02e"
+ "configHash": "c9278a732f80"
 }
