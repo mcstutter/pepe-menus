@@ -14,20 +14,14 @@
         "Off-Menu",
         "Kids"
       ],
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf",
-      "channels": [
-        "TOAST_ONLINE_ORDERING"
-      ]
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/09/VESUVIO-DINNER-FALL-2026-v2.pdf"
     },
     {
       "toastName": "Happy Hour",
       "slug": "happy-hour",
       "name": "Happy Hour",
       "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, at the Downstairs Bar and the rooftop Star Bar only. Not in the dining room.",
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf",
-      "channels": [
-        "POS"
-      ]
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/05/VesuvioHH_6.1.26.pdf"
     },
     {
       "toastName": "Food",
@@ -37,10 +31,7 @@
       "groups": [
         "Dessert"
       ],
-      "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf",
-      "channels": [
-        "POS"
-      ]
+      "pdf": "https://chefpepe.com/wp-content/uploads/2026/03/VESUVIO-DESSERT-3.1.26.pdf"
     }
   ],
   "stripPrefixes": [
