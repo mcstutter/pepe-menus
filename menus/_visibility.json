@@ -1644,6 +1644,10 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Bourbon/Whiskey / Bardstown HW ": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Cocktails / DPL Old Fashion": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -1949,6 +1953,14 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Liqueurs/Cordials / Amaro Ramazotti": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Liqueurs/Cordials / Amaro Dell'Etna": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Rum / Planteray OFTD Rum": [
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2053,6 +2065,10 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Scotch / Dalmore 12yr": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Tequila / Casamigos Blanco": [
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2154,6 +2170,14 @@
   "POS"
  ],
  "Drinks / Tequila / Ocho Blanco": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Terralta": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Siete Misterios Mezcal": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
