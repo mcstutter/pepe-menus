@@ -1588,6 +1588,10 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Bourbon/Whiskey / House Whiskey": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Bourbon/Whiskey / Angel's Envy": [
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -1601,10 +1605,6 @@
   "POS"
  ],
  "Drinks / Bourbon/Whiskey / Crown Royal": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Bourbon/Whiskey / House Whiskey": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -1799,6 +1799,10 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Gin / House Gin": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Gin / Beefeater": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -1814,10 +1818,6 @@
   "POS"
  ],
  "Drinks / Gin / Hendrick's": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Gin / House Gin": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -1838,6 +1838,10 @@
   "POS"
  ],
  "Drinks / Gin / Tanqueray": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Gin / Bar Hill Tom Cat": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -1961,6 +1965,10 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Rum / House Rum": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Rum / Planteray OFTD Rum": [
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -1974,10 +1982,6 @@
   "POS"
  ],
  "Drinks / Rum / Goslings": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Rum / House Rum": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -2069,6 +2073,14 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Tequila / House Tequila": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Arette Reposado": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Tequila / Casamigos Blanco": [
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2094,6 +2106,10 @@
   "POS"
  ],
  "Drinks / Tequila / Don Fulano Anejo": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Don Fulano Fuerte": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -2133,11 +2149,11 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Tequila / House Tequila": [
+ "Drinks / Tequila / Lalo Blanco": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Tequila / Lalo Blanco": [
+ "Drinks / Tequila / Ocho Blanco": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -2157,7 +2173,15 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Tequila / Siete Misterios Mezcal": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Tequila / Tears Of Llorona": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Terralta Blanco": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -2169,35 +2193,11 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Tequila / Ocho Blanco": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Tequila / Terralta": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Tequila / Siete Misterios Mezcal": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Vodka / Grey Goose": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Vodka / Skyy Citrus": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Drinks / Vodka / House Vodka": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Vodka / Ketel One": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Vodka / Tito's": [
+ "Drinks / Vodka / Belvedere": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -2205,7 +2205,19 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Vodka / Belvedere": [
+ "Drinks / Vodka / Grey Goose": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Ketel One": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Skyy Citrus": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Tito's": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
