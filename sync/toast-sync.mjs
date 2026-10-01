@@ -79,8 +79,8 @@ function flagsFor(item, cfg) {
   for (const [flag, needles] of Object.entries(cfg.flags || {})) {
     if (needles.some((n) => text.includes(n.toLowerCase()))) flags.push(flag);
   }
-  // Toast "diet" style tags if present
-  for (const t of item.tags || []) {
+  // Toast item tags (Menus API v2: itemTags [{ name, guid }]; older payloads: tags)
+  for (const t of [...(item.itemTags || []), ...(item.tags || [])]) {
     const tn = norm(t?.name || t);
     if (cfg.tagFlags?.[tn]) flags.push(cfg.tagFlags[tn]);
   }
@@ -270,6 +270,10 @@ async function main() {
   const vis = {};
   for (const m of raw.menus || []) (function walk(gs) { for (const g of gs || []) { for (const it of g.menuItems || []) vis[`${m.name} / ${g.name} / ${it.name}`] = it.visibility || null; walk(g.menuGroups); } })(m.menuGroups);
   writeFileSync(OUT_PATH.replace(/[^/]+$/, "_visibility.json"), JSON.stringify(vis, null, 1) + "\n");
+  // Item tag map (name -> Toast item tag names, tagged items only) so dietary tags can be audited without credentials.
+  const tags = {};
+  for (const m of raw.menus || []) (function walk(gs) { for (const g of gs || []) { for (const it of g.menuItems || []) { const t = [...(it.itemTags || []), ...(it.tags || [])].map((x) => x?.name || x); if (t.length) tags[`${m.name} / ${g.name} / ${it.name}`] = t; } walk(g.menuGroups); } })(m.menuGroups);
+  writeFileSync(OUT_PATH.replace(/[^/]+$/, "_tags.json"), JSON.stringify(tags, null, 1) + "\n");
   const out = transform(raw, config);
   out.configHash = configHash;
   const total = out.menus.reduce((n, m) => n + m.groups.reduce((k, g) => k + g.items.length, 0), 0);
