@@ -1,8 +1,8 @@
 {
- "Food / Appetizers / Artichoke Crochette (1)": [
+ "Food / Appetizers / Artichoke Crocchette (1)": [
   "POS"
  ],
- "Food / Appetizers / Artichoke Crochette (4)": [
+ "Food / Appetizers / Artichoke Crocchette (4)": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -79,12 +79,6 @@
   "POS",
   "KIOSK"
  ],
- "Food / Appetizers / Heirloom Tomato Caprese": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Food / Salad/Soup / Amalfi": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -134,6 +128,7 @@
   "KIOSK"
  ],
  "Food / Pasta / Al Forno \"Sinatra\"": [
+  "ORDERING_PARTNERS",
   "POS"
  ],
  "Food / Pasta / Bolognese": [
@@ -149,6 +144,7 @@
   "KIOSK"
  ],
  "Food / Pasta / Cheese Ravioli \"della Hoboken\"": [
+  "ORDERING_PARTNERS",
   "POS"
  ],
  "Food / Pasta / Cioppino Rosso": [
@@ -562,6 +558,7 @@
   "KIOSK"
  ],
  "Food / Off-Menu / Cheese Ravioli \"della Hoboken\"": [
+  "ORDERING_PARTNERS",
   "POS"
  ],
  "Food / Off-Menu / Mixed Green": [

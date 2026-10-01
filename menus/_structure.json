@@ -11,7 +11,7 @@
    {
     "name": "Appetizers",
     "depth": 0,
-    "items": 16,
+    "items": 15,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
