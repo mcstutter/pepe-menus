@@ -129,6 +129,7 @@
  ],
  "Food / Pasta / Al Forno \"Sinatra\"": [
   "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
   "POS"
  ],
  "Food / Pasta / Bolognese": [
@@ -145,6 +146,7 @@
  ],
  "Food / Pasta / Cheese Ravioli \"della Hoboken\"": [
   "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
   "POS"
  ],
  "Food / Pasta / Cioppino Rosso": [
@@ -559,6 +561,7 @@
  ],
  "Food / Off-Menu / Cheese Ravioli \"della Hoboken\"": [
   "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
   "POS"
  ],
  "Food / Off-Menu / Mixed Green": [
@@ -2219,10 +2222,12 @@
   "POS"
  ],
  "Happy Hour / HH Appetizers / HH Artichoke Arancini (1)": [
+  "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
  "Happy Hour / HH Appetizers / HH Artichoke Arancini (4)": [
+  "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -2254,10 +2259,12 @@
   "POS"
  ],
  "Happy Hour / HH Appetizers / HH Risotto Arancini (1)": [
+  "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
  "Happy Hour / HH Appetizers / HH Risotto Arancini (4)": [
+  "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],

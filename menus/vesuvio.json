@@ -2,8 +2,8 @@
  "restaurant": "Vesuvio",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-09-30T23:55:33.226+0000",
- "updated": "2026-10-01T00:01:46.226Z",
+ "toastLastUpdated": "2026-10-01T00:24:45.092+0000",
+ "updated": "2026-10-01T00:25:21.490Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -23,7 +23,9 @@
        "name": "Artichoke Crocchette (4)",
        "description": "aioli della casa",
        "price": 14,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "a2f42663-aa58-40ff-80fd-2efcb572735d"
       },
       {
@@ -58,7 +60,9 @@
        "name": "Garlic Bread",
        "description": "100-year-old family recipe",
        "price": 9,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "1878fd88-5e18-4229-9046-641c7dc15d49"
       },
       {
@@ -88,7 +92,9 @@
        "name": "Risotto Arancini (4)",
        "description": "saffron-risotto arancini, marinara sauce",
        "price": 14,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "428fcbc5-8a1f-49f3-ba9b-81e55c716291"
       },
       {
@@ -102,7 +108,9 @@
        "name": "Truffled Gnocchi",
        "description": "baked gnocchi, tartufata, fonduta di fontina",
        "price": 22,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "1972a990-56e6-4a49-8c77-8e614982d7b2"
       }
      ]
@@ -128,7 +136,9 @@
        "name": "Di Stefano",
        "description": "mixed greens, local crispy goat cheese, roasted beets, fig-balsamic dressing",
        "price": 18,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "4e5110ff-99d2-484c-9e80-88d0efff9683"
       },
       {
@@ -142,14 +152,18 @@
        "name": "Strawberry-Gorgonzola",
        "description": "mixed greens, arugula, strawberries, gorgonzola, candied walnuts, red onions, strawberry shrub dressing",
        "price": 17.75,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "a18f6e1a-4d19-4229-acbc-24cf4e1771ac"
       },
       {
        "name": "Butternut Squash Soup",
        "description": "Vegetarian Soup",
        "price": 14,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "51bbc80c-4487-41e4-9217-0278b42190c8"
       }
      ]
@@ -182,7 +196,9 @@
        "name": "Cacio e Pepe",
        "description": "pecorino romano, black pepper, bucatini",
        "price": 29,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "22b6ba2d-2844-45d0-b525-fbdba2292ee2"
       },
       {
@@ -246,7 +262,9 @@
        "name": "Butternut Squash Ravioli",
        "description": "brown butter sage sauce, parmigiano reggiano",
        "price": 32,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "dc267c17-8ea7-48b4-a443-d4a3e272e6ab"
       }
      ]
@@ -258,7 +276,9 @@
        "name": "Abruzzese",
        "description": "goat cheese, mozz', basil pesto, tomato sauce, roasted tomato, pine nuts",
        "price": 24,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "ccbcc368-7fb6-46ba-87ac-a4e09b231d10"
       },
       {
@@ -290,7 +310,9 @@
        "name": "Margherita \"dal 1889\"",
        "description": "tomato sauce, fior di latte mozz', basil",
        "price": 22,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "0019b903-c6f7-462b-87f1-0ff814c2f7fc"
       },
       {
@@ -313,7 +335,9 @@
        "name": "White Truffle Pie",
        "description": "mushrooms, cambozola, mozz', white truffle oil, caramelized onions (no tomato sauce)",
        "price": 26,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "a2eb3200-fcab-4700-b2d7-2d707b933d99"
       }
      ]
@@ -393,7 +417,9 @@
        "name": "Eggplant Parmigiana",
        "description": "with spaghetti marinara or pappardelle alfredo",
        "price": 31,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "58c6b7e8-c825-4584-8da0-966c5317e20e"
       },
       {
@@ -435,14 +461,18 @@
        "name": "Asparagus + Breadcrumbs",
        "description": "",
        "price": 9,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "8c91245b-c5ff-4701-ad20-75409f0047dd"
       },
       {
        "name": "Broccoli Rabe",
        "description": "",
        "price": 9,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "8e4e9bef-904b-4368-be59-94038fd71d0c"
       },
       {
@@ -458,21 +488,27 @@
        "name": "Mushrooms",
        "description": "",
        "price": 9,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "48f160b0-4744-4d8c-95b0-b51332f34f82"
       },
       {
        "name": "Seasoned Fries",
        "description": "",
        "price": 9,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "640345aa-c049-417f-a16c-e1776a2c3940"
       },
       {
        "name": "Truffle-Parmesan Fries",
        "description": "with parmigiano reggiano",
        "price": 16,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "a8fe06ef-9cf5-4798-b274-439cb16b4902"
       }
      ]
@@ -492,7 +528,9 @@
        "name": "Artichoke Arancini (4)",
        "description": "fresh Scattini Farms baby artichokes, fried in a tempura batter, lemon-garlic-herb aioli",
        "price": 10,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "280eeac0-3e6c-47a2-ab14-95a1e8e44a8f"
       },
       {
@@ -536,7 +574,9 @@
        "name": "Risotto Arancini (4)",
        "description": "saffron-risotto arancini, marinara sauce",
        "price": 10,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "5aabc13c-9e8d-47c3-8aff-2befee0d48c2"
       },
       {
@@ -559,7 +599,9 @@
        "name": "Truffled Gnocchi",
        "description": "baked gnocchi, tartufata, fonduta di fontina",
        "price": 16,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "175c11f1-ac98-4737-bbef-e16c2b92fb2a"
       }
      ]
@@ -590,7 +632,9 @@
        "name": "Abruzzese",
        "description": "goat cheese, mozz', basil pesto, tomato sauce, roasted tomato, pine nuts",
        "price": 19,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "928a77f2-3056-4107-9011-edf83ea6189b"
       },
       {
@@ -622,7 +666,9 @@
        "name": "Margherita \"dal 1889\"",
        "description": "tomato sauce, fior di latte mozz', basil",
        "price": 18.5,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "4e0a3e00-fc8f-4a25-8b6a-1d723f10849a"
       },
       {
@@ -645,7 +691,9 @@
        "name": "White Truffle Pie",
        "description": "mushrooms, cambozola, mozz', white truffle oil, caramelized onions (no tomato sauce)",
        "price": 19,
-       "flags": [],
+       "flags": [
+        "vg"
+       ],
        "guid": "dc5909d7-55ee-44af-9f38-4c72a386855a"
       }
      ]

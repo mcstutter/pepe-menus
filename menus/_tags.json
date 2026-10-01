@@ -1,14 +1,74 @@
 {
+ "Food / Appetizers / Artichoke Crocchette (1)": [
+  "Vegetarian"
+ ],
+ "Food / Appetizers / Artichoke Crocchette (4)": [
+  "Vegetarian"
+ ],
+ "Food / Appetizers / Garlic Bread": [
+  "Vegetarian"
+ ],
+ "Food / Appetizers / Risotto Arancini (1)": [
+  "Vegetarian"
+ ],
+ "Food / Appetizers / Risotto Arancini (4)": [
+  "Vegetarian"
+ ],
+ "Food / Appetizers / Truffled Gnocchi": [
+  "Vegetarian"
+ ],
+ "Food / Salad/Soup / Di Stefano": [
+  "Vegetarian"
+ ],
+ "Food / Salad/Soup / Strawberry-Gorgonzola": [
+  "Vegetarian"
+ ],
+ "Food / Salad/Soup / Butternut Squash Soup": [
+  "Vegetarian"
+ ],
+ "Food / Pasta / Cacio e Pepe": [
+  "Vegetarian"
+ ],
  "Food / Pasta / Cheese Ravioli \"della Hoboken\"": [
   "Vegetarian"
  ],
  "Food / Pasta / Pesto 'Genovese'": [
   "Vegetarian"
  ],
+ "Food / Pasta / Butternut Squash Ravioli": [
+  "Vegetarian"
+ ],
+ "Food / Pizza / Abruzzese": [
+  "Vegetarian"
+ ],
+ "Food / Pizza / Margherita \"dal 1889\"": [
+  "Vegetarian"
+ ],
+ "Food / Pizza / White Truffle Pie": [
+  "Vegetarian"
+ ],
  "Food / Grill & Fish / Salmon": [
   "Pescatarian"
  ],
+ "Food / Specialties / Eggplant Parmigiana": [
+  "Vegetarian"
+ ],
+ "Food / Sides / Asparagus + Breadcrumbs": [
+  "Vegetarian"
+ ],
+ "Food / Sides / Broccoli Rabe": [
+  "Vegetarian"
+ ],
  "Food / Sides / Mashed Potatoes": [
+  "Vegetarian"
+ ],
+ "Food / Sides / Mushrooms": [
+  "Vegetarian"
+ ],
+ "Food / Sides / Seasoned Fries": [
+  "Vegetarian"
+ ],
+ "Food / Sides / Truffle-Parmesan Fries": [
   "Vegetarian"
  ],
  "Food / Off-Menu / Bruschetta Pomodoro (4)": [
@@ -21,6 +81,30 @@
   "Pescatarian"
  ],
  "Food / Off-Menu / Pesto 'Genovese'": [
+  "Vegetarian"
+ ],
+ "Happy Hour / HH Appetizers / HH Artichoke Arancini (1)": [
+  "Vegetarian"
+ ],
+ "Happy Hour / HH Appetizers / HH Artichoke Arancini (4)": [
+  "Vegetarian"
+ ],
+ "Happy Hour / HH Appetizers / HH Risotto Arancini (1)": [
+  "Vegetarian"
+ ],
+ "Happy Hour / HH Appetizers / HH Risotto Arancini (4)": [
+  "Vegetarian"
+ ],
+ "Happy Hour / HH Appetizers / HH Truffled Gnocchi": [
+  "Vegetarian"
+ ],
+ "Happy Hour / HH Pizza / HH Abbruzzese": [
+  "Vegetarian"
+ ],
+ "Happy Hour / HH Pizza / HH Margherita \"dal 1889\"": [
+  "Vegetarian"
+ ],
+ "Happy Hour / HH Pizza / HH White Truffle Pie": [
   "Vegetarian"
  ]
 }
