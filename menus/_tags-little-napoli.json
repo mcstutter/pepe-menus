@@ -20,6 +20,9 @@
  "Lunch / Panini / Roasted Pepper Caprese Sandwich": [
   "Vegetarian"
  ],
+ "Lunch / Panini / Grandma Celia's Meatball Sandwich": [
+  "Hot & Spicy"
+ ],
  "Lunch / Pasta / Cheese Ravioli \"della Hoboken\"": [
   "Vegetarian"
  ],
@@ -31,6 +34,12 @@
  ],
  "Lunch / Pizza / Abruzzese": [
   "Vegetarian"
+ ],
+ "Lunch / Pizza / Diavola": [
+  "Hot & Spicy"
+ ],
+ "Lunch / Pizza / Fangool": [
+  "Hot & Spicy"
  ],
  "Lunch / Pizza / Margherita": [
   "Vegetarian"
@@ -89,6 +98,9 @@
  "Dinner / Pasta / Pesto Genovese": [
   "Vegetarian"
  ],
+ "Dinner / Pasta / Pink Vodka Sauce \"Jackie O\"": [
+  "Hot & Spicy"
+ ],
  "Dinner / Pasta / Truffled Gnocchi": [
   "Vegetarian"
  ],
@@ -98,6 +110,12 @@
  "Dinner / Pizza / Abruzzese": [
   "Vegetarian"
  ],
+ "Dinner / Pizza / Diavola": [
+  "Hot & Spicy"
+ ],
+ "Dinner / Pizza / Fangool": [
+  "Hot & Spicy"
+ ],
  "Dinner / Pizza / Margherita \"dal 1889\"": [
   "Vegetarian"
  ],
@@ -106,6 +124,9 @@
  ],
  "Dinner / Specialties / Eggplant Parmigiana": [
   "Vegetarian"
+ ],
+ "Dinner / Specialties / Seafood Risotto \"Calabrese\"": [
+  "Hot & Spicy"
  ],
  "Dinner / Sides / Asparagus + Breadcrumb": [
   "Vegetarian"

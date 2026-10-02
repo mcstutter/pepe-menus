@@ -460,7 +460,7 @@
    {
     "name": "Sparkling",
     "depth": 0,
-    "items": 11,
+    "items": 6,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -470,7 +470,7 @@
    {
     "name": "Whites",
     "depth": 0,
-    "items": 19,
+    "items": 1,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -480,7 +480,7 @@
    {
     "name": "Italian Reds",
     "depth": 0,
-    "items": 36,
+    "items": 3,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -490,7 +490,7 @@
    {
     "name": "California Reds",
     "depth": 0,
-    "items": 21,
+    "items": 2,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -540,7 +540,117 @@
    {
     "name": "Half Bottles",
     "depth": 0,
+    "items": 3,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Italy",
+    "depth": 0,
+    "items": 0,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Sparkling",
+    "depth": 1,
+    "items": 4,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "White",
+    "depth": 1,
+    "items": 10,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Southern Italian Red",
+    "depth": 1,
     "items": 5,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Northern Italian Red",
+    "depth": 1,
+    "items": 18,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Super Tuscan",
+    "depth": 1,
+    "items": 8,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "United States",
+    "depth": 0,
+    "items": 0,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "White + Rosé + Sparkling",
+    "depth": 1,
+    "items": 9,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Pinot Noir",
+    "depth": 1,
+    "items": 7,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Cabernet Sauvignon",
+    "depth": 1,
+    "items": 9,
+    "visibility": [
+     "ORDERING_PARTNERS",
+     "TOAST_ONLINE_ORDERING",
+     "POS"
+    ]
+   },
+   {
+    "name": "Other Varietals",
+    "depth": 1,
+    "items": 3,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",

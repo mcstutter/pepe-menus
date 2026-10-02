@@ -2196,26 +2196,6 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Sparkling / Adami Prosecco HALF": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Sparkling / Bele Casel Prosecco BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Sparkling / Caraccioli Brut BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Sparkling / Col de Salici Rose BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / Sparkling / Dom Perignon Brut 2010 BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -2246,127 +2226,7 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Sparkling / Vietti Moscato d'Asti HALF": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Antica Chardonnay BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Cedar Lane Sauv Blanc BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Cervaro Chard BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Ciro Picariello BruEmm Falanghina BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Guado Vermentino BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Jermann Pinot Grigio BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Jermann Vintage Tunina BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Mastro Greco di Tufo BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Pepe Chardonnay BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Pepe Rose BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Pepe Sauvignon Blanc BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / San Giovanni Orvieto BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / Whites / Santa Cristina Pinot Grigio BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Silvestri Chardonnay BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Stag's Karia Chard BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Stilema Fiano BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Stilema Greco BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Velenosi Pecorino BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Rombauer Chard BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Badia Passignano BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Cont' Ugo Merlot BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Conterno Fantino Dolcetto BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Felsina Rancia HALF BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Gaja Sito Moresco BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2376,72 +2236,7 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Italian Reds / Grifalco Aglianico del Vulture BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Guado \"Il Bruciato\" BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Guado Al Tasso BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Guidalberto": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / La Fiorita BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / Italian Reds / Le Difese BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / M.Chiralo Cipressi Nizza BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Marchese Antinori Riserva BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Mastro Lacryma Christi BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Mastro Taurasi Radici BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Mastro Taurasi Radici Riserva BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Matarocchio Cab Franc BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Mauro Veglio Barolo BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Monti Garbi Ripasso BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2451,182 +2246,12 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Italian Reds / Peppoli BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Pian d. Vigne Brunello BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Pian d. Vigne Rosso Montalcino BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Poliziano Vino Nobile BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Prunotto Bussia BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Prunotto 'BricTurot' Barbaresco BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Prunotto Occhetti Langhe Nebbiolo BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Sassicaia BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Sassicaia HALF BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Solaia BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Tascante Etna Rosso BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Tignanello BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Tignanello HALF BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Villa Antinori Toscana BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Vietti Lazarotti Barolo BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Antinori 'Townsend' BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Antinori 'Proficio' BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Bernardus 'Garys Vineyard' PN BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Boekenoogen PN BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / California Reds / Cachagua Cab Blend BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / California Reds / Cedar Lane 'Las Arenas' BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Drouhin 'Roserock' PN BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Galante 'Red Rose Hill' BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Melville 'Donna's Block' Syrah BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Occidental 'Freestone' PN BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Opus One BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Pepe Cab RSV BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Pepe Pinot BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Pepe Vesuvio BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Russell Joyce Gamay BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / California Reds / Silvestri Eugenia BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Silvestri PN BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Stag's Cask 23 BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Stag's Leap Artemis BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / The Calling Cabernet BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / The Calling PN BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2801,17 +2426,7 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Large Format / Tignanello '17 MAG": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Half Bottles / Adami Prosecco HALF": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Half Bottles / Vietti Moscato d'Asti HALF": [
+ "Wines / Large Format / Tignanello MAG": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2827,6 +2442,371 @@
   "POS"
  ],
  "Wines / Half Bottles / Sassicaia HALF BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Adami Prosecco HALF": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Bele Casel Prosecco BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Col de Salici Rose BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Vietti Moscato d'Asti HALF": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Mastro Greco di Tufo BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Ciro Picariello BruEmm Falanghina BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / San Giovanni Orvieto BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Jermann Pinot Grigio BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Guado Vermentino BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Velenosi Pecorino BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Stilema Fiano BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Stilema Greco BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Cervaro Chard BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White / Jermann Vintage Tunina BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Southern Italian Red / Grifalco Aglianico del Vulture BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Southern Italian Red / Tascante Etna Rosso BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Southern Italian Red / Mastro Lacryma Christi BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Southern Italian Red / Mastro Taurasi Radici BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Southern Italian Red / Mastro Taurasi Radici Riserva BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Vietti Lazarotti Barolo BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Prunotto Bussia BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Gaja Sito Moresco BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Mauro Veglio Barolo BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Prunotto 'BricTurot' Barbaresco BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / M.Chiralo Cipressi Nizza BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Conterno Fantino Dolcetto BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Prunotto Occhetti Langhe Nebbiolo BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Badia Passignano BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Marchese Antinori Riserva BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Peppoli BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Villa Antinori Toscana BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Pian d. Vigne Brunello BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / La Fiorita BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Poliziano Vino Nobile BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Pian d. Vigne Rosso Montalcino BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Buglione Amarone BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Northern Italian Red / Monti Garbi Ripasso BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Super Tuscan / Matarocchio Cab Franc BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Super Tuscan / Tignanello BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Super Tuscan / Cont' Ugo Merlot BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Super Tuscan / Guado Al Tasso BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Super Tuscan / Guidalberto": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Super Tuscan / Solaia BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Super Tuscan / Guado \"Il Bruciato\" BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Super Tuscan / Sassicaia BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Caraccioli Brut BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Antica Chardonnay BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Rombauer Chard BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Stag's Karia Chard BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Pepe Chardonnay BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Silvestri Chardonnay BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Pepe Rose BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Cedar Lane Sauv Blanc BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / White + Rosé + Sparkling / Pepe Sauvignon Blanc BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Pinot Noir / Occidental 'Freestone' PN BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Pinot Noir / Bernardus 'Garys Vineyard' PN BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Pinot Noir / Boekenoogen PN BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Pinot Noir / Drouhin 'Roserock' PN BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Pinot Noir / Pepe Pinot BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Pinot Noir / The Calling PN BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Pinot Noir / Silvestri PN BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / Opus One BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / Antinori 'Townsend' BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / Stag's Leap Artemis BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / Pepe Vesuvio BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / The Calling Cabernet BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / Pepe Cab RSV BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / Galante 'Red Rose Hill' BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / Antinori 'Proficio' BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Cabernet Sauvignon / Stag's Cask 23 BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Other Varietals / Melville 'Donna's Block' Syrah BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Other Varietals / Cedar Lane 'Las Arenas' BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Other Varietals / Russell Joyce Gamay BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
