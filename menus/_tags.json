@@ -5,6 +5,9 @@
  "Food / Appetizers / Garlic Bread": [
   "Vegetarian"
  ],
+ "Food / Appetizers / Pepe Board": [
+  "Hot & Spicy"
+ ],
  "Food / Appetizers / Risotto Arancini (4)": [
   "Vegetarian"
  ],
@@ -26,14 +29,26 @@
  "Food / Pasta / Cheese Ravioli \"della Hoboken\"": [
   "Vegetarian"
  ],
+ "Food / Pasta / Pasta Vesuviana": [
+  "Hot & Spicy"
+ ],
  "Food / Pasta / Pesto 'Genovese'": [
   "Vegetarian"
+ ],
+ "Food / Pasta / Pink Vodka Sauce \"Jackie-O\"": [
+  "Hot & Spicy"
  ],
  "Food / Pasta / Butternut Squash Ravioli": [
   "Vegetarian"
  ],
  "Food / Pizza / Abruzzese": [
   "Vegetarian"
+ ],
+ "Food / Pizza / Diavola": [
+  "Hot & Spicy"
+ ],
+ "Food / Pizza / Fangool": [
+  "Hot & Spicy"
  ],
  "Food / Pizza / Margherita \"dal 1889\"": [
   "Vegetarian"
@@ -46,6 +61,9 @@
  ],
  "Food / Specialties / Eggplant Parmigiana": [
   "Vegetarian"
+ ],
+ "Food / Specialties / Seafood Risotto": [
+  "Hot & Spicy"
  ],
  "Food / Sides / Asparagus + Breadcrumbs": [
   "Vegetarian"

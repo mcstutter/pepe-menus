@@ -2196,66 +2196,6 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Sparkling / Dom Perignon Brut 2010 BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Sparkling / Moet Brut BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Sparkling / Moet MCII BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Sparkling / Moet Vintage '09 / '08 BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Sparkling / Ruinart Brut BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Sparkling / Veuve Cliquot Rose BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Whites / Santa Cristina Pinot Grigio BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Gaja Sori Tildin BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Le Difese BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Italian Reds / Ornellaia BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Cachagua Cab Blend BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / California Reds / Silvestri Eugenia BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / Dessert Wine (BTG) / GLS Melizie Fiano Passito": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -2376,42 +2316,12 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Large Format / Antica Cab MAG": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / Large Format / Antinori Townsend MAG": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Large Format / Bernardus Marinus MAG": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Large Format / Cachagua MAG": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Large Format / Cont'Ugo MAG": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Large Format / Guado al Tasso '01 MAG": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / Large Format / Pepe Cab RSV MAG": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Large Format / Pepe Vesuvio MAG": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -3041,11 +2951,6 @@
   "POS"
  ],
  "Retail / Pepe Wine / Cello / Pepe Cabernet \"Reserve\"": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Retail / Pepe Wine / Cello / Cachagua Cab Blend BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"

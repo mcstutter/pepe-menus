@@ -458,46 +458,6 @@
     ]
    },
    {
-    "name": "Sparkling",
-    "depth": 0,
-    "items": 6,
-    "visibility": [
-     "ORDERING_PARTNERS",
-     "TOAST_ONLINE_ORDERING",
-     "POS"
-    ]
-   },
-   {
-    "name": "Whites",
-    "depth": 0,
-    "items": 1,
-    "visibility": [
-     "ORDERING_PARTNERS",
-     "TOAST_ONLINE_ORDERING",
-     "POS"
-    ]
-   },
-   {
-    "name": "Italian Reds",
-    "depth": 0,
-    "items": 3,
-    "visibility": [
-     "ORDERING_PARTNERS",
-     "TOAST_ONLINE_ORDERING",
-     "POS"
-    ]
-   },
-   {
-    "name": "California Reds",
-    "depth": 0,
-    "items": 2,
-    "visibility": [
-     "ORDERING_PARTNERS",
-     "TOAST_ONLINE_ORDERING",
-     "POS"
-    ]
-   },
-   {
     "name": "Dessert Wine (BTG)",
     "depth": 0,
     "items": 3,
@@ -530,7 +490,7 @@
    {
     "name": "Large Format",
     "depth": 0,
-    "items": 11,
+    "items": 5,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -738,7 +698,7 @@
    {
     "name": "Pepe Wine / Cello",
     "depth": 0,
-    "items": 11,
+    "items": 10,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",

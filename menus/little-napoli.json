@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-02T18:14:31.920+0000",
- "updated": "2026-10-02T20:02:32.200Z",
+ "toastLastUpdated": "2026-10-02T20:12:12.573+0000",
+ "updated": "2026-10-02T20:19:30.568Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -69,9 +69,7 @@
        "name": "Pèpe Board",
        "description": "our house ‘nduja, bumba, and pepper jelly,  \r\nwith crostini, cheese, and accoutrements",
        "price": 22,
-       "flags": [
-        "h/s"
-       ],
+       "flags": [],
        "guid": "4a637809-126d-4e94-9e98-af5f3a4025dc"
       },
       {
@@ -94,9 +92,7 @@
        "name": "Sausage & Peppers",
        "description": "spicy sausage with peppers, onions, crispy polenta, fontina fonduta",
        "price": 23,
-       "flags": [
-        "h/s"
-       ],
+       "flags": [],
        "guid": "978f57e6-b5e5-40b9-b067-f193b9f5393a"
       },
       {
@@ -184,9 +180,7 @@
        "name": "Al Forno \"Sinatra\"",
        "description": "oven-baked ziti, house-made spicy sausage, mushrooms, goat cheese, mozzarella",
        "price": 32,
-       "flags": [
-        "h/s"
-       ],
+       "flags": [],
        "guid": "ef35bc9a-775a-4ca2-8ed2-9bb0d4ef779a"
       },
       {
@@ -234,7 +228,9 @@
        "name": "Pink Vodka Sauce \"Jackie O\"",
        "description": "pancetta, peas, penne",
        "price": 32,
-       "flags": [],
+       "flags": [
+        "h/s"
+       ],
        "guid": "63e31ec9-3bcc-40ed-a4b1-6730b3589728"
       },
       {
@@ -335,9 +331,7 @@
        "name": "San Vito",
        "description": "house-made spicy sausage, peppers, onions, mozz', tomato sauce",
        "price": 25,
-       "flags": [
-        "h/s"
-       ],
+       "flags": [],
        "guid": "a73dddba-e8b9-4377-96c4-4e7c9ea646ef"
       },
       {
@@ -510,25 +504,6 @@
        "guid": "a3d0c019-3c47-4880-a01b-c2959c659c91"
       }
      ]
-    },
-    {
-     "name": "Off Menu",
-     "items": [
-      {
-       "name": "Di Parma",
-       "description": "prosciutto, tomato sauce, mozz', arugula, parmigiano",
-       "price": 26,
-       "flags": [],
-       "guid": "d4371246-7b6e-447b-8cfd-52d163d21b41"
-      },
-      {
-       "name": "Plate of Prosciutto",
-       "description": "",
-       "price": 10,
-       "flags": [],
-       "guid": "b2672c44-dcc8-4202-a3b6-401d1a45c99a"
-      }
-     ]
     }
    ]
   },
@@ -672,7 +647,9 @@
        "name": "Grandma Celia's Meatball Sandwich",
        "description": "sliced meatballs, provolone, marinara",
        "price": 23,
-       "flags": [],
+       "flags": [
+        "h/s"
+       ],
        "guid": "211cd696-dfe8-44be-bb56-e67cbf5d9c1c"
       },
       {
@@ -698,9 +675,7 @@
        "name": "Al Forno \"Sinatra\"",
        "description": "oven-baked ziti, house-made spicy sausage, mushrooms, goat cheese, mozzarella",
        "price": 32,
-       "flags": [
-        "h/s"
-       ],
+       "flags": [],
        "guid": "de1b9056-55c5-44e1-a78b-7e63cedcbf2e"
       },
       {
@@ -817,9 +792,7 @@
        "name": "San Vito",
        "description": "house-made spicy sausage, peppers, onions, mozz', tomato sauce",
        "price": 25,
-       "flags": [
-        "h/s"
-       ],
+       "flags": [],
        "guid": "fbced941-edaf-478c-b65d-e20b3c23c082"
       },
       {
@@ -941,245 +914,6 @@
        "price": 12,
        "flags": [],
        "guid": "38bd917b-8ab9-4535-beef-fc538262953f"
-      }
-     ]
-    },
-    {
-     "name": "Kids",
-     "items": [
-      {
-       "name": "Child Bolognese",
-       "description": "",
-       "price": 9.75,
-       "flags": [],
-       "guid": "4b0db5d3-37c0-4d0f-9c8f-10d67ada0339"
-      },
-      {
-       "name": "Child Cheese Pizza",
-       "description": "",
-       "price": 9.75,
-       "flags": [],
-       "guid": "6177d59e-6e11-4c42-bfaa-b703a93777be"
-      },
-      {
-       "name": "Child Pepperoni Pizza",
-       "description": "",
-       "price": 9.75,
-       "flags": [],
-       "guid": "bbcb6208-9887-4fa2-b484-2f9cec3465c7"
-      },
-      {
-       "name": "Child Mista",
-       "description": "",
-       "price": 5.75,
-       "flags": [],
-       "guid": "a664fcc9-c6ff-4946-9229-fca9af21e2a0"
-      },
-      {
-       "name": "Child Meatball",
-       "description": "",
-       "price": 9.75,
-       "flags": [],
-       "guid": "a255873f-5ca8-4bc8-bff2-d2a02a517844"
-      },
-      {
-       "name": "Child Ravioli",
-       "description": "",
-       "price": 9.75,
-       "flags": [],
-       "guid": "ed3e9dab-5c49-4f89-b8eb-e44c09a81760"
-      },
-      {
-       "name": "Child Zuppa",
-       "description": "",
-       "price": 5.25,
-       "flags": [],
-       "guid": "55bc60ec-690e-4fe2-95a1-010ed6f2341f"
-      },
-      {
-       "name": "Child Penne/Pesto",
-       "description": "",
-       "price": 9.75,
-       "flags": [],
-       "guid": "cd31c08a-461e-4eac-8504-d1ba970b760e"
-      },
-      {
-       "name": "Child Pasta / Sauce",
-       "description": "",
-       "price": 9.75,
-       "flags": [],
-       "guid": "7eb30b4a-b562-47ab-8589-c5029109cca8"
-      },
-      {
-       "name": "Child Caesar",
-       "description": "",
-       "price": 5.75,
-       "flags": [],
-       "guid": "df696afe-c8f7-4cc4-b672-e13c5275a1b1"
-      }
-     ]
-    },
-    {
-     "name": "Dessert",
-     "items": [
-      {
-       "name": "Apple Pie 'Pan Dowdy'",
-       "description": "french vanilla gelato, apple cider caramel",
-       "price": 13,
-       "flags": [],
-       "guid": "bb548d36-77a2-4397-85f6-09812b84c4bb"
-      },
-      {
-       "name": "Carmel Bakery Brownie",
-       "description": "\"di moda\" with hazelnut gelato, frangelico caramel",
-       "price": 13,
-       "flags": [],
-       "guid": "004111e5-555e-4c2e-ab8f-fdcb58ba13ae"
-      },
-      {
-       "name": "Child Sorbetto",
-       "description": "",
-       "price": 5,
-       "flags": [],
-       "guid": "1f0eab8d-6e8f-44d6-823f-435cdfb95513"
-      },
-      {
-       "name": "Child Spumone",
-       "description": "",
-       "price": 5,
-       "flags": [],
-       "guid": "34658f0b-bb68-4159-91b2-125d186bfa34"
-      },
-      {
-       "name": "Child Vanilla",
-       "description": "",
-       "price": 5,
-       "flags": [],
-       "guid": "36fdca69-35de-43ca-a7ce-dd203b6c8e0f"
-      },
-      {
-       "name": "Cream Pie",
-       "description": "",
-       "price": 20,
-       "flags": [],
-       "guid": "06193067-3b19-405f-9576-c395b18fe04d"
-      },
-      {
-       "name": "Crème Brûlée",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "79903d00-641d-4993-8ee1-3e68edb748cc"
-      },
-      {
-       "name": "Limoncello Mousse Cake",
-       "description": "",
-       "price": 10,
-       "flags": [],
-       "guid": "6cade468-9255-4ded-a82d-6848d90b060d"
-      },
-      {
-       "name": "Pistachio Cannoli",
-       "description": "",
-       "price": 11,
-       "flags": [],
-       "guid": "9946a5b9-c842-4e21-925d-1bd638c6e4f6"
-      },
-      {
-       "name": "Salted Caramel Affogato",
-       "description": "salted caramel gelato, espresso, chocolate biscotti liquore",
-       "price": 16,
-       "flags": [],
-       "guid": "896573b0-b209-4160-8620-44b0a087b0a9"
-      },
-      {
-       "name": "Spumone Napoletana",
-       "description": "",
-       "price": 9,
-       "flags": [],
-       "guid": "8af20453-fff3-4a8f-8d3b-6111222650ab"
-      },
-      {
-       "name": "Tiramisù",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "64617798-27c2-4833-a42e-00300ae08307"
-      }
-     ]
-    },
-    {
-     "name": "Off-Menu",
-     "items": [
-      {
-       "name": "Carbonara",
-       "description": "farm egg, pancetta, peas, parmigiano, pecorino, spaghetti",
-       "price": 30,
-       "flags": [],
-       "guid": "ca58c4bf-ddd3-48b6-b70b-b354d0b7b145"
-      },
-      {
-       "name": "Di Parma",
-       "description": "prosciutto, tomato sauce, mozz', arugula, parmigiano",
-       "price": 28,
-       "flags": [],
-       "guid": "bf5a0f0b-fd74-49d3-9b3c-de746b30f9b4"
-      },
-      {
-       "name": "Mixed Green Salad",
-       "description": "tomato, cucumber",
-       "price": 15,
-       "flags": [],
-       "guid": "3c8e15b7-5ff7-49a2-b583-1cd83cc727cc"
-      },
-      {
-       "name": "Pesto Genovese (Lunch)",
-       "description": "creamy basil pesto, asparagus, potatoes, tagliatelle",
-       "price": 29,
-       "flags": [
-        "vg"
-       ],
-       "guid": "49ced804-0e8f-4683-9b65-eec4de5d60bd"
-      },
-      {
-       "name": "Spaghetti alle Vongole",
-       "description": "steamed manila clams, garlic-butter white wine sauce",
-       "price": 30,
-       "flags": [],
-       "guid": "36cbb5f4-29a0-4f2b-b066-060bf553b8ba"
-      },
-      {
-       "name": "Spaghetti Pomodoro",
-       "description": "plain spaghetti w/ tomato sauce",
-       "price": 25,
-       "flags": [],
-       "guid": "b327e6ea-9f66-40ee-b88f-f0ba8ae735bd"
-      },
-      {
-       "name": "Steak Frites",
-       "description": "16 oz. Harris Ranch rib-eye, seasoned fries, Chianti reduction",
-       "price": 54,
-       "flags": [],
-       "guid": "9a82796d-b59d-4379-902d-b4b33427ea2e"
-      },
-      {
-       "name": "Plate of Prosciutto",
-       "description": "",
-       "price": 10,
-       "flags": [],
-       "guid": "b2672c44-dcc8-4202-a3b6-401d1a45c99a"
-      }
-     ]
-    },
-    {
-     "name": "Mezza Mezza",
-     "items": [
-      {
-       "name": "Mezza Mezza",
-       "description": "",
-       "price": 22,
-       "flags": [],
-       "guid": "dec4d10d-498b-41ea-90be-cdebb010b68f"
       }
      ]
     }
@@ -1540,861 +1274,304 @@
    "pdf": "",
    "groups": [
     {
-     "name": "By the Glass",
-     "items": [
-      {
-       "name": "House Red GL",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "a33112fe-659a-45b3-8525-de506c5f46a9"
-      },
-      {
-       "name": "Tascante Etna GL",
-       "description": "",
-       "price": 20,
-       "flags": [],
-       "guid": "53a2e858-8704-4c1e-9832-885e49678190"
-      },
-      {
-       "name": "Guado Vermentino GL",
-       "description": "",
-       "price": 16,
-       "flags": [],
-       "guid": "a9d084e8-f79a-43b0-b2b7-e6a2cbc380bf"
-      },
-      {
-       "name": "Silvestri Pinot Noir GL",
-       "description": "",
-       "price": 16,
-       "flags": [],
-       "guid": "f3fcede6-9bd5-404d-b8a2-f67ad70b73bc"
-      },
-      {
-       "name": "Marchese Antinori GL",
-       "description": "",
-       "price": 25,
-       "flags": [],
-       "guid": "676860a3-b12f-4d31-a1ba-8f076281bc7e"
-      },
-      {
-       "name": "House White GL",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "2d7e3f12-ce21-4a14-bde7-16d72fa292f9"
-      },
-      {
-       "name": "Moet Brut GL",
-       "description": "",
-       "price": 22,
-       "flags": [],
-       "guid": "e582384e-69f9-4619-89b9-cd7fc7ff7907"
-      },
-      {
-       "name": "Peppoli GL",
-       "description": "",
-       "price": 16,
-       "flags": [],
-       "guid": "349d8d50-d945-4de5-bae3-9a96f5b51c12"
-      },
-      {
-       "name": "Pepe Pinot Noir GL",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "50c1a4dd-69ff-4fac-b714-820b4e93742f"
-      },
-      {
-       "name": "White Wine Flight",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "65dd7129-7ff2-4694-b044-29b3483371d8"
-      },
-      {
-       "name": "Pepe Chard GL",
-       "description": "",
-       "price": 16,
-       "flags": [],
-       "guid": "079cd3ca-834b-43a9-bfed-1d17739ae598"
-      },
-      {
-       "name": "Prosecco GL",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "3f162c25-5654-425c-b9db-e902adbb0b3d"
-      },
-      {
-       "name": "Red Wine Flight",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "63076391-5021-4275-b620-54520a815a72"
-      },
-      {
-       "name": "Pepe Cabernet RSV GL",
-       "description": "",
-       "price": 22,
-       "flags": [],
-       "guid": "966fee49-e56a-4b3c-b597-0c7231ff3120"
-      },
-      {
-       "name": "Rombauer Chard GL",
-       "description": "",
-       "price": 22,
-       "flags": [],
-       "guid": "740d7e84-5b05-4375-b586-8fa7f6dfaba4"
-      },
-      {
-       "name": "Santa Cristina PG GL",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "2e940a0d-c5be-4eb8-a931-aa7123e5cfa7"
-      },
-      {
-       "name": "Silvestri Chard GL",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "582169de-f9f7-4621-ba33-3821e2bdcf87"
-      },
-      {
-       "name": "Rosa Regale GL",
-       "description": "",
-       "price": 16,
-       "flags": [],
-       "guid": "8d0d8eb9-9a56-4223-8899-acc34c0baa43"
-      },
-      {
-       "name": "Pepe Vesuvio GL",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "887f431d-42ee-40c9-8ee2-497ee0c23078"
-      },
-      {
-       "name": "Pepe SB GL",
-       "description": "",
-       "price": 16,
-       "flags": [],
-       "guid": "6e997cb1-0756-4a33-a1ac-6e3c4cc4893a"
-      },
-      {
-       "name": "Stag's Karia Chard GL",
-       "description": "",
-       "price": 20,
-       "flags": [],
-       "guid": "1955e99d-df45-478a-aea1-71a1613851fa"
-      },
-      {
-       "name": "Velenosi Pecorino GL",
-       "description": "",
-       "price": 13,
-       "flags": [],
-       "guid": "bc52809e-c5ed-4950-8526-3c5e6200f1e2"
-      },
-      {
-       "name": "Moet Rose GL",
-       "description": "",
-       "price": 25,
-       "flags": [],
-       "guid": "35272b18-7377-4590-a131-914692292c6c"
-      },
-      {
-       "name": "Pepe Rose GL",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "5f3ac835-c81f-4f44-9b84-8fa8936c711c"
-      }
-     ]
-    },
-    {
      "name": "Sparkling",
      "items": [
       {
-       "name": "Dom Perignon Brut 2010 BTL",
+       "name": "Vietti Moscato d'Asti",
        "description": "",
-       "price": 425,
+       "price": 25,
        "flags": [],
-       "guid": "87b76f52-83bf-4712-a7db-31e9c78098ff"
+       "guid": "e2536dad-9b67-422d-91d9-86cf9c6dbf17"
       },
       {
-       "name": "Moet Brut BTL",
-       "description": "",
-       "price": 115,
-       "flags": [],
-       "guid": "124580a1-9fb6-4589-889a-f7a021becac4"
-      },
-      {
-       "name": "Moet MCII BTL",
-       "description": "",
-       "price": 210,
-       "flags": [],
-       "guid": "4d5846f5-6caa-415e-911b-11c1a2e787b1"
-      },
-      {
-       "name": "Moet Vintage '09 / '08 BTL",
-       "description": "",
-       "price": 144,
-       "flags": [],
-       "guid": "07e64490-aec6-44a4-8718-d69a50b91477"
-      },
-      {
-       "name": "Ruinart Brut BTL",
-       "description": "",
-       "price": 170,
-       "flags": [],
-       "guid": "0caf778d-ab61-4e1b-ad66-d476d0db21cd"
-      },
-      {
-       "name": "Veuve Cliquot Rose BTL",
-       "description": "",
-       "price": 145,
-       "flags": [],
-       "guid": "08d19b72-4dc7-49ed-b96f-8ee7e0df5db0"
-      }
-     ]
-    },
-    {
-     "name": "Whites",
-     "items": [
-      {
-       "name": "Santa Cristina Pinot Grigio BTL",
-       "description": "",
-       "price": 46,
-       "flags": [],
-       "guid": "7425f023-b92d-4056-84cf-e02e8e82d5de"
-      }
-     ]
-    },
-    {
-     "name": "Italian Reds",
-     "items": [
-      {
-       "name": "Gaja Sori Tildin BTL",
-       "description": "",
-       "price": 625,
-       "flags": [],
-       "guid": "163545e3-bf0c-430c-ba2e-492aa845e455"
-      },
-      {
-       "name": "Le Difese BTL",
-       "description": "",
-       "price": 90,
-       "flags": [],
-       "guid": "04d6c5e9-6e00-4f36-8c8f-9fac1d84744b"
-      },
-      {
-       "name": "Ornellaia BTL",
-       "description": "",
-       "price": 425,
-       "flags": [],
-       "guid": "730a560b-c01c-42a9-ad6c-73d95872a89c"
-      }
-     ]
-    },
-    {
-     "name": "California Reds",
-     "items": [
-      {
-       "name": "Cachagua Cab Blend BTL",
-       "description": "",
-       "price": 55,
-       "flags": [],
-       "guid": "1e665db5-2d87-42ad-9952-5f9be53b30ff"
-      },
-      {
-       "name": "Silvestri Eugenia BTL",
-       "description": "",
-       "price": 90,
-       "flags": [],
-       "guid": "2a710a7c-366b-4c84-99eb-10d044354c16"
-      }
-     ]
-    },
-    {
-     "name": "Dessert Wine (BTG)",
-     "items": [
-      {
-       "name": "GLS Melizie Fiano Passito",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "5d8bad82-097a-4b35-b3ac-2315ce7a10c7"
-      },
-      {
-       "name": "GLS Muffato",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "a5f28adb-d103-4a99-a3c0-c833bf6c33b3"
-      },
-      {
-       "name": "GLS Vin Santo",
-       "description": "",
-       "price": 14,
-       "flags": [],
-       "guid": "955d041e-a50b-4df5-837f-bbd09d4d5537"
-      }
-     ]
-    },
-    {
-     "name": "Glass",
-     "items": [
-      {
-       "name": "GLS Graham's 10yr Tawny",
-       "description": "",
-       "price": 10,
-       "flags": [],
-       "guid": "1436f0e5-79fc-468f-8205-ac3e691d6b98"
-      },
-      {
-       "name": "GLS Graham's 20yr Tawny",
-       "description": "",
-       "price": 20,
-       "flags": [],
-       "guid": "e4cda81b-8949-4d02-9c4a-52239984b869"
-      },
-      {
-       "name": "GLS Barolo Chinato",
-       "description": "",
-       "price": 15,
-       "flags": [],
-       "guid": "20c89c24-a263-452b-b8ca-df4b0788f6a0"
-      }
-     ]
-    },
-    {
-     "name": "Bottle",
-     "items": [
-      {
-       "name": "Fonseca '78",
-       "description": "",
-       "price": 385,
-       "flags": [],
-       "guid": "37c9a04d-8886-4b92-9788-0c587e9a4cc2"
-      },
-      {
-       "name": "Fonseca '83",
-       "description": "",
-       "price": 330,
-       "flags": [],
-       "guid": "ba913143-f7f0-4a8b-a051-05510acdcabe"
-      },
-      {
-       "name": "Fonseca '85",
-       "description": "",
-       "price": 330,
-       "flags": [],
-       "guid": "62527f8c-188e-4da3-8150-6751c11dc9e2"
-      },
-      {
-       "name": "Fonseca '95",
-       "description": "",
-       "price": 275,
-       "flags": [],
-       "guid": "230d08fa-83b8-49fa-afaa-6aa258db8f75"
-      },
-      {
-       "name": "Quinto do Noval '37",
-       "description": "",
-       "price": 850,
-       "flags": [],
-       "guid": "7db2dba4-fae4-4bed-a9d7-0318680801f9"
-      },
-      {
-       "name": "Quinto do Noval '85",
-       "description": "",
-       "price": 325,
-       "flags": [],
-       "guid": "c39b9f8a-8ca8-42fb-84e3-84461afaa78e"
-      },
-      {
-       "name": "Quinto do Noval '87",
-       "description": "",
-       "price": 325,
-       "flags": [],
-       "guid": "e99f276d-1e2a-44fc-aa08-e701ac96fdcb"
-      },
-      {
-       "name": "Quinto do Noval '94",
-       "description": "",
-       "price": 250,
-       "flags": [],
-       "guid": "f04873de-c86c-4d8a-b60c-d0907b80b1b7"
-      },
-      {
-       "name": "Dow's '85",
-       "description": "",
-       "price": 285,
-       "flags": [],
-       "guid": "defd1e93-d3f2-409d-81fd-b5c04fee1380"
-      },
-      {
-       "name": "Warre's '63",
-       "description": "",
-       "price": 875,
-       "flags": [],
-       "guid": "1c78092f-6f4d-4b33-9672-06887c55cb9f"
-      },
-      {
-       "name": "Warre's '68",
-       "description": "",
-       "price": 425,
-       "flags": [],
-       "guid": "ab2e5b78-32d1-42a6-878a-28fdaadc100d"
-      },
-      {
-       "name": "Warre's '94",
-       "description": "",
-       "price": 250,
-       "flags": [],
-       "guid": "819f3ca8-e4dd-40d3-9455-d401c38566d2"
-      },
-      {
-       "name": "Graham's '77",
-       "description": "",
-       "price": 295,
-       "flags": [],
-       "guid": "7077f8d3-0455-4735-88fd-27cd945ca830"
-      },
-      {
-       "name": "Taylor-Fladgate '64",
-       "description": "",
-       "price": 475,
-       "flags": [],
-       "guid": "8f5dc428-888a-4208-b561-395e4b088dbc"
-      },
-      {
-       "name": "Taylor-Fladgate '94",
-       "description": "",
-       "price": 295,
-       "flags": [],
-       "guid": "7265f003-5c97-46c6-be34-7f1777e30040"
-      }
-     ]
-    },
-    {
-     "name": "Large Format",
-     "items": [
-      {
-       "name": "Antica Cab MAG",
-       "description": "",
-       "price": 225,
-       "flags": [],
-       "guid": "b3f7ded4-24a8-4ebe-a45a-bc0858f64b06"
-      },
-      {
-       "name": "Antinori Townsend MAG",
-       "description": "",
-       "price": 395,
-       "flags": [],
-       "guid": "94b72bfd-fe25-4c7c-a2c1-17c564056075"
-      },
-      {
-       "name": "Bernardus Marinus MAG",
-       "description": "",
-       "price": 145,
-       "flags": [],
-       "guid": "2e0033b0-0474-481c-ba23-f414bc073392"
-      },
-      {
-       "name": "Cachagua MAG",
-       "description": "",
-       "price": 100,
-       "flags": [],
-       "guid": "5ea00e4d-84da-4e5b-841e-d8dba28119fa"
-      },
-      {
-       "name": "Cont'Ugo MAG",
-       "description": "",
-       "price": 195,
-       "flags": [],
-       "guid": "a94b8b09-22ce-44c3-9b67-73479453c8da"
-      },
-      {
-       "name": "Guado al Tasso '01 MAG",
-       "description": "",
-       "price": 600,
-       "flags": [],
-       "guid": "7869f679-6d24-4b5f-9271-6bbe351fe7f4"
-      },
-      {
-       "name": "Pepe Cab RSV MAG",
-       "description": "",
-       "price": 150,
-       "flags": [],
-       "guid": "5984f577-1f4f-417d-afd5-436f721d08b0"
-      },
-      {
-       "name": "Pepe Vesuvio MAG",
-       "description": "",
-       "price": 120,
-       "flags": [],
-       "guid": "36ddbcf0-21e7-4407-9604-c7fdb924295b"
-      },
-      {
-       "name": "Pian Delle Vigne '18 MAG",
-       "description": "",
-       "price": 295,
-       "flags": [],
-       "guid": "ab1a7a5c-7fac-4b5c-ab49-3b65bc520093"
-      },
-      {
-       "name": "Stags Cask 23 '18 MAG",
-       "description": "",
-       "price": 995,
-       "flags": [],
-       "guid": "229a49cc-36c4-4020-9824-1670d8d91715"
-      },
-      {
-       "name": "Tignanello MAG",
-       "description": "",
-       "price": 595,
-       "flags": [],
-       "guid": "dd9798a3-7ec6-4844-b314-948feba6af94"
-      }
-     ]
-    },
-    {
-     "name": "Half Bottles",
-     "items": [
-      {
-       "name": "Felsina Rancia HALF BTL",
-       "description": "",
-       "price": 65,
-       "flags": [],
-       "guid": "9155e035-3749-47f4-a46f-48b5896fc165"
-      },
-      {
-       "name": "Tignanello HALF BTL",
-       "description": "",
-       "price": 150,
-       "flags": [],
-       "guid": "9e03046e-e6e1-459f-957d-56aaeae99235"
-      },
-      {
-       "name": "Sassicaia HALF BTL",
-       "description": "",
-       "price": 300,
-       "flags": [],
-       "guid": "9e3c1d64-9043-4f1e-a592-faff849942e0"
-      }
-     ]
-    },
-    {
-     "name": "Sparkling",
-     "items": [
-      {
-       "name": "Adami Prosecco HALF",
+       "name": "Adami Brut Prosecco, Valdobbiadene (half bottle)",
        "description": "",
        "price": 35,
        "flags": [],
        "guid": "19c51623-2ff5-4c4d-9993-b45f48b221da"
       },
       {
-       "name": "Bele Casel Prosecco BTL",
+       "name": "Bele Casel Extra Brut, Prosecco Superiore",
        "description": "",
        "price": 45,
        "flags": [],
        "guid": "699d40d7-261e-4c0b-99c4-df348f1f9b2d"
       },
       {
-       "name": "Col de Salici Rose BTL",
+       "name": "Col de Salici Brut Rosé, Prosecco",
        "description": "",
        "price": 45,
        "flags": [],
        "guid": "73eb430b-6683-4b74-bf6e-088ebb42d19e"
-      },
-      {
-       "name": "Vietti Moscato d'Asti HALF",
-       "description": "",
-       "price": 25,
-       "flags": [],
-       "guid": "e2536dad-9b67-422d-91d9-86cf9c6dbf17"
       }
-     ]
+     ],
+     "section": "Italy"
     },
     {
      "name": "White",
      "items": [
       {
-       "name": "Mastro Greco di Tufo BTL",
-       "description": "",
-       "price": 54,
-       "flags": [],
-       "guid": "bd5cd26d-1618-48fc-a007-779b13f15b20"
-      },
-      {
-       "name": "Ciro Picariello BruEmm Falanghina BTL",
-       "description": "",
-       "price": 52,
-       "flags": [],
-       "guid": "e7256458-57f8-4fd3-bae3-c695dd8f08b9"
-      },
-      {
-       "name": "San Giovanni Orvieto BTL",
-       "description": "",
-       "price": 52,
-       "flags": [],
-       "guid": "c7345858-f27b-40eb-99c4-9e7719b93216"
-      },
-      {
-       "name": "Jermann Pinot Grigio BTL",
-       "description": "",
-       "price": 56,
-       "flags": [],
-       "guid": "f636dc7a-85ff-43e4-bcbd-ff60ce0eea8f"
-      },
-      {
-       "name": "Guado Vermentino BTL",
-       "description": "",
-       "price": 50,
-       "flags": [],
-       "guid": "84b32896-8122-4aaf-8e38-cb403ad5b58a"
-      },
-      {
-       "name": "Velenosi Pecorino BTL",
+       "name": "Velenosi Pecorino, Marche",
        "description": "",
        "price": 45,
        "flags": [],
        "guid": "adb36d03-6ed4-4a8a-bf4c-38b5830f6683"
       },
       {
-       "name": "Stilema Fiano BTL",
+       "name": "Guado al Tasso Vermentino, Bolgheri",
+       "description": "",
+       "price": 50,
+       "flags": [],
+       "guid": "84b32896-8122-4aaf-8e38-cb403ad5b58a"
+      },
+      {
+       "name": "Ciro Picariello BruEmm Falanghina",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "e7256458-57f8-4fd3-bae3-c695dd8f08b9"
+      },
+      {
+       "name": "Castello della Sala ‘San Giovanni’ Orvieto Superiore",
+       "description": "",
+       "price": 52,
+       "flags": [],
+       "guid": "c7345858-f27b-40eb-99c4-9e7719b93216"
+      },
+      {
+       "name": "Mastroberardino Greco di Tufo, Campania",
+       "description": "",
+       "price": 54,
+       "flags": [],
+       "guid": "bd5cd26d-1618-48fc-a007-779b13f15b20"
+      },
+      {
+       "name": "Jermann Pinot Grigio, Friuli-Venezia Giulia",
+       "description": "",
+       "price": 56,
+       "flags": [],
+       "guid": "f636dc7a-85ff-43e4-bcbd-ff60ce0eea8f"
+      },
+      {
+       "name": "Stilema Fiano",
        "description": "",
        "price": 90,
        "flags": [],
        "guid": "02e99824-63c1-4449-9cfb-c007ff45c642"
       },
       {
-       "name": "Stilema Greco BTL",
+       "name": "Stilema Greco",
        "description": "",
        "price": 90,
        "flags": [],
        "guid": "cac7eda2-92e3-46f6-9f21-067f36735d6e"
       },
       {
-       "name": "Cervaro Chard BTL",
+       "name": "Cervaro Chard",
        "description": "",
        "price": 125,
        "flags": [],
        "guid": "f4ac8016-8621-46a4-9c1b-3e96ea8ea2a6"
       },
       {
-       "name": "Jermann Vintage Tunina BTL",
+       "name": "Jermann ‘Vintage Tunina’, Friuli-Venezia Giulia",
        "description": "",
        "price": 140,
        "flags": [],
        "guid": "7c5903b6-b3fb-4827-81a3-f3cce28cc12d"
       }
-     ]
+     ],
+     "section": "Italy"
     },
     {
      "name": "Southern Italian Red",
      "items": [
       {
-       "name": "Grifalco Aglianico del Vulture BTL",
-       "description": "",
-       "price": 56,
-       "flags": [],
-       "guid": "30c37858-2765-41ec-b693-a6d8fefdbd2d"
-      },
-      {
-       "name": "Tascante Etna Rosso BTL",
-       "description": "",
-       "price": 60,
-       "flags": [],
-       "guid": "22351e1b-2b9b-477c-bea6-b151000697f6"
-      },
-      {
-       "name": "Mastro Lacryma Christi BTL",
+       "name": "Mastroberardino Lacryma Christi del Vesuvio 2023",
        "description": "",
        "price": 52,
        "flags": [],
        "guid": "d963dd99-d0fa-4a1d-a8bc-db470fc87946"
       },
       {
-       "name": "Mastro Taurasi Radici BTL",
+       "name": "Grifalco Aglianico del Vulture 2022",
+       "description": "",
+       "price": 56,
+       "flags": [],
+       "guid": "30c37858-2765-41ec-b693-a6d8fefdbd2d"
+      },
+      {
+       "name": "Tascante Etna Rosso",
+       "description": "",
+       "price": 60,
+       "flags": [],
+       "guid": "22351e1b-2b9b-477c-bea6-b151000697f6"
+      },
+      {
+       "name": "Mastroberardino ‘Radici’ Taurasi (Aglianico) 2019",
        "description": "",
        "price": 110,
        "flags": [],
        "guid": "f234d015-d8bc-4139-bcab-1303a4483a83"
       },
       {
-       "name": "Mastro Taurasi Radici Riserva BTL",
+       "name": "Mastroberardino ‘Radici’ Taurasi Riserva (Aglianico) 2017",
        "description": "",
        "price": 165,
        "flags": [],
        "guid": "d09fc099-88e4-4d94-9a21-f690ae651ba6"
       }
-     ]
+     ],
+     "section": "Italy"
     },
     {
      "name": "Northern Italian Red",
      "items": [
       {
-       "name": "Vietti Lazarotti Barolo BTL",
-       "description": "",
-       "price": 425,
-       "flags": [],
-       "guid": "ab764f50-2e34-4e9f-a1bc-26318cb06753"
-      },
-      {
-       "name": "Prunotto Bussia BTL",
-       "description": "",
-       "price": 195,
-       "flags": [],
-       "guid": "ef3bac9c-7dd1-4c0b-9657-74cfb86faf6e"
-      },
-      {
-       "name": "Gaja Sito Moresco BTL",
-       "description": "",
-       "price": 162,
-       "flags": [],
-       "guid": "51a674c8-5f96-4504-8537-14e88dff8b1a"
-      },
-      {
-       "name": "Mauro Veglio Barolo BTL",
-       "description": "",
-       "price": 100,
-       "flags": [],
-       "guid": "ccede71f-667b-4ce5-a1cb-255006ddab6e"
-      },
-      {
-       "name": "Prunotto 'BricTurot' Barbaresco BTL",
-       "description": "",
-       "price": 125,
-       "flags": [],
-       "guid": "d6bc0067-5e35-4977-b58a-6725e31bbcba"
-      },
-      {
-       "name": "M.Chiralo Cipressi Nizza BTL",
-       "description": "",
-       "price": 64,
-       "flags": [],
-       "guid": "2960b212-7172-4833-bda4-27d973f52ae0"
-      },
-      {
-       "name": "Conterno Fantino Dolcetto BTL",
+       "name": "Conterno Fantino Dolcetto d’Alba 2024",
        "description": "",
        "price": 48,
        "flags": [],
        "guid": "0f9929f2-07f1-4430-8ab6-f38367972640"
       },
       {
-       "name": "Prunotto Occhetti Langhe Nebbiolo BTL",
-       "description": "",
-       "price": 62,
-       "flags": [],
-       "guid": "e32b9799-2f25-467b-811a-104fd5a10644"
-      },
-      {
-       "name": "Badia Passignano BTL",
-       "description": "",
-       "price": 125,
-       "flags": [],
-       "guid": "df4f45dc-5f7e-459b-af8a-0a2684172ce3"
-      },
-      {
-       "name": "Marchese Antinori Riserva BTL",
-       "description": "",
-       "price": 95,
-       "flags": [],
-       "guid": "90c1db83-63d1-438d-9d16-861623135207"
-      },
-      {
-       "name": "Peppoli BTL",
-       "description": "",
-       "price": 60,
-       "flags": [],
-       "guid": "642b2a76-0fb8-4236-b22c-0e770bc17ace"
-      },
-      {
-       "name": "Villa Antinori Toscana BTL",
+       "name": "Villa Antinori Toscana (Sangiovese) 2022",
        "description": "",
        "price": 52,
        "flags": [],
        "guid": "bd27d4c0-befa-4329-bf22-408d84c96a02"
       },
       {
-       "name": "Pian d. Vigne Brunello BTL",
+       "name": "Monti Garbi Valpolicella Ripasso Classico Superiore 2021",
        "description": "",
-       "price": 155,
+       "price": 58,
        "flags": [],
-       "guid": "0447dce0-5e84-4e22-84ab-c5e99d99c01c"
+       "guid": "b032415e-0534-4d9a-8c2a-93e33c434bc0"
       },
       {
-       "name": "La Fiorita BTL",
+       "name": "Pèppoli Chianti Classico ‘Single Vineyard’ 2023",
        "description": "",
-       "price": 140,
+       "price": 60,
        "flags": [],
-       "guid": "0ed82b5e-c481-4d8a-b75b-879136f0dc96"
+       "guid": "642b2a76-0fb8-4236-b22c-0e770bc17ace"
       },
       {
-       "name": "Poliziano Vino Nobile BTL",
+       "name": "Prunotto Occhetti Langhe Nebbiolo",
        "description": "",
-       "price": 75,
+       "price": 62,
        "flags": [],
-       "guid": "5964c8c8-53c9-4ae0-b7a4-be767b56afcc"
+       "guid": "e32b9799-2f25-467b-811a-104fd5a10644"
       },
       {
-       "name": "Pian d. Vigne Rosso Montalcino BTL",
+       "name": "M.Chiralo Cipressi Nizza",
+       "description": "",
+       "price": 64,
+       "flags": [],
+       "guid": "2960b212-7172-4833-bda4-27d973f52ae0"
+      },
+      {
+       "name": "Pian d. Vigne Rosso Montalcino",
        "description": "",
        "price": 68,
        "flags": [],
        "guid": "fac52a1b-d351-4604-bf86-4db04feb9829"
       },
       {
-       "name": "Buglione Amarone BTL",
+       "name": "Poliziano Vino Nobile di Montepulciano 2022",
+       "description": "",
+       "price": 75,
+       "flags": [],
+       "guid": "5964c8c8-53c9-4ae0-b7a4-be767b56afcc"
+      },
+      {
+       "name": "Marchese Antinori Chianti Classico Riserva 2022",
+       "description": "",
+       "price": 95,
+       "flags": [],
+       "guid": "90c1db83-63d1-438d-9d16-861623135207"
+      },
+      {
+       "name": "Mauro Veglio Barolo 2021",
+       "description": "",
+       "price": 100,
+       "flags": [],
+       "guid": "ccede71f-667b-4ce5-a1cb-255006ddab6e"
+      },
+      {
+       "name": "Prunotto 'BricTurot' Barbaresco",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "d6bc0067-5e35-4977-b58a-6725e31bbcba"
+      },
+      {
+       "name": "Badia a Passignano Chianti Classico Gran Selezione 2021",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "df4f45dc-5f7e-459b-af8a-0a2684172ce3"
+      },
+      {
+       "name": "Buglione Amarone della Valpolicella Classico",
        "description": "",
        "price": 132,
        "flags": [],
        "guid": "c149199b-db1c-463b-865f-2fda8ec4f6ab"
       },
       {
-       "name": "Monti Garbi Ripasso BTL",
+       "name": "La Fiorita Brunello di Montalcino 2018",
        "description": "",
-       "price": 58,
+       "price": 140,
        "flags": [],
-       "guid": "b032415e-0534-4d9a-8c2a-93e33c434bc0"
+       "guid": "0ed82b5e-c481-4d8a-b75b-879136f0dc96"
+      },
+      {
+       "name": "Pian d. Vigne Brunello",
+       "description": "",
+       "price": 155,
+       "flags": [],
+       "guid": "0447dce0-5e84-4e22-84ab-c5e99d99c01c"
+      },
+      {
+       "name": "Gaja ‘Sito Moresco’ Langhe (Nebbiolo Blend) 2021",
+       "description": "",
+       "price": 162,
+       "flags": [],
+       "guid": "51a674c8-5f96-4504-8537-14e88dff8b1a"
+      },
+      {
+       "name": "Prunotto Bussia",
+       "description": "",
+       "price": 195,
+       "flags": [],
+       "guid": "ef3bac9c-7dd1-4c0b-9657-74cfb86faf6e"
+      },
+      {
+       "name": "Vietti Lazarotti Barolo",
+       "description": "",
+       "price": 425,
+       "flags": [],
+       "guid": "ab764f50-2e34-4e9f-a1bc-26318cb06753"
       }
-     ]
+     ],
+     "section": "Italy"
     },
     {
      "name": "Super Tuscan",
      "items": [
       {
-       "name": "Matarocchio Cab Franc BTL",
+       "name": "Guado \"Il Bruciato\"",
        "description": "",
-       "price": 1095,
+       "price": 75,
        "flags": [],
-       "guid": "d02f50fc-cb7d-4079-8126-13c58da11efe"
+       "guid": "86170c73-c40e-4ff0-8475-ae5609c3842b"
       },
       {
-       "name": "Tignanello BTL",
-       "description": "",
-       "price": 295,
-       "flags": [],
-       "guid": "372573e6-3a1f-4071-a4a9-1d9ba2e473b8"
-      },
-      {
-       "name": "Cont' Ugo Merlot BTL",
+       "name": "Cont' Ugo Merlot",
        "description": "",
        "price": 115,
        "flags": [],
        "guid": "79a0c6c2-a80a-47e2-b8d2-432bebf38fe1"
-      },
-      {
-       "name": "Guado Al Tasso BTL",
-       "description": "",
-       "price": 260,
-       "flags": [],
-       "guid": "688e9d7f-0b75-4eb0-8cf1-d73fd780c201"
       },
       {
        "name": "Guidalberto",
@@ -2404,243 +1581,330 @@
        "guid": "dc144f2e-85bc-435d-80b4-2d6ed473bd48"
       },
       {
-       "name": "Solaia BTL",
+       "name": "Guado Al Tasso",
+       "description": "",
+       "price": 260,
+       "flags": [],
+       "guid": "688e9d7f-0b75-4eb0-8cf1-d73fd780c201"
+      },
+      {
+       "name": "Tignanello Toscana (Sangiovese/Cabernet) 2021",
+       "description": "",
+       "price": 295,
+       "flags": [],
+       "guid": "372573e6-3a1f-4071-a4a9-1d9ba2e473b8"
+      },
+      {
+       "name": "Solaia Toscana (Cabernet/Sangiovese) 2019",
        "description": "",
        "price": 575,
        "flags": [],
        "guid": "da8c2503-130d-4ab8-85a5-72c69b593acb"
       },
       {
-       "name": "Guado \"Il Bruciato\" BTL",
-       "description": "",
-       "price": 75,
-       "flags": [],
-       "guid": "86170c73-c40e-4ff0-8475-ae5609c3842b"
-      },
-      {
-       "name": "Sassicaia BTL",
+       "name": "Sassicaia Bolgheri (Cabernet/Cabernet Franc) 2021",
        "description": "",
        "price": 625,
        "flags": [],
        "guid": "737c55cf-8192-47fc-89ed-e103cc98bc01"
+      },
+      {
+       "name": "Matarocchio Bolgheri (Cabernet Franc) 2009",
+       "description": "",
+       "price": 1095,
+       "flags": [],
+       "guid": "d02f50fc-cb7d-4079-8126-13c58da11efe"
       }
-     ]
+     ],
+     "section": "Italy"
     },
     {
      "name": "White + Rosé + Sparkling",
      "items": [
       {
-       "name": "Caraccioli Brut BTL",
-       "description": "",
-       "price": 95,
-       "flags": [],
-       "guid": "471c8d40-e652-41e4-8b85-1729463c623e"
-      },
-      {
-       "name": "Antica Chardonnay BTL",
-       "description": "",
-       "price": 100,
-       "flags": [],
-       "guid": "2c11e84c-34c7-4b0e-bc28-4d10ea59318d"
-      },
-      {
-       "name": "Rombauer Chard BTL",
-       "description": "",
-       "price": 85,
-       "flags": [],
-       "guid": "2ca5128d-7d93-4e98-88fb-4f5e658010d0"
-      },
-      {
-       "name": "Stag's Karia Chard BTL",
-       "description": "",
-       "price": 80,
-       "flags": [],
-       "guid": "9a018f74-8fb5-4387-b75c-206c1acf6cf5"
-      },
-      {
-       "name": "Pepe Chardonnay BTL",
-       "description": "",
-       "price": 60,
-       "flags": [],
-       "guid": "9c429231-44f0-474d-abfb-584c724e559d"
-      },
-      {
-       "name": "Silvestri Chardonnay BTL",
-       "description": "",
-       "price": 55,
-       "flags": [],
-       "guid": "ead73da5-3850-4fd7-9b75-c29b427dfcc1"
-      },
-      {
-       "name": "Pepe Rose BTL",
-       "description": "",
-       "price": 50,
-       "flags": [],
-       "guid": "966c59bb-a236-4483-8c28-7ff2b10e5653"
-      },
-      {
-       "name": "Cedar Lane Sauv Blanc BTL",
+       "name": "Cedar Lane Vineyard Sauvignon Blanc, Arroyo Seco",
        "description": "",
        "price": 48,
        "flags": [],
        "guid": "21f3526e-7351-4a43-bb0b-62eefaa9ae4a"
       },
       {
-       "name": "Pepe Sauvignon Blanc BTL",
+       "name": "Pèpe Rosé, Atlas Peak, Napa",
+       "description": "",
+       "price": 50,
+       "flags": [],
+       "guid": "966c59bb-a236-4483-8c28-7ff2b10e5653"
+      },
+      {
+       "name": "Pèpe Sauvignon Blanc, Atlas Peak, Napa",
        "description": "",
        "price": 54,
        "flags": [],
        "guid": "b63ad106-5816-4eb7-a0a0-4fcedc9ee9a4"
+      },
+      {
+       "name": "Silvestri Chardonnay, Carmel Valley",
+       "description": "",
+       "price": 55,
+       "flags": [],
+       "guid": "ead73da5-3850-4fd7-9b75-c29b427dfcc1"
+      },
+      {
+       "name": "Pèpe Chardonnay, Atlas Peak, Napa",
+       "description": "",
+       "price": 60,
+       "flags": [],
+       "guid": "9c429231-44f0-474d-abfb-584c724e559d"
+      },
+      {
+       "name": "Stag’s Leap ‘Karia’ Chardonnay, Napa Valley",
+       "description": "",
+       "price": 80,
+       "flags": [],
+       "guid": "9a018f74-8fb5-4387-b75c-206c1acf6cf5"
+      },
+      {
+       "name": "Rombauer Chardonnay, Carneros, Napa",
+       "description": "",
+       "price": 85,
+       "flags": [],
+       "guid": "2ca5128d-7d93-4e98-88fb-4f5e658010d0"
+      },
+      {
+       "name": "Caraccioli Brut, Santa Lucia Highlands",
+       "description": "",
+       "price": 95,
+       "flags": [],
+       "guid": "471c8d40-e652-41e4-8b85-1729463c623e"
+      },
+      {
+       "name": "Antica Chardonnay",
+       "description": "",
+       "price": 100,
+       "flags": [],
+       "guid": "2c11e84c-34c7-4b0e-bc28-4d10ea59318d"
       }
-     ]
+     ],
+     "section": "United States"
     },
     {
      "name": "Pinot Noir",
      "items": [
       {
-       "name": "Occidental 'Freestone' PN BTL",
-       "description": "",
-       "price": 140,
-       "flags": [],
-       "guid": "fc0ed75a-2ef2-4091-a5df-027de10b362a"
-      },
-      {
-       "name": "Bernardus 'Garys Vineyard' PN BTL",
-       "description": "",
-       "price": 125,
-       "flags": [],
-       "guid": "2a28ffaf-fc6a-4bce-97bf-4a352c9201ff"
-      },
-      {
-       "name": "Boekenoogen PN BTL",
-       "description": "",
-       "price": 86,
-       "flags": [],
-       "guid": "da04b1c2-2b6d-4e6d-b687-8c2b4606e18d"
-      },
-      {
-       "name": "Drouhin 'Roserock' PN BTL",
-       "description": "",
-       "price": 90,
-       "flags": [],
-       "guid": "b0687335-cc30-4815-ab30-8625eabc514a"
-      },
-      {
-       "name": "Pepe Pinot BTL",
-       "description": "",
-       "price": 66,
-       "flags": [],
-       "guid": "20c9edad-ed03-4b37-9c95-8b59dea94ab0"
-      },
-      {
-       "name": "The Calling PN BTL",
+       "name": "The Calling Pinot Noir, Russian River 2022",
        "description": "",
        "price": 64,
        "flags": [],
        "guid": "52c4261e-033d-40a5-8156-8291d7052a4a"
       },
       {
-       "name": "Silvestri PN BTL",
+       "name": "Pèpe Pinot Noir, Atlas Peak, Napa 2022",
+       "description": "",
+       "price": 66,
+       "flags": [],
+       "guid": "20c9edad-ed03-4b37-9c95-8b59dea94ab0"
+      },
+      {
+       "name": "Silvestri PN",
        "description": "",
        "price": 68,
        "flags": [],
        "guid": "b7444e60-accc-4afe-acba-f91f6104267a"
+      },
+      {
+       "name": "Boekenoogen Pinot Noir, Santa Lucia Highlands 2022",
+       "description": "",
+       "price": 86,
+       "flags": [],
+       "guid": "da04b1c2-2b6d-4e6d-b687-8c2b4606e18d"
+      },
+      {
+       "name": "Drouhin 'Roserock' PN",
+       "description": "",
+       "price": 90,
+       "flags": [],
+       "guid": "b0687335-cc30-4815-ab30-8625eabc514a"
+      },
+      {
+       "name": "Bernardus ‘Garys’ Vineyard’ Pinot Noir, Santa Lucia Highlands 2022",
+       "description": "",
+       "price": 125,
+       "flags": [],
+       "guid": "2a28ffaf-fc6a-4bce-97bf-4a352c9201ff"
+      },
+      {
+       "name": "Occidental ‘Freestone’ Pinot Noir, West Sonoma Coast 2023",
+       "description": "",
+       "price": 140,
+       "flags": [],
+       "guid": "fc0ed75a-2ef2-4091-a5df-027de10b362a"
       }
-     ]
+     ],
+     "section": "United States"
     },
     {
      "name": "Cabernet Sauvignon",
      "items": [
       {
-       "name": "Opus One BTL",
-       "description": "",
-       "price": 695,
-       "flags": [],
-       "guid": "b70bb036-bcc5-4e86-a229-5ea509d96c35"
-      },
-      {
-       "name": "Antinori 'Townsend' BTL",
-       "description": "",
-       "price": 225,
-       "flags": [],
-       "guid": "af31d137-dfd1-4260-bcf3-3a0c602ef91c"
-      },
-      {
-       "name": "Stag's Leap Artemis BTL",
-       "description": "",
-       "price": 150,
-       "flags": [],
-       "guid": "ac1e5785-c55b-4308-8fa9-3c497a8ac891"
-      },
-      {
-       "name": "Pepe Vesuvio BTL",
+       "name": "Pèpe ‘Vesuvio’ Cabernet Blend, Atlas Peak, Napa 2022",
        "description": "",
        "price": 66,
        "flags": [],
        "guid": "f8950b44-b53b-43b5-b7f4-0db37c3d6bcb"
       },
       {
-       "name": "The Calling Cabernet BTL",
+       "name": "The Calling Cabernet Sauvignon, Alexander Valley 2021",
        "description": "",
        "price": 70,
        "flags": [],
        "guid": "b77e06aa-e58f-41b8-b1d5-42ce7a4643bc"
       },
       {
-       "name": "Pepe Cab RSV BTL",
+       "name": "Pepe Cab RSV",
        "description": "",
        "price": 85,
        "flags": [],
        "guid": "26c0a961-9254-4cf5-abd6-743c9109cbcf"
       },
       {
-       "name": "Galante 'Red Rose Hill' BTL",
+       "name": "Galante 'Red Rose Hill'",
        "description": "",
        "price": 125,
        "flags": [],
        "guid": "69d8d19e-3b31-4be0-aa50-37304f46c6ee"
       },
       {
-       "name": "Antinori 'Proficio' BTL",
+       "name": "Stag’s Leap ‘Artemis’ Cabernet Sauvignon, Napa Valley 2022",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "ac1e5785-c55b-4308-8fa9-3c497a8ac891"
+      },
+      {
+       "name": "Antinori 'Townsend'",
+       "description": "",
+       "price": 225,
+       "flags": [],
+       "guid": "af31d137-dfd1-4260-bcf3-3a0c602ef91c"
+      },
+      {
+       "name": "Antinori ‘Proficio’ Atlas Peak, Napa 2021",
        "description": "",
        "price": 495,
        "flags": [],
        "guid": "a3442f0b-bf2f-4e39-ac58-1d69c23417f7"
       },
       {
-       "name": "Stag's Cask 23 BTL",
+       "name": "Stag’s Leap ‘Cask 23’ Napa Valley 2014",
        "description": "",
        "price": 650,
        "flags": [],
        "guid": "8dbdb424-c09b-4c24-ad10-5b709d5c8bf7"
+      },
+      {
+       "name": "Opus One, Oakville, Napa Valley 2016",
+       "description": "",
+       "price": 695,
+       "flags": [],
+       "guid": "b70bb036-bcc5-4e86-a229-5ea509d96c35"
       }
-     ]
+     ],
+     "section": "United States"
     },
     {
      "name": "Other Varietals",
      "items": [
       {
-       "name": "Melville 'Donna's Block' Syrah BTL",
-       "description": "",
-       "price": 110,
-       "flags": [],
-       "guid": "ab54770b-8e70-4754-9a72-a77f94ff0d18"
-      },
-      {
-       "name": "Cedar Lane 'Las Arenas' BTL",
+       "name": "Cedar Lane 'Las Arenas'",
        "description": "",
        "price": 52,
        "flags": [],
        "guid": "643e6fb5-6e5f-4088-b443-feeb43ffed0a"
       },
       {
-       "name": "Russell Joyce Gamay BTL",
+       "name": "Russell Joyce Gamay Noir, Arroyo Seco 2023",
        "description": "",
        "price": 54,
        "flags": [],
        "guid": "9d719b95-432c-4c4e-ab82-4e10706f73c7"
+      },
+      {
+       "name": "Melville 'Donna's Block' Syrah",
+       "description": "",
+       "price": 110,
+       "flags": [],
+       "guid": "ab54770b-8e70-4754-9a72-a77f94ff0d18"
       }
-     ]
+     ],
+     "section": "United States"
+    },
+    {
+     "name": "Magnums | 1.5L",
+     "items": [
+      {
+       "name": "Pèpe Cabernet Reserve, Atlas Peak, Napa 2020 (magnum)",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "5984f577-1f4f-417d-afd5-436f721d08b0"
+      },
+      {
+       "name": "Pian Delle Vigne '18",
+       "description": "",
+       "price": 295,
+       "flags": [],
+       "guid": "ab1a7a5c-7fac-4b5c-ab49-3b65bc520093"
+      },
+      {
+       "name": "Antinori ‘Townsend’ Cabernet Sauvignon, Atlas Peak, Napa 2019 (magnum)",
+       "description": "",
+       "price": 395,
+       "flags": [],
+       "guid": "94b72bfd-fe25-4c7c-a2c1-17c564056075"
+      },
+      {
+       "name": "Tignanello Toscana 2019 (magnum)",
+       "description": "",
+       "price": 595,
+       "flags": [],
+       "guid": "dd9798a3-7ec6-4844-b314-948feba6af94"
+      },
+      {
+       "name": "Stags Cask 23 '18",
+       "description": "",
+       "price": 995,
+       "flags": [],
+       "guid": "229a49cc-36c4-4020-9824-1670d8d91715"
+      }
+     ],
+     "section": "Other Formats"
+    },
+    {
+     "name": "Half Bottles | 375ml",
+     "items": [
+      {
+       "name": "Felsina Rancia",
+       "description": "",
+       "price": 65,
+       "flags": [],
+       "guid": "9155e035-3749-47f4-a46f-48b5896fc165"
+      },
+      {
+       "name": "Tignanello",
+       "description": "",
+       "price": 150,
+       "flags": [],
+       "guid": "9e03046e-e6e1-459f-957d-56aaeae99235"
+      },
+      {
+       "name": "Sassicaia",
+       "description": "",
+       "price": 300,
+       "flags": [],
+       "guid": "9e3c1d64-9043-4f1e-a592-faff849942e0"
+      }
+     ],
+     "section": "Other Formats"
     }
    ]
   },
@@ -3723,5 +2987,5 @@
    ]
   }
  ],
- "configHash": "09468c8e17b8"
+ "configHash": "6353fad7bd95"
 }
