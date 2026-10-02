@@ -3,7 +3,7 @@
  "location": "Carmel-by-the-Sea",
  "source": "toast",
  "toastLastUpdated": "2026-10-02T20:12:12.573+0000",
- "updated": "2026-10-02T20:19:30.568Z",
+ "updated": "2026-10-02T20:23:08.119Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -1277,7 +1277,7 @@
      "name": "Sparkling",
      "items": [
       {
-       "name": "Vietti Moscato d'Asti",
+       "name": "Vietti Moscato d’Asti (half bottle)",
        "description": "",
        "price": 25,
        "flags": [],
@@ -1325,7 +1325,7 @@
        "guid": "84b32896-8122-4aaf-8e38-cb403ad5b58a"
       },
       {
-       "name": "Ciro Picariello BruEmm Falanghina",
+       "name": "Ciro Picariello ‘BruEmm’ Falanghina, Campania",
        "description": "",
        "price": 52,
        "flags": [],
@@ -1353,28 +1353,28 @@
        "guid": "f636dc7a-85ff-43e4-bcbd-ff60ce0eea8f"
       },
       {
-       "name": "Stilema Fiano",
+       "name": "Mastroberardino ‘Stilèma’ Fiano di Avellino, Campania",
        "description": "",
        "price": 90,
        "flags": [],
        "guid": "02e99824-63c1-4449-9cfb-c007ff45c642"
       },
       {
-       "name": "Stilema Greco",
+       "name": "Mastroberardino ‘Stilèma’ Greco di Tufo, Campania",
        "description": "",
        "price": 90,
        "flags": [],
        "guid": "cac7eda2-92e3-46f6-9f21-067f36735d6e"
       },
       {
-       "name": "Cervaro Chard",
+       "name": "Castello della Sala ‘Cervaro’ Umbria (Chardonnay)",
        "description": "",
        "price": 125,
        "flags": [],
        "guid": "f4ac8016-8621-46a4-9c1b-3e96ea8ea2a6"
       },
       {
-       "name": "Jermann ‘Vintage Tunina’, Friuli-Venezia Giulia",
+       "name": "Jermann ‘Vintage Tunina’ White Blend, Venezia Giulia",
        "description": "",
        "price": 140,
        "flags": [],
@@ -1387,21 +1387,21 @@
      "name": "Southern Italian Red",
      "items": [
       {
-       "name": "Mastroberardino Lacryma Christi del Vesuvio 2023",
+       "name": "Mastroberardino Lacryma Christi, Campania 2023",
        "description": "",
        "price": 52,
        "flags": [],
        "guid": "d963dd99-d0fa-4a1d-a8bc-db470fc87946"
       },
       {
-       "name": "Grifalco Aglianico del Vulture 2022",
+       "name": "Grifalco Aglianico del Vulture, Campania 2022",
        "description": "",
        "price": 56,
        "flags": [],
        "guid": "30c37858-2765-41ec-b693-a6d8fefdbd2d"
       },
       {
-       "name": "Tascante Etna Rosso",
+       "name": "Tascante ‘Ghiaia Nera’ Etna Rosso, Sicilia 2022",
        "description": "",
        "price": 60,
        "flags": [],
@@ -1415,7 +1415,7 @@
        "guid": "f234d015-d8bc-4139-bcab-1303a4483a83"
       },
       {
-       "name": "Mastroberardino ‘Radici’ Taurasi Riserva (Aglianico) 2017",
+       "name": "Mastroberardino ‘Radici’ Taurasi Riserva 2017",
        "description": "",
        "price": 165,
        "flags": [],
@@ -1435,7 +1435,7 @@
        "guid": "0f9929f2-07f1-4430-8ab6-f38367972640"
       },
       {
-       "name": "Villa Antinori Toscana (Sangiovese) 2022",
+       "name": "Villa Antinori Toscana (Sangiovese) 2023",
        "description": "",
        "price": 52,
        "flags": [],
@@ -1449,28 +1449,28 @@
        "guid": "b032415e-0534-4d9a-8c2a-93e33c434bc0"
       },
       {
-       "name": "Pèppoli Chianti Classico ‘Single Vineyard’ 2023",
+       "name": "Pèppoli Chianti Classico ‘Single Vineyard’ 2024",
        "description": "",
        "price": 60,
        "flags": [],
        "guid": "642b2a76-0fb8-4236-b22c-0e770bc17ace"
       },
       {
-       "name": "Prunotto Occhetti Langhe Nebbiolo",
+       "name": "Prunotto ‘Occhetti’ Langhe (Nebbiolo) 2022",
        "description": "",
        "price": 62,
        "flags": [],
        "guid": "e32b9799-2f25-467b-811a-104fd5a10644"
       },
       {
-       "name": "M.Chiralo Cipressi Nizza",
+       "name": "Michele Chiarlo ‘Cipressi’ Nizza (Barbera) 2022",
        "description": "",
        "price": 64,
        "flags": [],
        "guid": "2960b212-7172-4833-bda4-27d973f52ae0"
       },
       {
-       "name": "Pian d. Vigne Rosso Montalcino",
+       "name": "Pian delle Vigne Rosso di Montalcino 2023",
        "description": "",
        "price": 68,
        "flags": [],
@@ -1498,35 +1498,35 @@
        "guid": "ccede71f-667b-4ce5-a1cb-255006ddab6e"
       },
       {
-       "name": "Prunotto 'BricTurot' Barbaresco",
+       "name": "Prunotto ‘Bric Turot’ Barbaresco ‘Single Vineyard’ 2022",
        "description": "",
        "price": 125,
        "flags": [],
        "guid": "d6bc0067-5e35-4977-b58a-6725e31bbcba"
       },
       {
-       "name": "Badia a Passignano Chianti Classico Gran Selezione 2021",
+       "name": "Badia a Passignano Chianti Classico Gran Selezione 2022",
        "description": "",
        "price": 125,
        "flags": [],
        "guid": "df4f45dc-5f7e-459b-af8a-0a2684172ce3"
       },
       {
-       "name": "Buglione Amarone della Valpolicella Classico",
+       "name": "Buglione Amarone della Valpolicella Classico 2020",
        "description": "",
        "price": 132,
        "flags": [],
        "guid": "c149199b-db1c-463b-865f-2fda8ec4f6ab"
       },
       {
-       "name": "La Fiorita Brunello di Montalcino 2018",
+       "name": "La Fiorita Brunello di Montalcino 2021",
        "description": "",
        "price": 140,
        "flags": [],
        "guid": "0ed82b5e-c481-4d8a-b75b-879136f0dc96"
       },
       {
-       "name": "Pian d. Vigne Brunello",
+       "name": "Pian delle Vigne Brunello di Montalcino 2021",
        "description": "",
        "price": 155,
        "flags": [],
@@ -1540,14 +1540,14 @@
        "guid": "51a674c8-5f96-4504-8537-14e88dff8b1a"
       },
       {
-       "name": "Prunotto Bussia",
+       "name": "Prunotto ‘Bussia’ Barolo ‘Single Vineyard’ 2020",
        "description": "",
        "price": 195,
        "flags": [],
        "guid": "ef3bac9c-7dd1-4c0b-9657-74cfb86faf6e"
       },
       {
-       "name": "Vietti Lazarotti Barolo",
+       "name": "Vietti ‘Lazarotti’ Barolo 2021",
        "description": "",
        "price": 425,
        "flags": [],
@@ -1560,56 +1560,56 @@
      "name": "Super Tuscan",
      "items": [
       {
-       "name": "Guado \"Il Bruciato\"",
+       "name": "Il Bruciato Bolgheri (Cabernet Blend) 2024",
        "description": "",
        "price": 75,
        "flags": [],
        "guid": "86170c73-c40e-4ff0-8475-ae5609c3842b"
       },
       {
-       "name": "Cont' Ugo Merlot",
+       "name": "Cont’Ugo Bolgheri (Merlot) 2023",
        "description": "",
        "price": 115,
        "flags": [],
        "guid": "79a0c6c2-a80a-47e2-b8d2-432bebf38fe1"
       },
       {
-       "name": "Guidalberto",
+       "name": "Guidalberto Toscana (Cab/Merlot) 2023",
        "description": "",
        "price": 150,
        "flags": [],
        "guid": "dc144f2e-85bc-435d-80b4-2d6ed473bd48"
       },
       {
-       "name": "Guado Al Tasso",
+       "name": "Guado al Tasso Bolgheri Superiore (Cab Blend) 2021",
        "description": "",
        "price": 260,
        "flags": [],
        "guid": "688e9d7f-0b75-4eb0-8cf1-d73fd780c201"
       },
       {
-       "name": "Tignanello Toscana (Sangiovese/Cabernet) 2021",
+       "name": "Tignanello Toscana (Sangiovese/Cab) 2021",
        "description": "",
        "price": 295,
        "flags": [],
        "guid": "372573e6-3a1f-4071-a4a9-1d9ba2e473b8"
       },
       {
-       "name": "Solaia Toscana (Cabernet/Sangiovese) 2019",
+       "name": "Solaia Toscana (Cabernet/Sangiovese) 2021",
        "description": "",
        "price": 575,
        "flags": [],
        "guid": "da8c2503-130d-4ab8-85a5-72c69b593acb"
       },
       {
-       "name": "Sassicaia Bolgheri (Cabernet/Cabernet Franc) 2021",
+       "name": "Sassicaia Bolgheri Superiore (Cab/Cab Franc) 2021",
        "description": "",
        "price": 625,
        "flags": [],
        "guid": "737c55cf-8192-47fc-89ed-e103cc98bc01"
       },
       {
-       "name": "Matarocchio Bolgheri (Cabernet Franc) 2009",
+       "name": "Matarocchio Bolgheri Superiore (Cab Franc) 2009",
        "description": "",
        "price": 1095,
        "flags": [],
@@ -1678,7 +1678,7 @@
        "guid": "471c8d40-e652-41e4-8b85-1729463c623e"
       },
       {
-       "name": "Antica Chardonnay",
+       "name": "Antinori ‘A26’ Chardonnay, Atlas Peak, Napa",
        "description": "",
        "price": 100,
        "flags": [],
@@ -1691,49 +1691,49 @@
      "name": "Pinot Noir",
      "items": [
       {
-       "name": "The Calling Pinot Noir, Russian River 2022",
+       "name": "The Calling Russian River, Sonoma 2022",
        "description": "",
        "price": 64,
        "flags": [],
        "guid": "52c4261e-033d-40a5-8156-8291d7052a4a"
       },
       {
-       "name": "Pèpe Pinot Noir, Atlas Peak, Napa 2022",
+       "name": "Pèpe Atlas Peak, Napa 2023",
        "description": "",
        "price": 66,
        "flags": [],
        "guid": "20c9edad-ed03-4b37-9c95-8b59dea94ab0"
       },
       {
-       "name": "Silvestri PN",
+       "name": "Silvestri Carmel Valley 2023",
        "description": "",
        "price": 68,
        "flags": [],
        "guid": "b7444e60-accc-4afe-acba-f91f6104267a"
       },
       {
-       "name": "Boekenoogen Pinot Noir, Santa Lucia Highlands 2022",
+       "name": "Boekenoogen Santa Lucia Highlands 2022",
        "description": "",
        "price": 86,
        "flags": [],
        "guid": "da04b1c2-2b6d-4e6d-b687-8c2b4606e18d"
       },
       {
-       "name": "Drouhin 'Roserock' PN",
+       "name": "Drouhin ‘Roserock’ Eola-Amity Hills, Oregon 2024",
        "description": "",
        "price": 90,
        "flags": [],
        "guid": "b0687335-cc30-4815-ab30-8625eabc514a"
       },
       {
-       "name": "Bernardus ‘Garys’ Vineyard’ Pinot Noir, Santa Lucia Highlands 2022",
+       "name": "Bernardus ‘Garys’ Vineyard’ Sta. Lucia Highlands 2022",
        "description": "",
        "price": 125,
        "flags": [],
        "guid": "2a28ffaf-fc6a-4bce-97bf-4a352c9201ff"
       },
       {
-       "name": "Occidental ‘Freestone’ Pinot Noir, West Sonoma Coast 2023",
+       "name": "Occidental ‘Freestone’ West Sonoma Coast 2023",
        "description": "",
        "price": 140,
        "flags": [],
@@ -1753,35 +1753,35 @@
        "guid": "f8950b44-b53b-43b5-b7f4-0db37c3d6bcb"
       },
       {
-       "name": "The Calling Cabernet Sauvignon, Alexander Valley 2021",
+       "name": "The Calling Alexander Valley, Sonoma 2021",
        "description": "",
        "price": 70,
        "flags": [],
        "guid": "b77e06aa-e58f-41b8-b1d5-42ce7a4643bc"
       },
       {
-       "name": "Pepe Cab RSV",
+       "name": "Pèpe ‘Eruzione’ Cabernet Reserve, Atlas Peak, Napa 2023",
        "description": "",
        "price": 85,
        "flags": [],
        "guid": "26c0a961-9254-4cf5-abd6-743c9109cbcf"
       },
       {
-       "name": "Galante 'Red Rose Hill'",
+       "name": "Galante ‘Red Rose Hill’ Carmel Valley 2021",
        "description": "",
        "price": 125,
        "flags": [],
        "guid": "69d8d19e-3b31-4be0-aa50-37304f46c6ee"
       },
       {
-       "name": "Stag’s Leap ‘Artemis’ Cabernet Sauvignon, Napa Valley 2022",
+       "name": "Stag’s Leap ‘Artemis’ Napa Valley 2022",
        "description": "",
        "price": 150,
        "flags": [],
        "guid": "ac1e5785-c55b-4308-8fa9-3c497a8ac891"
       },
       {
-       "name": "Antinori 'Townsend'",
+       "name": "Antinori ‘Townsend’ Atlas Peak, Napa 2021",
        "description": "",
        "price": 225,
        "flags": [],
@@ -1802,7 +1802,7 @@
        "guid": "8dbdb424-c09b-4c24-ad10-5b709d5c8bf7"
       },
       {
-       "name": "Opus One, Oakville, Napa Valley 2016",
+       "name": "Opus One Oakville, Napa Valley 2021",
        "description": "",
        "price": 695,
        "flags": [],
@@ -1815,21 +1815,21 @@
      "name": "Other Varietals",
      "items": [
       {
-       "name": "Cedar Lane 'Las Arenas'",
+       "name": "Cedar Lane ‘Las Arenas’ Grenache/Syrah, Arroyo Seco 2022",
        "description": "",
        "price": 52,
        "flags": [],
        "guid": "643e6fb5-6e5f-4088-b443-feeb43ffed0a"
       },
       {
-       "name": "Russell Joyce Gamay Noir, Arroyo Seco 2023",
+       "name": "Russell Joyce Gamay Noir, Arroyo Seco 2024",
        "description": "",
        "price": 54,
        "flags": [],
        "guid": "9d719b95-432c-4c4e-ab82-4e10706f73c7"
       },
       {
-       "name": "Melville 'Donna's Block' Syrah",
+       "name": "Melville ‘Donna’s Block’ Syrah, Sta. Rita Hills 2023",
        "description": "",
        "price": 110,
        "flags": [],
@@ -1849,28 +1849,28 @@
        "guid": "5984f577-1f4f-417d-afd5-436f721d08b0"
       },
       {
-       "name": "Pian Delle Vigne '18",
+       "name": "Pian delle Vigne Brunello di Montalcino 2018 (magnum)",
        "description": "",
        "price": 295,
        "flags": [],
        "guid": "ab1a7a5c-7fac-4b5c-ab49-3b65bc520093"
       },
       {
-       "name": "Antinori ‘Townsend’ Cabernet Sauvignon, Atlas Peak, Napa 2019 (magnum)",
+       "name": "Antinori ‘Townsend’ Cab Sauv, Atlas Peak, Napa 2019 (magnum)",
        "description": "",
        "price": 395,
        "flags": [],
        "guid": "94b72bfd-fe25-4c7c-a2c1-17c564056075"
       },
       {
-       "name": "Tignanello Toscana 2019 (magnum)",
+       "name": "Tignanello Super Tuscan (Sangiovese/Cab) 2016 (magnum)",
        "description": "",
        "price": 595,
        "flags": [],
        "guid": "dd9798a3-7ec6-4844-b314-948feba6af94"
       },
       {
-       "name": "Stags Cask 23 '18",
+       "name": "Stag’s Leap ‘Cask 23’ Cab Sauv, Napa Valley 2018 (magnum)",
        "description": "",
        "price": 995,
        "flags": [],
@@ -1883,21 +1883,21 @@
      "name": "Half Bottles | 375ml",
      "items": [
       {
-       "name": "Felsina Rancia",
+       "name": "Felsina ‘Rancia’ Chianti Classico Riserva 2020 (half bottle)",
        "description": "",
        "price": 65,
        "flags": [],
        "guid": "9155e035-3749-47f4-a46f-48b5896fc165"
       },
       {
-       "name": "Tignanello",
+       "name": "Tignanello Toscana 2022 (half bottle)",
        "description": "",
        "price": 150,
        "flags": [],
        "guid": "9e03046e-e6e1-459f-957d-56aaeae99235"
       },
       {
-       "name": "Sassicaia",
+       "name": "Sassicaia Bolgheri Superiore 2020 (half bottle)",
        "description": "",
        "price": 300,
        "flags": [],
@@ -2987,5 +2987,5 @@
    ]
   }
  ],
- "configHash": "6353fad7bd95"
+ "configHash": "a6c5095c89b4"
 }
