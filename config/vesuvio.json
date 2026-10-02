@@ -341,23 +341,14 @@
     "misc",
     "service charge"
   ],
-  "flags": {
-    "h/s": [
-      "calabrian",
-      "spicy",
-      "hot honey",
-      "’nduja",
-      "'nduja",
-      "diavola",
-      "bumba"
-    ]
-  },
+  "flags": {},
   "tagFlags": {
     "vegetarian": "vg",
     "vegan": "v",
     "gluten free": "gf",
     "gluten-free": "gf",
-    "spicy": "h/s"
+    "spicy": "h/s",
+    "hot & spicy": "h/s"
   },
   "notes": [
     "Vesuvio is a cash-free business.",

@@ -12,6 +12,7 @@
       "excludeGroups": [
         "Dessert",
         "Off-Menu",
+        "Off Menu",
         "Kids"
       ],
       "pdf": "",
@@ -29,7 +30,14 @@
       "channels": [
         "TOAST_ONLINE_ORDERING"
       ],
-      "alwaysShow": []
+      "alwaysShow": [],
+      "excludeGroups": [
+        "Dessert",
+        "Off-Menu",
+        "Off Menu",
+        "Kids",
+        "Mezza Mezza"
+      ]
     },
     {
       "toastName": "Happy Hour",
@@ -81,6 +89,124 @@
       "dedupe": true,
       "channels": [
         "TOAST_ONLINE_ORDERING"
+      ],
+      "hideItems": [
+        "House Red GL",
+        "House White GL",
+        "Corkage Fee"
+      ],
+      "groupNames": {
+        "Large Format": "Magnums | 1.5L",
+        "Half Bottles": "Half Bottles | 375ml"
+      },
+      "rename": {
+        "Adami Prosecco HALF": "Adami Brut Prosecco, Valdobbiadene (half bottle)",
+        "Guado Vermentino GL": "Guado al Tasso Vermentino, Bolgheri",
+        "Marchese Antinori GL": "Marchese Antinori Chianti Classico Riserva",
+        "Moet Brut GL": "Moët & Chandon Brut, Champagne",
+        "Moet Rose GL": "Moët & Chandon Brut Rosé, Champagne",
+        "Pepe Rose GL": "Pèpe Rosé, Atlas Peak, Napa",
+        "Pepe SB GL": "Pèpe Sauvignon Blanc, Atlas Peak, Napa",
+        "Pepe Vesuvio GL": "Pèpe ‘Vesuvio’ Cabernet Blend, Atlas Peak, Napa",
+        "Peppoli GL": "Pèppoli Chianti Classico",
+        "Prosecco GL": "Maschio Brut Prosecco",
+        "Rombauer Chard GL": "Rombauer Chardonnay, Carneros, Napa",
+        "Rosa Regale GL": "Banfi ‘Rosa Regale’ Sweet Sparkling Rosé, Piemonte",
+        "Santa Cristina PG GL": "Santa Cristina Pinot Grigio, Toscana",
+        "Silvestri Chard GL": "Silvestri Chardonnay, Carmel Valley",
+        "Tascante Etna GL": "Tascante ‘Ghiaia Nera’ Etna Rosso, Sicilia",
+        "Bele Casel Prosecco BTL": "Bele Casel Extra Brut, Prosecco Superiore",
+        "Caraccioli Brut BTL": "Caraccioli Brut, Santa Lucia Highlands",
+        "Col de Salici Rose BTL": "Col de Salici Brut Rosé, Prosecco",
+        "Badia Passignano BTL": "Badia a Passignano Chianti Classico Gran Selezione 2021",
+        "Conterno Fantino Dolcetto BTL": "Conterno Fantino Dolcetto d’Alba 2024",
+        "Gaja Sito Moresco BTL": "Gaja ‘Sito Moresco’ Langhe (Nebbiolo Blend) 2021",
+        "Grifalco Aglianico del Vulture BTL": "Grifalco Aglianico del Vulture 2022",
+        "La Fiorita BTL": "La Fiorita Brunello di Montalcino 2018",
+        "Le Difese BTL": "Le Difese, Tenuta San Guido",
+        "Marchese Antinori Riserva BTL": "Marchese Antinori Chianti Classico Riserva 2022",
+        "Mastro Lacryma Christi BTL": "Mastroberardino Lacryma Christi del Vesuvio 2023",
+        "Mastro Taurasi Radici BTL": "Mastroberardino ‘Radici’ Taurasi (Aglianico) 2019",
+        "Mastro Taurasi Radici Riserva BTL": "Mastroberardino ‘Radici’ Taurasi Riserva (Aglianico) 2017",
+        "Matarocchio Cab Franc BTL": "Matarocchio Bolgheri (Cabernet Franc) 2009",
+        "Mauro Veglio Barolo BTL": "Mauro Veglio Barolo 2021",
+        "Monti Garbi Ripasso BTL": "Monti Garbi Valpolicella Ripasso Classico Superiore 2021",
+        "Ornellaia BTL": "Ornellaia, Bolgheri Superiore",
+        "Peppoli BTL": "Pèppoli Chianti Classico ‘Single Vineyard’ 2023",
+        "Poliziano Vino Nobile BTL": "Poliziano Vino Nobile di Montepulciano 2022",
+        "Sassicaia BTL": "Sassicaia Bolgheri (Cabernet/Cabernet Franc) 2021",
+        "Solaia BTL": "Solaia Toscana (Cabernet/Sangiovese) 2019",
+        "Tignanello BTL": "Tignanello Toscana (Sangiovese/Cabernet) 2021",
+        "Villa Antinori Toscana BTL": "Villa Antinori Toscana (Sangiovese) 2022",
+        "Antinori 'Proficio' BTL": "Antinori ‘Proficio’ Atlas Peak, Napa 2021",
+        "Bernardus 'Garys Vineyard' PN BTL": "Bernardus ‘Garys’ Vineyard’ Pinot Noir, Santa Lucia Highlands 2022",
+        "Boekenoogen PN BTL": "Boekenoogen Pinot Noir, Santa Lucia Highlands 2022",
+        "Cachagua Cab Blend BTL": "Cachagua Cabernet Blend",
+        "Occidental 'Freestone' PN BTL": "Occidental ‘Freestone’ Pinot Noir, West Sonoma Coast 2023",
+        "Opus One BTL": "Opus One, Oakville, Napa Valley 2016",
+        "Pepe Pinot BTL": "Pèpe Pinot Noir, Atlas Peak, Napa 2022",
+        "Pepe Vesuvio BTL": "Pèpe ‘Vesuvio’ Cabernet Blend, Atlas Peak, Napa 2022",
+        "Russell Joyce Gamay BTL": "Russell Joyce Gamay Noir, Arroyo Seco 2023",
+        "Silvestri Eugenia BTL": "Silvestri ‘Eugenia’, Carmel Valley",
+        "Stag's Cask 23 BTL": "Stag’s Leap ‘Cask 23’ Napa Valley 2014",
+        "Stag's Leap Artemis BTL": "Stag’s Leap ‘Artemis’ Cabernet Sauvignon, Napa Valley 2022",
+        "The Calling Cabernet BTL": "The Calling Cabernet Sauvignon, Alexander Valley 2021",
+        "The Calling PN BTL": "The Calling Pinot Noir, Russian River 2022",
+        "Cedar Lane Sauv Blanc BTL": "Cedar Lane Vineyard Sauvignon Blanc, Arroyo Seco",
+        "Guado Vermentino BTL": "Guado al Tasso Vermentino, Bolgheri",
+        "Jermann Pinot Grigio BTL": "Jermann Pinot Grigio, Friuli-Venezia Giulia",
+        "Jermann Vintage Tunina BTL": "Jermann ‘Vintage Tunina’, Friuli-Venezia Giulia",
+        "Mastro Greco di Tufo BTL": "Mastroberardino Greco di Tufo, Campania",
+        "Pepe Chardonnay BTL": "Pèpe Chardonnay, Atlas Peak, Napa",
+        "Pepe Rose BTL": "Pèpe Rosé, Atlas Peak, Napa",
+        "Pepe Sauvignon Blanc BTL": "Pèpe Sauvignon Blanc, Atlas Peak, Napa",
+        "Rombauer Chard BTL": "Rombauer Chardonnay, Carneros, Napa",
+        "San Giovanni Orvieto BTL": "Castello della Sala ‘San Giovanni’ Orvieto Superiore",
+        "Silvestri Chardonnay BTL": "Silvestri Chardonnay, Carmel Valley",
+        "Stag's Karia Chard BTL": "Stag’s Leap ‘Karia’ Chardonnay, Napa Valley",
+        "Velenosi Pecorino BTL": "Velenosi Pecorino, Marche",
+        "Antinori Townsend MAG": "Antinori ‘Townsend’ Cabernet Sauvignon, Atlas Peak, Napa 2019 (magnum)",
+        "Bernardus Marinus MAG": "Bernardus ‘Marinus’, Carmel Valley (magnum)",
+        "Cont'Ugo MAG": "Cont’Ugo Bolgheri (Merlot) 2021 (magnum)",
+        "Pepe Cab RSV MAG": "Pèpe Cabernet Reserve, Atlas Peak, Napa 2020 (magnum)",
+        "Tignanello MAG": "Tignanello Toscana 2019 (magnum)",
+        "Buglione Amarone BTL": "Buglione Amarone della Valpolicella Classico"
+      },
+      "stripSuffixes": [
+        " HALF BTL",
+        " BTL",
+        " GL",
+        " MAG",
+        " HALF"
+      ],
+      "sections": [
+        "By the Glass",
+        "Italy",
+        "United States",
+        "Other Formats"
+      ],
+      "sectionOf": {
+        "Large Format": "Other Formats",
+        "Half Bottles": "Other Formats"
+      },
+      "sectionNames": {},
+      "sortBy": {
+        "By the Glass": "price-desc",
+        "*": "price-asc"
+      },
+      "groupOrder": [
+        "By the Glass",
+        "Italy > Sparkling",
+        "Italy > White",
+        "Southern Italian Red",
+        "Northern Italian Red",
+        "Super Tuscan",
+        "White + Rosé + Sparkling",
+        "Pinot Noir",
+        "Cabernet Sauvignon",
+        "Other Varietals",
+        "Magnums | 1.5L",
+        "Half Bottles | 375ml"
       ]
     },
     {
@@ -107,23 +233,14 @@
     "misc",
     "service charge"
   ],
-  "flags": {
-    "h/s": [
-      "calabrian",
-      "spicy",
-      "hot honey",
-      "’nduja",
-      "'nduja",
-      "diavola",
-      "bumba"
-    ]
-  },
+  "flags": {},
   "tagFlags": {
     "vegetarian": "vg",
     "vegan": "v",
     "gluten free": "gf",
     "gluten-free": "gf",
-    "spicy": "h/s"
+    "spicy": "h/s",
+    "hot & spicy": "h/s"
   },
   "notes": [
     "Little Napoli is a cash-free business.",
