@@ -8,6 +8,7 @@
 //   TOAST_HOST      default https://ws-api.toasttab.com
 //   MENU_CONFIG     default config/vesuvio.json
 //   MENU_OUT        default menus/vesuvio.json
+//   MENU_DEBUG_SUFFIX  default "" (e.g. "-little-napoli" writes menus/_structure-little-napoli.json, so restaurants do not overwrite each other)
 //
 // Behavior:
 //   1. Auth (TOAST_MACHINE_CLIENT) -> JWT.
@@ -24,6 +25,7 @@ const CLIENT_SECRET = process.env.TOAST_CLIENT_SECRET;
 const RESTAURANT = process.env.TOAST_RESTAURANT_GUID;
 const CONFIG_PATH = process.env.MENU_CONFIG || "config/vesuvio.json";
 const OUT_PATH = process.env.MENU_OUT || "menus/vesuvio.json";
+const DEBUG_SUFFIX = process.env.MENU_DEBUG_SUFFIX || "";
 
 
 async function login() {
@@ -265,15 +267,15 @@ async function main() {
     menu: m.name, visibility: m.visibility || null,
     groups: (function walk(gs, depth) { return (gs || []).flatMap((g) => [{ name: g.name, depth, items: (g.menuItems || []).length, visibility: g.visibility || null }, ...walk(g.menuGroups, depth + 1)]); })(m.menuGroups, 0),
   }));
-  writeFileSync(OUT_PATH.replace(/[^/]+$/, "_structure.json"), JSON.stringify(structure, null, 1) + "\n");
+  writeFileSync(OUT_PATH.replace(/[^/]+$/, `_structure${DEBUG_SUFFIX}.json`), JSON.stringify(structure, null, 1) + "\n");
   // Item visibility map (name -> Toast channels) so managers' toggles can be audited without credentials.
   const vis = {};
   for (const m of raw.menus || []) (function walk(gs) { for (const g of gs || []) { for (const it of g.menuItems || []) vis[`${m.name} / ${g.name} / ${it.name}`] = it.visibility || null; walk(g.menuGroups); } })(m.menuGroups);
-  writeFileSync(OUT_PATH.replace(/[^/]+$/, "_visibility.json"), JSON.stringify(vis, null, 1) + "\n");
+  writeFileSync(OUT_PATH.replace(/[^/]+$/, `_visibility${DEBUG_SUFFIX}.json`), JSON.stringify(vis, null, 1) + "\n");
   // Item tag map (name -> Toast item tag names, tagged items only) so dietary tags can be audited without credentials.
   const tags = {};
   for (const m of raw.menus || []) (function walk(gs) { for (const g of gs || []) { for (const it of g.menuItems || []) { const t = [...(it.itemTags || []), ...(it.tags || [])].map((x) => x?.name || x); if (t.length) tags[`${m.name} / ${g.name} / ${it.name}`] = t; } walk(g.menuGroups); } })(m.menuGroups);
-  writeFileSync(OUT_PATH.replace(/[^/]+$/, "_tags.json"), JSON.stringify(tags, null, 1) + "\n");
+  writeFileSync(OUT_PATH.replace(/[^/]+$/, `_tags${DEBUG_SUFFIX}.json`), JSON.stringify(tags, null, 1) + "\n");
   const out = transform(raw, config);
   out.configHash = configHash;
   const total = out.menus.reduce((n, m) => n + m.groups.reduce((k, g) => k + g.items.length, 0), 0);
