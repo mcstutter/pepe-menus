@@ -1,0 +1,157 @@
+{
+  "restaurant": "Little Napoli",
+  "location": "Carmel-by-the-Sea",
+  "channels": [],
+  "minItems": 25,
+  "menus": [
+    {
+      "toastName": "Dinner",
+      "slug": "dinner",
+      "name": "Dinner",
+      "subtitle": "",
+      "excludeGroups": [
+        "Dessert",
+        "Off-Menu",
+        "Kids"
+      ],
+      "pdf": "",
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ],
+      "alwaysShow": []
+    },
+    {
+      "toastName": "Lunch",
+      "slug": "lunch",
+      "name": "Lunch",
+      "subtitle": "Saturday and Sunday, 11:30 am to 3:00 pm.",
+      "pdf": "",
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ],
+      "alwaysShow": []
+    },
+    {
+      "toastName": "Happy Hour",
+      "slug": "happy-hour",
+      "name": "Happy Hour",
+      "subtitle": "Sunday through Friday, 4:00 to 6:00 pm, in Bar Napoli.",
+      "pdf": "",
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ],
+      "alwaysShow": []
+    },
+    {
+      "toastName": "Dinner",
+      "slug": "dessert",
+      "name": "Dessert",
+      "subtitle": "",
+      "groups": [
+        "Dessert"
+      ],
+      "pdf": "",
+      "hidePatterns": [
+        "^Child "
+      ],
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ],
+      "alwaysShow": []
+    },
+    {
+      "toastName": "Dinner",
+      "slug": "kids",
+      "name": "Kids",
+      "subtitle": "",
+      "groups": [
+        "Kids"
+      ],
+      "stripPrefixes": [
+        "Child "
+      ],
+      "pdf": ""
+    },
+    {
+      "toastName": "Wines",
+      "slug": "wine",
+      "name": "Wine",
+      "subtitle": "",
+      "pdf": "",
+      "dedupe": true,
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ]
+    },
+    {
+      "toastName": "Drinks",
+      "slug": "drinks",
+      "name": "Drinks",
+      "subtitle": "",
+      "pdf": "",
+      "dedupe": true,
+      "channels": [
+        "TOAST_ONLINE_ORDERING"
+      ]
+    }
+  ],
+  "stripPrefixes": [
+    "HH ",
+    "HH-",
+    "H/H "
+  ],
+  "hideItems": [
+    "open food",
+    "open item",
+    "gift card",
+    "misc",
+    "service charge"
+  ],
+  "flags": {
+    "h/s": [
+      "calabrian",
+      "spicy",
+      "hot honey",
+      "’nduja",
+      "'nduja",
+      "diavola",
+      "bumba"
+    ]
+  },
+  "tagFlags": {
+    "vegetarian": "vg",
+    "vegan": "v",
+    "gluten free": "gf",
+    "gluten-free": "gf",
+    "spicy": "h/s"
+  },
+  "notes": [
+    "Little Napoli is a cash-free business.",
+    "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
+    "Items marked h/s may be spicy, though typically not more than a medium heat level."
+  ],
+  "hidePatterns": [
+    "\\(1\\)$",
+    "^Side ",
+    "Fee",
+    "See Modifier",
+    "^Gluten Free Pizza Crust",
+    "^Pasta / Sauce$",
+    "^Zuppa Cup$",
+    "^Crostini",
+    "^Meatballs \\(2",
+    "Pizza Dough",
+    "^Birthday",
+    "Biscotti",
+    "^Vanilla Ice Cream"
+  ],
+  "hideZeroPrice": true,
+  "rename": {
+    "Tiramisu": "Tiramisù",
+    "Crème Brulée": "Crème Brûlée",
+    "Pepe Board": "Pèpe Board",
+    "Abbruzzese": "Abruzzese",
+    "Artichoke Crochette (4)": "Artichoke Crocchette (4)",
+    "Clam & Mussel Saute": "Clam & Mussel Sauté"
+  }
+}
