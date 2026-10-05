@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-02T20:12:12.573+0000",
- "updated": "2026-10-02T20:23:08.119Z",
+ "toastLastUpdated": "2026-10-05T18:32:06.025+0000",
+ "updated": "2026-10-05T18:32:55.277Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -1403,7 +1403,7 @@
       {
        "name": "Tascante ‘Ghiaia Nera’ Etna Rosso, Sicilia 2022",
        "description": "",
-       "price": 60,
+       "price": 80,
        "flags": [],
        "guid": "22351e1b-2b9b-477c-bea6-b151000697f6"
       },
@@ -1535,7 +1535,7 @@
       {
        "name": "Gaja ‘Sito Moresco’ Langhe (Nebbiolo Blend) 2021",
        "description": "",
-       "price": 162,
+       "price": 160,
        "flags": [],
        "guid": "51a674c8-5f96-4504-8537-14e88dff8b1a"
       },
@@ -1583,7 +1583,7 @@
       {
        "name": "Guado al Tasso Bolgheri Superiore (Cab Blend) 2021",
        "description": "",
-       "price": 260,
+       "price": 250,
        "flags": [],
        "guid": "688e9d7f-0b75-4eb0-8cf1-d73fd780c201"
       },
