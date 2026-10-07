@@ -82,7 +82,6 @@
  ],
  "Lunch / Salad \\ Soup / Mista Salad": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
@@ -215,7 +214,6 @@
  ],
  "Lunch / Pizza / Pepperoni Pizza": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
@@ -251,7 +249,6 @@
  ],
  "Lunch / Specialties / Halibut": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
@@ -325,13 +322,11 @@
  ],
  "Lunch / Sides / Chicken for Dog": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
  "Lunch / Sides / Dog Burger Patty": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
@@ -785,7 +780,6 @@
  ],
  "Dinner / Pizza / Pepperoni Pizza": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
@@ -936,13 +930,11 @@
  ],
  "Dinner / Sides / Dog Hamburger Patty": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
  "Dinner / Sides / Dog Chicken": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
@@ -1056,13 +1048,11 @@
  ],
  "Dinner / Dessert / Kids Hazelnut Gelato": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
  "Dinner / Dessert / Kids Salted Caramel Gelato": [
   "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],

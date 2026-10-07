@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-05T18:32:06.025+0000",
- "updated": "2026-10-05T18:32:55.277Z",
+ "toastLastUpdated": "2026-10-07T01:09:48.143+0000",
+ "updated": "2026-10-07T01:11:00.060Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -21,7 +21,7 @@
      "items": [
       {
        "name": "Artichoke Crocchette (4)",
-       "description": "local castroville baby artichokes, chopped, balled, then fried",
+       "description": "aioli della casa",
        "price": 14,
        "flags": [
         "vg"
@@ -30,28 +30,28 @@
       },
       {
        "name": "Beef Carpaccio",
-       "description": "seared beef eye round, thinly sliced with capers, dijon aioli, arugula, parmigiano, crostini",
+       "description": "seared eye round, thinly sliced, capers, dijon aioli, arugula, parmigiano, crostini",
        "price": 27,
        "flags": [],
        "guid": "2961899b-dcf5-4fc8-9f6c-0bbe7763a9b6"
       },
       {
        "name": "Calamari Fritti",
-       "description": "chipotle aioli",
+       "description": "aioli della casa",
        "price": 21,
        "flags": [],
        "guid": "68524fa8-4961-4457-a878-3878139a2de0"
       },
       {
        "name": "Clam & Mussel Sauté",
-       "description": "lemon-caper cream sauce",
+       "description": "clams, mussels, lemon, caper, saffron-cream, crostini",
        "price": 18.25,
        "flags": [],
        "guid": "d503307c-aaba-460f-8793-156244a95181"
       },
       {
        "name": "Garlic Bread",
-       "description": "100-year-old family recipe. Served w/ marinara.",
+       "description": "family recipe",
        "price": 9,
        "flags": [
         "vg"
@@ -67,14 +67,14 @@
       },
       {
        "name": "Pèpe Board",
-       "description": "our house ‘nduja, bumba, and pepper jelly,  \r\nwith crostini, cheese, and accoutrements",
+       "description": "all the best snacks in our pantry on one glorious cheese plate",
        "price": 22,
        "flags": [],
        "guid": "4a637809-126d-4e94-9e98-af5f3a4025dc"
       },
       {
        "name": "Risotto Arancini (4)",
-       "description": "saffron-risotto arancini, marinara sauce",
+       "description": "crispy saffron-risotto, marinara sauce",
        "price": 14,
        "flags": [
         "vg"
@@ -83,21 +83,21 @@
       },
       {
        "name": "Prosciutto and Melon",
-       "description": "full belly farms organic melons, prosciutto di parma",
+       "description": "full belly farm organic melon, prosciutto di parma",
        "price": 18,
        "flags": [],
        "guid": "76ea2518-1c2c-47ea-964d-14707c92f68f"
       },
       {
        "name": "Sausage & Peppers",
-       "description": "spicy sausage with peppers, onions, crispy polenta, fontina fonduta",
+       "description": "house-made smoked sausage, peppers & onions agrodolce, crispy polenta, fontina",
        "price": 23,
        "flags": [],
        "guid": "978f57e6-b5e5-40b9-b067-f193b9f5393a"
       },
       {
        "name": "Truffled Gnocchi",
-       "description": "baked gnocchi, imported white truffle oil, melted fontina cheese, parmigiano",
+       "description": "baked gnocchi, tartufata, fonduta di fontina",
        "price": 22,
        "flags": [
         "vg"
@@ -125,14 +125,14 @@
       },
       {
        "name": "Caesar",
-       "description": "romaine, chicories, croutons, parmigiano reggiano, breadcrumbs, anchovy",
+       "description": "romaine, radicchio, endive, house croutons, parmigiano, breadcrumb, white anchovy",
        "price": 16,
        "flags": [],
        "guid": "eacf5a31-5ef7-41c1-aff5-11751d582e55"
       },
       {
        "name": "Di Stefano",
-       "description": "crispy goat cheese, roasted beets, mixed greens, fig balsamic dressing",
+       "description": "crispy goat cheese, roasted beets, mixed greens, fig-balsamic vinaigrette",
        "price": 18,
        "flags": [
         "vg"
@@ -150,7 +150,7 @@
       },
       {
        "name": "Wedge 'Riccardo'",
-       "description": "",
+       "description": "salinas iceberg, tomato, pancetta, gorgonzola-tarragon dressing",
        "price": 19,
        "flags": [],
        "guid": "074a06ac-95e2-410e-8d51-ecc571952423"
@@ -171,21 +171,21 @@
      "items": [
       {
        "name": "\"1944\" Lasagna",
-       "description": "house-made pasta sheets, meatballs, soppressata, pepperoni, house-made sausage, ricotta, mozzarella, marinara",
+       "description": "family recipe brought back by Pèpe’s father from World War II",
        "price": 34,
        "flags": [],
        "guid": "670545e7-8f2c-4cb3-a1a5-4903ff7c61ff"
       },
       {
        "name": "Al Forno \"Sinatra\"",
-       "description": "oven-baked ziti, house-made spicy sausage, mushrooms, goat cheese, mozzarella",
+       "description": "baked rigatoni, house italian sausage, mushrooms, goat cheese, mozz’, pangrattato",
        "price": 32,
        "flags": [],
        "guid": "ef35bc9a-775a-4ca2-8ed2-9bb0d4ef779a"
       },
       {
        "name": "Cacio e Pepe",
-       "description": "",
+       "description": "pecorino romano, black pepper, bucatini",
        "price": 29,
        "flags": [
         "vg"
@@ -194,14 +194,14 @@
       },
       {
        "name": "Cannelloni Tricolore",
-       "description": "chicken-veggie canneloni topped w/ 3 sauces: marinara, alfredo, pesto",
+       "description": "chicken-veggie cannelloni, 3 sauces: marinara, alfredo, basil pesto",
        "price": 34,
        "flags": [],
        "guid": "fb0666a7-1795-46f6-8ae6-40402104db78"
       },
       {
        "name": "Cheese Ravioli \"della Hoboken\"",
-       "description": "ricotta, parmigiano, arrabbiata sauce",
+       "description": "marinara, parmigiano",
        "price": 30,
        "flags": [
         "vg"
@@ -226,7 +226,7 @@
       },
       {
        "name": "Pink Vodka Sauce \"Jackie O\"",
-       "description": "pancetta, peas, penne",
+       "description": "rigatoni, creamy vodka-tomato sauce, pancetta, calabrian chili, sweet peas",
        "price": 32,
        "flags": [
         "h/s"
@@ -235,21 +235,21 @@
       },
       {
        "name": "Ragù Bolognese \"Obama\"",
-       "description": "beef, pork, sausage, wild boar, pappardelle",
+       "description": "beef, pork, sausage, wild boar, tomato, pappardelle",
        "price": 32,
        "flags": [],
        "guid": "10de2b60-15a8-468e-8ea5-b1bd53426aa6"
       },
       {
        "name": "Spaghetti & Meatballs",
-       "description": "beef & pork meatballs, ragù Napoletano",
+       "description": "slow-simmered sunday ragù",
        "price": 32,
        "flags": [],
        "guid": "79588f03-771e-46be-ba56-b016007cedce"
       },
       {
        "name": "Truffled Gnocchi",
-       "description": "baked gnocchi, imported white truffle oil, melted fontina cheese, parmigiano",
+       "description": "baked gnocchi, tartufata, fonduta di fontina",
        "price": 22,
        "flags": [
         "vg"
@@ -258,14 +258,14 @@
       },
       {
        "name": "Veal Ravioli",
-       "description": "mushrooms, porcini cream sauce",
+       "description": "slow-braised veal, wild mushroom, porcini cream reduction",
        "price": 35,
        "flags": [],
        "guid": "4f6c39cd-4fc1-49c4-98bb-d49af8d19d53"
       },
       {
        "name": "Butternut Squash Ravioli",
-       "description": "",
+       "description": "brown butter sage sauce, parmigiano reggiano",
        "price": 32,
        "flags": [
         "vg"
@@ -279,7 +279,7 @@
      "items": [
       {
        "name": "Abruzzese",
-       "description": "goat cheese, mozz', basil pesto, tomato sauce, roasted tomato, pine nuts",
+       "description": "goat cheese, mozz’, basil pesto, roasted tomato, pine nuts, tomato sauce",
        "price": 24,
        "flags": [
         "vg"
@@ -295,7 +295,7 @@
       },
       {
        "name": "Diavola",
-       "description": "spicy soppressata, tomato sauce, PÈPE Bumba, mozz', provola",
+       "description": "soppressata, pèpe bumba, mozz’, provola, tomato sauce",
        "price": 25,
        "flags": [
         "h/s"
@@ -304,7 +304,7 @@
       },
       {
        "name": "Fangool",
-       "description": "pepperoni, hot honey, ranch, mozz', tomato sauce",
+       "description": "pepperoni, hot honey, ranch, mozz’, tomato sauce",
        "price": 26,
        "flags": [
         "h/s"
@@ -313,7 +313,7 @@
       },
       {
        "name": "Margherita \"dal 1889\"",
-       "description": "tomato sauce, fior di latte mozz', basil",
+       "description": "tomato sauce, mozz’, basil",
        "price": 22,
        "flags": [
         "vg"
@@ -321,22 +321,15 @@
        "guid": "f5c215fc-8426-4619-8c21-ec31e14a4a0d"
       },
       {
-       "name": "Pepperoni Pizza",
-       "description": "",
-       "price": 24,
-       "flags": [],
-       "guid": "c128f4af-d06f-4092-a3b1-a9694c14dc5f"
-      },
-      {
        "name": "San Vito",
-       "description": "house-made spicy sausage, peppers, onions, mozz', tomato sauce",
+       "description": "housemade italian sausage, peppers, onions, mozz’, tomato sauce",
        "price": 25,
        "flags": [],
        "guid": "a73dddba-e8b9-4377-96c4-4e7c9ea646ef"
       },
       {
        "name": "White Truffle Pie",
-       "description": "mushrooms, cambozola, mozz', white truffle oil, caramelized onions (no tomato sauce)",
+       "description": "mushrooms, cambozola, mozz’, truffle oil, caramelized onions (no tomato)",
        "price": 26,
        "flags": [
         "vg"
@@ -350,35 +343,35 @@
      "items": [
       {
        "name": "Steak Frites",
-       "description": "16 oz. Harris Ranch rib-eye, truffle-parmesan fries, Chianti reduction",
+       "description": "16 oz. harris ranch rib-eye, maître d’ butter, truffle-parmigiano fries",
        "price": 58,
        "flags": [],
        "guid": "7a75efdc-0e2c-4a74-ab2e-6f35fcab3931"
       },
       {
        "name": "McSuvio Burger",
-       "description": "Carmel Bakery brioche bun, caramelized onions, cambozola, chipotle aioli,",
+       "description": "8 oz. custom-ground patty, onion confit, cambozola, aioli, ‘way-good’ fries",
        "price": 27,
        "flags": [],
        "guid": "2540f9a9-707b-42c3-a009-2b19467a1865"
       },
       {
        "name": "Salmon",
-       "description": "",
+       "description": "sardinian fregola ‘agrodolce’, asparagus, lobster cream sauce",
        "price": 42,
        "flags": [],
        "guid": "96144196-33ca-4899-bd04-d8b2c42a84fa"
       },
       {
        "name": "Halibut",
-       "description": "Monterey Fish Co.'s Daily Catch",
+       "description": "sardinian fregola ‘agrodolce’, asparagus, lemon-caper butter sauce",
        "price": 44,
        "flags": [],
        "guid": "e11faa2c-cb4b-4ee4-a8d3-b4e208e802be"
       },
       {
        "name": "Sole Piccata",
-       "description": "",
+       "description": "potatoes, broccoli, lemon-caper butter sauce",
        "price": 39,
        "flags": [],
        "guid": "1d3b90c4-2200-46e3-a22f-689f1d68eb6d"
@@ -390,21 +383,21 @@
      "items": [
       {
        "name": "Chicken Parmigiana",
-       "description": "classic-style served w/ pappardelle alfredo",
+       "description": "with spaghetti marinara or pappardelle alfredo",
        "price": 36.25,
        "flags": [],
        "guid": "6af7a670-56d3-4689-b8d9-9e3f5f886663"
       },
       {
        "name": "Cioppino Rosso",
-       "description": "",
+       "description": "the legendary tomato-seafood stew of Italian fishermen of Monterey Bay. add spaghetti +5",
        "price": 39,
        "flags": [],
        "guid": "701c63c7-a7de-4af2-97e3-9c63a13e0220"
       },
       {
        "name": "Eggplant Parmigiana",
-       "description": "with pappardelle alfredo",
+       "description": "with spaghetti marinara or pappardelle alfredo",
        "price": 31,
        "flags": [
         "vg"
@@ -413,14 +406,14 @@
       },
       {
        "name": "Lamb Osso Buco",
-       "description": "4-hour braised New Zealand lamb shank, parmesan mashed potatoes, lemon gremolata",
+       "description": "4-hour braised grass-fed lamb shank, mashed potatoes, gremolata",
        "price": 46,
        "flags": [],
        "guid": "60b3629a-0a8b-4d8d-b8de-d4c9d5f6becd"
       },
       {
        "name": "Seafood Risotto \"Calabrese\"",
-       "description": "white prawns, bay scallops, PÈPE Bumba Risotto, house-made spicy 'nduja, lobster reduction",
+       "description": "prawns, bay scallops, ‘nduja, pèpe bumba risotto, lobster reduction",
        "price": 36,
        "flags": [
         "h/s"
@@ -429,14 +422,14 @@
       },
       {
        "name": "Hobo Stew",
-       "description": "beef short-rib, potato, carrot, celery, gnocchi, black pepper ",
+       "description": "beef short-rib, potato, carrot, celery, gnocchi, black pepper broth. Rooted in the cooking of Italian day workers near Hoboken, NJ during the Great Depression.",
        "price": 40,
        "flags": [],
        "guid": "e1c3c97d-19fd-4c41-aaac-42c33e98478e"
       },
       {
        "name": "Veal Parm",
-       "description": "",
+       "description": "with spaghetti marinara or pappardelle alfredo",
        "price": 68,
        "flags": [],
        "guid": "34128efa-12c0-447d-bf9a-66414a5a95c1"
@@ -488,20 +481,6 @@
         "vg"
        ],
        "guid": "ad892317-4ed6-4756-818b-0e9ba83c4d07"
-      },
-      {
-       "name": "Dog Hamburger Patty",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "01b56091-5d9a-4fe4-864b-1f1dba7174e1"
-      },
-      {
-       "name": "Dog Chicken",
-       "description": "",
-       "price": 8,
-       "flags": [],
-       "guid": "a3d0c019-3c47-4880-a01b-c2959c659c91"
       }
      ]
     }
@@ -518,14 +497,14 @@
      "items": [
       {
        "name": "Calamari Fritti (Lunch)",
-       "description": "chipotle aioli",
+       "description": "aioli della casa",
        "price": 21,
        "flags": [],
        "guid": "d9789bfc-c07e-40a5-9396-ace704259e64"
       },
       {
        "name": "Garlic Bread",
-       "description": "100-year-old family recipe. Served w/ marinara.",
+       "description": "family recipe",
        "price": 9,
        "flags": [
         "vg"
@@ -541,14 +520,14 @@
       },
       {
        "name": "Prosciutto and Melon (Lunch)",
-       "description": "full belly farms organic melons, prosciutto di parma",
+       "description": "full belly farm organic melon, prosciutto di parma",
        "price": 18,
        "flags": [],
        "guid": "38ce91ce-412c-4f8d-9827-32c90969756e"
       },
       {
        "name": "Truffled Gnocchi",
-       "description": "baked gnocchi, imported white truffle oil, melted fontina cheese, parmigiano",
+       "description": "baked gnocchi, tartufata, fonduta di fontina",
        "price": 22,
        "flags": [
         "vg"
@@ -557,7 +536,7 @@
       },
       {
        "name": "Beef Carpaccio (Lunch)",
-       "description": "",
+       "description": "seared eye round, thinly sliced, capers, dijon aioli, arugula, parmigiano, crostini",
        "price": 25,
        "flags": [],
        "guid": "2f30ebd2-9651-4ef1-807a-b547f03a34d3"
@@ -583,26 +562,19 @@
       },
       {
        "name": "Caesar (Lunch)",
-       "description": "romaine, croutons, anchovy",
+       "description": "romaine, radicchio, endive, house croutons, parmigiano, breadcrumb, white anchovy",
        "price": 16,
        "flags": [],
        "guid": "ff197e67-07bc-48a2-bed9-fa03c7521f0b"
       },
       {
        "name": "Di Stefano (Lunch)",
-       "description": "mixed greens, local crispy goat cheese, roasted beets, fig-balsamic dressing",
+       "description": "crispy goat cheese, roasted beets, mixed greens, fig-balsamic vinaigrette",
        "price": 18,
        "flags": [
         "vg"
        ],
        "guid": "99e8a660-3127-4c61-b5a8-f48c35061084"
-      },
-      {
-       "name": "Mista Salad",
-       "description": "",
-       "price": 16,
-       "flags": [],
-       "guid": "e3ddc801-93f7-41fb-999e-c49b5468ce58"
       },
       {
        "name": "Strawberry-Gorgonzola",
@@ -629,14 +601,14 @@
      "items": [
       {
        "name": "Fried Chicken Sandwich",
-       "description": "smoked mozz, Pepe buba aioli, pickled onions, lettuce, sun-dried tomato",
+       "description": "smoked mozz’, pèpe bumba aioli, pickle, lettuce, tomato",
        "price": 25,
        "flags": [],
        "guid": "6bb9a603-6c06-4b51-b19c-a79ee76ab355"
       },
       {
        "name": "Roasted Pepper Caprese Sandwich",
-       "description": "mozzarella, arugula, herb aioli",
+       "description": "fresh mozz’, arugula, herb aioli",
        "price": 21,
        "flags": [
         "vg"
@@ -645,7 +617,7 @@
       },
       {
        "name": "Grandma Celia's Meatball Sandwich",
-       "description": "sliced meatballs, provolone, marinara",
+       "description": "sliced meatballs, provolone, marinara sauce",
        "price": 23,
        "flags": [
         "h/s"
@@ -654,7 +626,7 @@
       },
       {
        "name": "McSuvio Burger",
-       "description": "Carmel Bakery brioche bun, caramelized onions, cambozola, chipotle aioli,",
+       "description": "8 oz. custom-ground patty, onion confit, cambozola, aioli, ‘way-good’ fries",
        "price": 27,
        "flags": [],
        "guid": "2540f9a9-707b-42c3-a009-2b19467a1865"
@@ -666,21 +638,21 @@
      "items": [
       {
        "name": "1944 Lasagna",
-       "description": "house-made pasta sheets, meatballs, soppressata, pepperoni, house-made sausage, ricotta, mozzarella, marinara",
+       "description": "family recipe brought back by Pèpe’s father from World War II",
        "price": 34,
        "flags": [],
        "guid": "3e15c62c-41f0-4af3-b1d9-5004b4b63fb2"
       },
       {
        "name": "Al Forno \"Sinatra\"",
-       "description": "oven-baked ziti, house-made spicy sausage, mushrooms, goat cheese, mozzarella",
+       "description": "baked rigatoni, italian sausage, mushrooms, goat cheese, mozz’, breadcrumb",
        "price": 32,
        "flags": [],
        "guid": "de1b9056-55c5-44e1-a78b-7e63cedcbf2e"
       },
       {
        "name": "Cheese Ravioli \"della Hoboken\"",
-       "description": "ricotta, parmigiano, arrabbiata sauce",
+       "description": "marinara, parmigiano",
        "price": 30,
        "flags": [
         "vg"
@@ -705,28 +677,28 @@
       },
       {
        "name": "Pink Vodka Sauce \"Jackie O\"",
-       "description": "pancetta, peas, penne",
+       "description": "rigatoni, creamy vodka-tomato sauce, pancetta, calabrian chili, sweet peas",
        "price": 32,
        "flags": [],
        "guid": "411db98a-5e38-40ad-8f9d-2f188686ec04"
       },
       {
        "name": "Ragù Bolognese \"Obama\"",
-       "description": "beef, pork, sausage, wild boar, pappardelle",
+       "description": "beef, pork, sausage, wild boar, tomato, pappardelle",
        "price": 32,
        "flags": [],
        "guid": "7e4f7f29-bbf4-491c-8840-da96fb6d1f12"
       },
       {
        "name": "Spaghetti & Meatballs",
-       "description": "beef & pork meatballs, ragù Napoletano",
+       "description": "slow-simmered sunday ragù",
        "price": 32,
        "flags": [],
        "guid": "abac2164-c33b-49b8-9fd9-045802a6ae16"
       },
       {
        "name": "Butternut Squash Ravioli",
-       "description": "",
+       "description": "brown butter sage sauce, parmigiano reggiano",
        "price": 32,
        "flags": [
         "vg"
@@ -740,7 +712,7 @@
      "items": [
       {
        "name": "Abruzzese",
-       "description": "goat cheese, mozz', basil pesto, tomato sauce, roasted tomato, pine nuts",
+       "description": "goat cheese, mozz’, basil pesto, roasted tomato, pine nuts, tomato sauce",
        "price": 24,
        "flags": [
         "vg"
@@ -756,7 +728,7 @@
       },
       {
        "name": "Diavola",
-       "description": "spicy soppressata, tomato sauce, PÈPE Bumba, mozz', provola",
+       "description": "soppressata, pèpe bumba, mozz’, provola, tomato sauce",
        "price": 25,
        "flags": [
         "h/s"
@@ -765,7 +737,7 @@
       },
       {
        "name": "Fangool",
-       "description": "pepperoni, hot honey, ranch, mozz', tomato sauce",
+       "description": "pepperoni, hot honey, ranch, mozz’, tomato sauce",
        "price": 26,
        "flags": [
         "h/s"
@@ -774,7 +746,7 @@
       },
       {
        "name": "Margherita",
-       "description": "tomato sauce, fior di latte mozz', basil",
+       "description": "tomato sauce, mozz’, basil",
        "price": 22,
        "flags": [
         "vg"
@@ -782,22 +754,15 @@
        "guid": "19104278-9f62-4fc3-8cc6-58e532edb563"
       },
       {
-       "name": "Pepperoni Pizza",
-       "description": "",
-       "price": 24,
-       "flags": [],
-       "guid": "eacef1a5-0e43-4435-8d66-1384c56c427b"
-      },
-      {
        "name": "San Vito",
-       "description": "house-made spicy sausage, peppers, onions, mozz', tomato sauce",
+       "description": "housemade italian sausage, peppers, onions, mozz’, tomato sauce",
        "price": 25,
        "flags": [],
        "guid": "fbced941-edaf-478c-b65d-e20b3c23c082"
       },
       {
        "name": "White Truffle Pie",
-       "description": "mushrooms, cambozola, mozz', white truffle oil, caramelized onions (no tomato sauce)",
+       "description": "mushrooms, cambozola, mozz’, truffle oil, caramelized onions (no tomato)",
        "price": 26,
        "flags": [
         "vg"
@@ -811,21 +776,21 @@
      "items": [
       {
        "name": "Chicken Parmigiana (Lunch)",
-       "description": "with pappardelle and alfredo sauce",
+       "description": "with spaghetti marinara or pappardelle alfredo, or choice of caesar or arugula salad",
        "price": 36.25,
        "flags": [],
        "guid": "271a19d3-0791-4b4c-b06e-ee6f1e67c58e"
       },
       {
        "name": "Cioppino (Lunch)",
-       "description": "",
+       "description": "the legendary tomato-seafood stew of Italian fishermen of Monterey Bay. add spaghetti +5",
        "price": 39,
        "flags": [],
        "guid": "7d228d5b-9c2b-4797-bce0-6491caf9c7c7"
       },
       {
        "name": "Eggplant Parmigiana",
-       "description": "with pappardelle and alfredo sauce",
+       "description": "with spaghetti marinara or pappardelle alfredo, or choice of caesar or arugula salad",
        "price": 31,
        "flags": [
         "vg"
@@ -833,22 +798,15 @@
        "guid": "e43fe91b-99a5-4bb6-a6c7-5a453086f31a"
       },
       {
-       "name": "Halibut",
-       "description": "",
-       "price": 38.25,
-       "flags": [],
-       "guid": "5755fe51-6102-4c69-8a64-568aace8967c"
-      },
-      {
        "name": "Sole Piccata",
-       "description": "",
+       "description": "potatoes, broccoli, lemon-caper butter sauce",
        "price": 39,
        "flags": [],
        "guid": "1d3b90c4-2200-46e3-a22f-689f1d68eb6d"
       },
       {
        "name": "Veal Parm",
-       "description": "",
+       "description": "with spaghetti marinara or pappardelle alfredo",
        "price": 68,
        "flags": [],
        "guid": "34128efa-12c0-447d-bf9a-66414a5a95c1"
@@ -900,20 +858,6 @@
         "vg"
        ],
        "guid": "178a77a9-b855-4090-83b9-1d72b2f86ac4"
-      },
-      {
-       "name": "Chicken for Dog",
-       "description": "",
-       "price": 10,
-       "flags": [],
-       "guid": "4b9b9e6a-1d53-482f-8cb5-e4658faf29d4"
-      },
-      {
-       "name": "Dog Burger Patty",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "38bd917b-8ab9-4535-beef-fc538262953f"
       }
      ]
     }
@@ -1158,20 +1102,6 @@
        "price": 14,
        "flags": [],
        "guid": "77291164-95ed-47b8-a1b1-ac5bed378dcd"
-      },
-      {
-       "name": "Kids Hazelnut Gelato",
-       "description": "",
-       "price": 6,
-       "flags": [],
-       "guid": "8a9e55b3-a2a7-471d-8e2b-882683985a1d"
-      },
-      {
-       "name": "Kids Salted Caramel Gelato",
-       "description": "",
-       "price": 6,
-       "flags": [],
-       "guid": "d939b99e-6a31-4768-92bd-e2141b36d9eb"
       }
      ]
     }
