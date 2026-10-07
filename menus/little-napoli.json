@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-07T01:09:48.143+0000",
- "updated": "2026-10-07T01:11:00.060Z",
+ "toastLastUpdated": "2026-10-07T01:12:12.242+0000",
+ "updated": "2026-10-07T01:13:06.596Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -141,7 +141,7 @@
       },
       {
        "name": "Strawberry-Gorgonzola",
-       "description": "arugula, candied walnuts, red onion, strawberry shrub dressing",
+       "description": "arugula, candied walnuts, red onion, strawberry shrub vinaigrette",
        "price": 18,
        "flags": [
         "vg"
@@ -578,7 +578,7 @@
       },
       {
        "name": "Strawberry-Gorgonzola",
-       "description": "arugula, candied walnuts, red onion, strawberry shrub dressing",
+       "description": "arugula, candied walnuts, red onion, strawberry shrub vinaigrette",
        "price": 18,
        "flags": [
         "vg"
