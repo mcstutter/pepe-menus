@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-07T01:12:12.242+0000",
- "updated": "2026-10-07T01:13:06.596Z",
+ "toastLastUpdated": "2026-10-09T21:24:57.971+0000",
+ "updated": "2026-10-10T00:10:30.139Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -481,6 +481,13 @@
         "vg"
        ],
        "guid": "ad892317-4ed6-4756-818b-0e9ba83c4d07"
+      },
+      {
+       "name": "Dog Salmon",
+       "description": "",
+       "price": 18,
+       "flags": [],
+       "guid": "177a5d5f-7567-40ff-8d94-96880adf917e"
       }
      ]
     }
@@ -1233,6 +1240,13 @@
        "price": 45,
        "flags": [],
        "guid": "73eb430b-6683-4b74-bf6e-088ebb42d19e"
+      },
+      {
+       "name": "Contadi Costaldi Franciacorta",
+       "description": "",
+       "price": 60,
+       "flags": [],
+       "guid": "97b868a5-1385-421b-9dd4-ce96ec5e8f89"
       }
      ],
      "section": "Italy"

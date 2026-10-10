@@ -209,7 +209,7 @@
    {
     "name": "Sides",
     "depth": 0,
-    "items": 14,
+    "items": 15,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -520,7 +520,7 @@
    {
     "name": "Sparkling",
     "depth": 1,
-    "items": 4,
+    "items": 5,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",

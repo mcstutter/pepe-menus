@@ -938,6 +938,12 @@
   "POS",
   "KIOSK"
  ],
+ "Dinner / Sides / Dog Salmon": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
  "Dinner / Kids / Child Bolognese": [
   "POS"
  ],
@@ -2357,6 +2363,11 @@
   "POS"
  ],
  "Wines / Sparkling / Col de Salici Rose BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Contadi Costaldi Franciacorta BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"

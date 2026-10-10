@@ -247,7 +247,7 @@
    {
     "name": "Sparkling",
     "depth": 1,
-    "items": 5,
+    "items": 6,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",

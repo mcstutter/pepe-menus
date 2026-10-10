@@ -1101,11 +1101,6 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Sparkling / Vietti Moscato d'Asti 1/2 BTL": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / Sparkling / Bele Casel Prosecco BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -1116,7 +1111,17 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Wines / Sparkling / Contadi Costaldi Franciacorta BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Wines / Sparkling / Ferrari Brut BTL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Wines / Sparkling / Vietti Moscato d'Asti 1/2 BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"

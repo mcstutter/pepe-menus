@@ -2,8 +2,8 @@
  "restaurant": "Vesuvio",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-03T02:06:22.652+0000",
- "updated": "2026-10-03T03:25:31.074Z",
+ "toastLastUpdated": "2026-10-09T22:45:43.254+0000",
+ "updated": "2026-10-10T00:10:29.478Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -1208,6 +1208,13 @@
        "price": 45,
        "flags": [],
        "guid": "094853ad-5e13-484f-8495-0a81bdbd77c0"
+      },
+      {
+       "name": "Contadi Costaldi Franciacorta",
+       "description": "",
+       "price": 60,
+       "flags": [],
+       "guid": "9b1c7d85-efb3-48f7-97c6-65e0bc309725"
       },
       {
        "name": "Ferrari Brut Metodo Classico, Trentodoc",
