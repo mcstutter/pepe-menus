@@ -918,14 +918,6 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Wines / Champagne / Dom Perignon BTL": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Wines / Champagne / Veuve Rose BTL": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Wines / Southern Italian Red / Grifalco Aglianico del Vulture BTL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
