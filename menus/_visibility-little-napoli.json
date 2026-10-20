@@ -1365,6 +1365,21 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Bottled Beer / 1868 Hard Cider": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Howzit Punch": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Super Burrito Lager": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Bourbon/Whiskey / Angel's Envy": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -1643,6 +1658,16 @@
   "POS"
  ],
  "Drinks / Draft Beer / Almanac Lager": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Draft Beer / Menabrea Birreria": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Draft Beer / Peace, Love and Haze": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"

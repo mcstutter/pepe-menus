@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-12T01:51:16.212+0000",
- "updated": "2026-10-12T07:54:01.331Z",
+ "toastLastUpdated": "2026-10-20T17:06:24.132+0000",
+ "updated": "2026-10-20T20:03:29.770Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -1902,6 +1902,27 @@
        "price": 8,
        "flags": [],
        "guid": "6f57fbbd-e876-443b-adf2-ed12215e1b2b"
+      },
+      {
+       "name": "1868 Hard Cider",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "a333653b-0113-4b6d-8ed0-06a78dfbae76"
+      },
+      {
+       "name": "Howzit Punch",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "55ba2fbd-0242-45a4-8190-288d2fbbf192"
+      },
+      {
+       "name": "Super Burrito Lager",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "13db1dd1-82e8-475b-a2a8-34f755e8b694"
       }
      ]
     },
@@ -2321,6 +2342,20 @@
        "price": 9,
        "flags": [],
        "guid": "90f89193-4912-4eb5-abae-f2bc8748bfb3"
+      },
+      {
+       "name": "Menabrea Birreria",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "0b3fc0f6-d017-40fb-95a4-eef4e0656486"
+      },
+      {
+       "name": "Peace, Love and Haze",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "7831dcc5-e986-46f4-ad80-e7c50a1378ea"
       }
      ]
     },

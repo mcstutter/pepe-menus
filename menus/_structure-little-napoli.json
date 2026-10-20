@@ -314,7 +314,7 @@
    {
     "name": "Bottled Beer",
     "depth": 0,
-    "items": 6,
+    "items": 9,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -364,7 +364,7 @@
    {
     "name": "Draft Beer",
     "depth": 0,
-    "items": 4,
+    "items": 6,
     "visibility": [
      "POS"
     ]

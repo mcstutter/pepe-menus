@@ -883,6 +883,11 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Wines / White + Rosé / Velenosi Pecorino GL": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Wines / Red / Marchese Antinori GL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -1581,6 +1586,21 @@
   "POS"
  ],
  "Drinks / Bottled Beer / NA Beer": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Howzit Punch": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Peace, Love and Haze": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Bottled Beer / Taco Truck Lager": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"

@@ -2,8 +2,8 @@
  "restaurant": "Vesuvio",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-13T02:40:13.312+0000",
- "updated": "2026-10-13T05:04:20.649Z",
+ "toastLastUpdated": "2026-10-20T16:59:30.255+0000",
+ "updated": "2026-10-20T20:03:29.244Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -1100,6 +1100,13 @@
        "guid": "48791f22-f42f-484a-bbe9-49cab72f17bf"
       },
       {
+       "name": "Velenosi Pecorino",
+       "description": "",
+       "price": 15,
+       "flags": [],
+       "guid": "8cf621a4-53c3-4be2-9aff-6b7631c8528b"
+      },
+      {
        "name": "Santa Cristina Pinot Grigio, Toscana",
        "description": "",
        "price": 14,
@@ -2165,6 +2172,27 @@
        "price": 7,
        "flags": [],
        "guid": "c84ba28b-35d1-4930-a063-287b38f40ecf"
+      },
+      {
+       "name": "Howzit Punch",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "45a2691e-7496-432f-9d2f-64125e89022b"
+      },
+      {
+       "name": "Peace, Love and Haze",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "8303a409-a30f-4e35-9625-9864c2fc8069"
+      },
+      {
+       "name": "Taco Truck Lager",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "b49216d0-b00c-4017-bca4-a99a30657eb9"
       }
      ]
     }

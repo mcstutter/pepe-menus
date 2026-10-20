@@ -181,7 +181,7 @@
    {
     "name": "White + Rosé",
     "depth": 1,
-    "items": 7,
+    "items": 8,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -385,7 +385,7 @@
    {
     "name": "Bottled Beer",
     "depth": 0,
-    "items": 5,
+    "items": 8,
     "visibility": [
      "POS"
     ]
