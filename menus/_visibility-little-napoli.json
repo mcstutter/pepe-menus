@@ -56,12 +56,6 @@
   "POS",
   "KIOSK"
  ],
- "Lunch / Appetizers / Heirloom Tomato Caprese": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Lunch / Salad \\ Soup / Amalfi (Lunch)": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -621,12 +615,6 @@
  ],
  "Dinner / Appetizers / Risotto Arancini (1)": [
   "POS"
- ],
- "Dinner / Appetizers / Heirloom Tomato Caprese": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
  ],
  "Dinner / Salad/Soup / Amalfi": [
   "ORDERING_PARTNERS",

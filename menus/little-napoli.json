@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-20T17:06:24.132+0000",
- "updated": "2026-10-20T20:03:29.770Z",
+ "toastLastUpdated": "2026-10-22T02:14:21.421+0000",
+ "updated": "2026-10-22T05:09:09.513Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -103,13 +103,6 @@
         "vg"
        ],
        "guid": "97a5efe3-59ba-4178-8347-bc84df53d7d6"
-      },
-      {
-       "name": "Heirloom Tomato Caprese",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "0ed493d8-6551-45ea-a6ab-3e2458b61989"
       }
      ]
     },
@@ -547,13 +540,6 @@
        "price": 25,
        "flags": [],
        "guid": "2f30ebd2-9651-4ef1-807a-b547f03a34d3"
-      },
-      {
-       "name": "Heirloom Tomato Caprese",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "0ed493d8-6551-45ea-a6ab-3e2458b61989"
       }
      ]
     },
