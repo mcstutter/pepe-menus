@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-22T02:14:21.421+0000",
- "updated": "2026-10-22T05:09:09.513Z",
+ "toastLastUpdated": "2026-10-22T21:23:35.623+0000",
+ "updated": "2026-10-22T22:34:17.887Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -2047,6 +2047,20 @@
        "price": 18,
        "flags": [],
        "guid": "7319a8c2-91dc-475a-acf4-b390df4144f1"
+      },
+      {
+       "name": "Bardstown",
+       "description": "",
+       "price": 18,
+       "flags": [],
+       "guid": "fea41bbd-974a-481d-9764-d1374bcb06af"
+      },
+      {
+       "name": "Penelope",
+       "description": "",
+       "price": 19,
+       "flags": [],
+       "guid": "9a3d3af3-7737-4549-9e18-53401ee5dd34"
       }
      ]
     },
@@ -2080,13 +2094,6 @@
        "price": 20,
        "flags": [],
        "guid": "55c2fc87-b0e7-4a7f-adf2-d10fdfde34b6"
-      },
-      {
-       "name": "DPL Boulevardier",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "ad6607bd-071b-42f4-b8d3-63895edc4dd5"
       },
       {
        "name": "Bosco Spritz",
@@ -2403,6 +2410,13 @@
        "price": 16,
        "flags": [],
        "guid": "1cf9e4dd-6e10-491b-89f5-4b25b40926b2"
+      },
+      {
+       "name": "Tom Cat",
+       "description": "",
+       "price": 17,
+       "flags": [],
+       "guid": "4a580361-b81f-45b9-91bb-d52f88139794"
       }
      ]
     },
@@ -2761,12 +2775,26 @@
        "price": 35,
        "flags": [],
        "guid": "28f3745b-9d0e-4183-917d-feb1fa7d0aa0"
+      },
+      {
+       "name": "Delmore",
+       "description": "",
+       "price": 24,
+       "flags": [],
+       "guid": "bf097e21-7c20-41ea-94a9-b35a7b5080be"
       }
      ]
     },
     {
      "name": "Tequila",
      "items": [
+      {
+       "name": "Ariette",
+       "description": "",
+       "price": 19,
+       "flags": [],
+       "guid": "f6e3237c-c0bb-4040-963d-d472d409ebf5"
+      },
       {
        "name": "Casamigos Blanco",
        "description": "",
@@ -2878,20 +2906,6 @@
        "price": 18,
        "flags": [],
        "guid": "4445c183-14b8-4a33-860c-658819206d59"
-      },
-      {
-       "name": "Arette",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "aa5825d6-d05a-4f50-9e3e-34c50a6af214"
-      },
-      {
-       "name": "Dobel",
-       "description": "",
-       "price": 18,
-       "flags": [],
-       "guid": "25ccd832-5b9a-43bb-bd14-7d1dc18eba32"
       },
       {
        "name": "Fortaleza",

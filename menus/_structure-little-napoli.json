@@ -324,7 +324,7 @@
    {
     "name": "Bourbon/Whiskey",
     "depth": 0,
-    "items": 19,
+    "items": 21,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -344,7 +344,7 @@
    {
     "name": "Cocktails",
     "depth": 0,
-    "items": 29,
+    "items": 28,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -382,7 +382,7 @@
    {
     "name": "Gin",
     "depth": 0,
-    "items": 8,
+    "items": 9,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -412,7 +412,7 @@
    {
     "name": "Scotch",
     "depth": 0,
-    "items": 14,
+    "items": 15,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -422,7 +422,7 @@
    {
     "name": "Tequila",
     "depth": 0,
-    "items": 19,
+    "items": 18,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
