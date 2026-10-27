@@ -1293,62 +1293,37 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "N/A Beverages / Like A Virgin / Fake It 'Til You Make It": [
+ "N/A Beverages / Senza Alcol / Fake It 'Til You Make It": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "N/A Beverages / Like A Virgin / Puttin' On The Spritz": [
+ "N/A Beverages / Senza Alcol / Puttin' On The Spritz": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "N/A Beverages / Like A Virgin / Shrub-A-Dub-Dub": [
+ "N/A Beverages / Senza Alcol / Shrub-A-Dub-Dub": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "N/A Beverages / Like A Virgin / Virg Bloody": [
+ "N/A Beverages / Senza Alcol / Virg Bloody": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "N/A Beverages / Like A Virgin / Virg Daquiri": [
+ "N/A Beverages / Senza Alcol / Virg Daquiri": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "N/A Beverages / Like A Virgin / Virg Margarita": [
+ "N/A Beverages / Senza Alcol / Virg Margarita": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "N/A Beverages / Like A Virgin / Virg Mojito": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Bottled Beer / Allagash": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Bottled Beer / Coor's Light": [
+ "N/A Beverages / Senza Alcol / Virg Mojito": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
  "Drinks / Bottled Beer / Erdinger N\\A": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Bottled Beer / Modelo": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Bottled Beer / Peroni": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Bottled Beer / Sierra Nevada": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -1638,20 +1613,7 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Draft Beer / Anderson Boont Amber Ale": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Drinks / Draft Beer / Mai Tai IPA": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Draft Beer / Mother Earth Lager": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Draft Beer / Almanac Lager": [
-  "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],

@@ -1550,32 +1550,22 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Like A Virgin / Chew On This": [
+ "Drinks / Senza Alcol / Chew On This": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Like A Virgin / Puttin' On The Spritz": [
+ "Drinks / Senza Alcol / Puttin' On The Spritz": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / Like A Virgin / Shrub-A-Dub-Dub": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Bottled Beer / Allagash White": [
+ "Drinks / Senza Alcol / Shrub-A-Dub-Dub": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
  "Drinks / Bottled Beer / Boont Amber": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Bottled Beer / Modelo": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -1806,7 +1796,7 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Drinks / DRAFT BEER / Alvarado Mai Tai PA": [
+ "Drinks / DRAFT BEER / Alvarado Mai Tai IPA": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"

@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-22T21:23:35.623+0000",
- "updated": "2026-10-22T22:34:17.887Z",
+ "toastLastUpdated": "2026-10-27T18:04:08.730+0000",
+ "updated": "2026-10-27T21:05:19.151Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -1848,46 +1848,11 @@
      "name": "Bottled Beer",
      "items": [
       {
-       "name": "Allagash",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "875bfe69-f1cd-401e-9498-2725ab6bde45"
-      },
-      {
-       "name": "Coor's Light",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "09e63f9a-7b97-4e55-a0c8-9ffaba519b88"
-      },
-      {
        "name": "Erdinger N\\A",
        "description": "",
-       "price": 7,
+       "price": 10,
        "flags": [],
        "guid": "d9605738-b606-44d1-be8d-8c1808372afa"
-      },
-      {
-       "name": "Modelo",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "02702a4b-c5ac-4e46-9306-5e78776bb627"
-      },
-      {
-       "name": "Peroni",
-       "description": "",
-       "price": 7,
-       "flags": [],
-       "guid": "9653d923-8865-4910-ad47-0718a59059f0"
-      },
-      {
-       "name": "Sierra Nevada",
-       "description": "",
-       "price": 8,
-       "flags": [],
-       "guid": "6f57fbbd-e876-443b-adf2-ed12215e1b2b"
       },
       {
        "name": "1868 Hard Cider",
@@ -2309,32 +2274,11 @@
      "name": "Draft Beer",
      "items": [
       {
-       "name": "Anderson Boont Amber Ale",
-       "description": "",
-       "price": 9,
-       "flags": [],
-       "guid": "d15b9dd5-aa61-40b0-b803-af1455c43cc7"
-      },
-      {
        "name": "Mai Tai IPA",
        "description": "",
-       "price": 9,
+       "price": 10,
        "flags": [],
        "guid": "bd1293d1-2c4d-4cf9-a261-8f0648590f0f"
-      },
-      {
-       "name": "Mother Earth Lager",
-       "description": "",
-       "price": 9,
-       "flags": [],
-       "guid": "11a647b2-350c-4472-b472-c30d3ce4e199"
-      },
-      {
-       "name": "Almanac Lager",
-       "description": "",
-       "price": 9,
-       "flags": [],
-       "guid": "90f89193-4912-4eb5-abae-f2bc8748bfb3"
       },
       {
        "name": "Menabrea Birreria",

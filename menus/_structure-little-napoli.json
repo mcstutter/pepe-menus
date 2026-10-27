@@ -286,7 +286,7 @@
     ]
    },
    {
-    "name": "Like A Virgin",
+    "name": "Senza Alcol",
     "depth": 0,
     "items": 7,
     "visibility": [
@@ -314,7 +314,7 @@
    {
     "name": "Bottled Beer",
     "depth": 0,
-    "items": 9,
+    "items": 4,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -364,7 +364,7 @@
    {
     "name": "Draft Beer",
     "depth": 0,
-    "items": 6,
+    "items": 3,
     "visibility": [
      "POS"
     ]

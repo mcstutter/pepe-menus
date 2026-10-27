@@ -373,7 +373,7 @@
   ],
   "groups": [
    {
-    "name": "Like A Virgin",
+    "name": "Senza Alcol",
     "depth": 0,
     "items": 3,
     "visibility": [
@@ -385,7 +385,7 @@
    {
     "name": "Bottled Beer",
     "depth": 0,
-    "items": 7,
+    "items": 5,
     "visibility": [
      "POS"
     ]
