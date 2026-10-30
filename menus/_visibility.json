@@ -613,6 +613,11 @@
   "POS",
   "KIOSK"
  ],
+ "Food / Off-Menu / Di Parma": [
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
  "N/A Beverages / Soda / Bottled Water": [
   "TOAST_ONLINE_ORDERING",
   "POS"
