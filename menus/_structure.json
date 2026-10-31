@@ -227,7 +227,7 @@
    {
     "name": "Northern Italian Red",
     "depth": 1,
-    "items": 17,
+    "items": 18,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",

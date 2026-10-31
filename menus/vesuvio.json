@@ -2,8 +2,8 @@
  "restaurant": "Vesuvio",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-30T23:13:00.896+0000",
- "updated": "2026-10-30T23:25:56.867Z",
+ "toastLastUpdated": "2026-10-30T23:27:50.534+0000",
+ "updated": "2026-10-31T02:36:52.560Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -1457,6 +1457,13 @@
        "price": 125,
        "flags": [],
        "guid": "43f235bb-1beb-485b-b49c-6ce15dd5f7d0"
+      },
+      {
+       "name": "Buglione Amarone",
+       "description": "",
+       "price": 132,
+       "flags": [],
+       "guid": "05616ddc-4004-4145-9300-5e70bc279196"
       },
       {
        "name": "La Fiorita Brunello di Montalcino 2018",
