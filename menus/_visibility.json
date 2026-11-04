@@ -1857,6 +1857,11 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Gin / Monkey 47": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Liqueurs/Cordials / Absinthe": [
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -1998,6 +2003,10 @@
   "POS"
  ],
  "Drinks / Rum / Mount Gay Eclipse": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Rum / Ron Zacapa": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
@@ -2230,6 +2239,11 @@
   "POS"
  ],
  "Drinks / Vodka / Tito's": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Vodka / Chopin vodka": [
+  "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],

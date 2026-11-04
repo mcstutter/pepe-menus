@@ -427,7 +427,7 @@
    {
     "name": "Gin",
     "depth": 0,
-    "items": 11,
+    "items": 12,
     "visibility": [
      "POS"
     ]
@@ -443,7 +443,7 @@
    {
     "name": "Rum",
     "depth": 0,
-    "items": 6,
+    "items": 7,
     "visibility": [
      "POS"
     ]
@@ -467,7 +467,7 @@
    {
     "name": "Vodka",
     "depth": 0,
-    "items": 7,
+    "items": 8,
     "visibility": [
      "POS"
     ]
