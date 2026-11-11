@@ -393,7 +393,7 @@
    {
     "name": "Bourbon/Whiskey",
     "depth": 0,
-    "items": 15,
+    "items": 17,
     "visibility": [
      "POS"
     ]
@@ -409,7 +409,7 @@
    {
     "name": "Cognac/Grappa",
     "depth": 0,
-    "items": 9,
+    "items": 10,
     "visibility": [
      "POS"
     ]
@@ -435,7 +435,7 @@
    {
     "name": "Liqueurs/Cordials",
     "depth": 0,
-    "items": 30,
+    "items": 31,
     "visibility": [
      "POS"
     ]
