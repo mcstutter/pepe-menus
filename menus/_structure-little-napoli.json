@@ -314,7 +314,7 @@
    {
     "name": "Bottled Beer",
     "depth": 0,
-    "items": 4,
+    "items": 5,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -422,7 +422,7 @@
    {
     "name": "Tequila",
     "depth": 0,
-    "items": 18,
+    "items": 19,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",

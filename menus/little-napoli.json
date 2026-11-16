@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-10-27T18:04:08.730+0000",
- "updated": "2026-10-27T21:05:19.151Z",
+ "toastLastUpdated": "2026-11-16T00:23:50.134+0000",
+ "updated": "2026-11-16T04:23:24.076Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -960,20 +960,6 @@
      "name": "Beer/Wine",
      "items": [
       {
-       "name": "Tierra Madre Lager",
-       "description": "",
-       "price": 6,
-       "flags": [],
-       "guid": "e5a912d4-001f-4213-bba1-999a65cb9510"
-      },
-      {
-       "name": "Boont Amber",
-       "description": "",
-       "price": 6,
-       "flags": [],
-       "guid": "37f460bb-ae12-4963-a2e8-a2be9d84df51"
-      },
-      {
        "name": "Mai Tai IPA",
        "description": "",
        "price": 6,
@@ -986,6 +972,20 @@
        "price": 8,
        "flags": [],
        "guid": "f3c179b4-4c5f-4f1a-9ca3-db31811f8d39"
+      },
+      {
+       "name": "Peace Love Haze",
+       "description": "",
+       "price": 6,
+       "flags": [],
+       "guid": "4722f463-2ec8-4785-a989-641bfc6dac3e"
+      },
+      {
+       "name": "Menabrea",
+       "description": "",
+       "price": 6,
+       "flags": [],
+       "guid": "58b7e092-8db7-4c77-9f53-8d5627f791c1"
       }
      ]
     },
@@ -1874,6 +1874,13 @@
        "price": 10,
        "flags": [],
        "guid": "13db1dd1-82e8-475b-a2a8-34f755e8b694"
+      },
+      {
+       "name": "Pilsner",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "8c25639f-07e3-46e1-a40d-3a267ea5e3e8"
       }
      ]
     },
@@ -2857,6 +2864,13 @@
        "price": 18,
        "flags": [],
        "guid": "0020dc2f-3929-4046-85cb-469259748099"
+      },
+      {
+       "name": "Clase Azul Mezcal",
+       "description": "",
+       "price": 45,
+       "flags": [],
+       "guid": "52a5db08-d2e3-4751-9dbd-c85cd6ff707c"
       }
      ]
     },

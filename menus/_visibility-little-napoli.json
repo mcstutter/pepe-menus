@@ -1343,6 +1343,11 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Bottled Beer / Pilsner": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Drinks / Bourbon/Whiskey / Angel's Envy": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -2008,6 +2013,11 @@
   "POS"
  ],
  "Drinks / Tequila / Fortaleza": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Drinks / Tequila / Clase Azul Mezcal": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2802,19 +2812,19 @@
  "Happy Hour / HH Beer/Wine / HH White": [
   "POS"
  ],
- "Happy Hour / HH Beer/Wine / HH Tierra Madre Lager": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Happy Hour / HH Beer/Wine / HH Boont Amber": [
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
  "Happy Hour / HH Beer/Wine / HH Mai Tai IPA": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
  "Happy Hour / HH Beer/Wine / HH Sparkling": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Beer/Wine / HH Peace Love Haze": [
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
+ "Happy Hour / HH Beer/Wine / HH Menabrea ": [
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
