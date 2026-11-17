@@ -618,6 +618,11 @@
   "POS",
   "KIOSK"
  ],
+ "Food / Off-Menu / Chicken Vesuvio ": [
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
  "N/A Beverages / Soda / Bottled Water": [
   "TOAST_ONLINE_ORDERING",
   "POS"
