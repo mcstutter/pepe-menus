@@ -432,7 +432,7 @@
    {
     "name": "Vodka",
     "depth": 0,
-    "items": 6,
+    "items": 7,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",

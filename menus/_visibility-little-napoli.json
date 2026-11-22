@@ -2052,6 +2052,11 @@
   "TOAST_ONLINE_ORDERING",
   "POS"
  ],
+ "Drinks / Vodka / Chopin": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS"
+ ],
  "Wines / By the Glass / House Red GL": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",

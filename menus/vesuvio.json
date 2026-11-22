@@ -2,8 +2,8 @@
  "restaurant": "Vesuvio",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-11-17T02:18:55.260+0000",
- "updated": "2026-11-17T04:58:43.087Z",
+ "toastLastUpdated": "2026-11-22T03:50:26.248+0000",
+ "updated": "2026-11-22T08:36:50.619Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -165,6 +165,13 @@
         "vg"
        ],
        "guid": "51bbc80c-4487-41e4-9217-0278b42190c8"
+      },
+      {
+       "name": "Zuppa Cup Butternut",
+       "description": "",
+       "price": 10,
+       "flags": [],
+       "guid": "792e85e5-3686-44b1-bee4-02e5dc1b487d"
       }
      ]
     },

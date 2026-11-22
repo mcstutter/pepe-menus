@@ -118,8 +118,11 @@
   "POS",
   "KIOSK"
  ],
- "Food / Salad/Soup / Zuppa Cup": [
-  "POS"
+ "Food / Salad/Soup / Zuppa Cup Butternut": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
  ],
  "Food / Pasta / \"1944\" Lasagna": [
   "ORDERING_PARTNERS",
