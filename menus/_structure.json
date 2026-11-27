@@ -11,7 +11,7 @@
    {
     "name": "Appetizers",
     "depth": 0,
-    "items": 15,
+    "items": 14,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -22,7 +22,7 @@
    {
     "name": "Salad/Soup",
     "depth": 0,
-    "items": 8,
+    "items": 10,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -44,7 +44,7 @@
    {
     "name": "Pizza",
     "depth": 0,
-    "items": 11,
+    "items": 12,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -66,7 +66,7 @@
    {
     "name": "Specialties",
     "depth": 0,
-    "items": 9,
+    "items": 10,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -88,7 +88,7 @@
    {
     "name": "Kids",
     "depth": 0,
-    "items": 10,
+    "items": 9,
     "visibility": [
      "POS"
     ]
@@ -107,7 +107,7 @@
    {
     "name": "Off-Menu",
     "depth": 0,
-    "items": 21,
+    "items": 25,
     "visibility": [
      "POS"
     ]

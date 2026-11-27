@@ -22,7 +22,7 @@
    {
     "name": "Salad \\ Soup",
     "depth": 0,
-    "items": 7,
+    "items": 8,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -33,7 +33,7 @@
    {
     "name": "Panini",
     "depth": 0,
-    "items": 4,
+    "items": 5,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -44,7 +44,7 @@
    {
     "name": "Pasta",
     "depth": 0,
-    "items": 10,
+    "items": 11,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -55,7 +55,7 @@
    {
     "name": "Pizza",
     "depth": 0,
-    "items": 8,
+    "items": 9,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -66,7 +66,7 @@
    {
     "name": "Specialties",
     "depth": 0,
-    "items": 6,
+    "items": 8,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -143,7 +143,7 @@
    {
     "name": "Appetizers",
     "depth": 0,
-    "items": 15,
+    "items": 14,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -154,7 +154,7 @@
    {
     "name": "Salad/Soup",
     "depth": 0,
-    "items": 7,
+    "items": 9,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -176,7 +176,7 @@
    {
     "name": "Pizza",
     "depth": 0,
-    "items": 8,
+    "items": 9,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -220,7 +220,7 @@
    {
     "name": "Kids",
     "depth": 0,
-    "items": 11,
+    "items": 10,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",
@@ -242,7 +242,7 @@
    {
     "name": "Off Menu",
     "depth": 0,
-    "items": 9,
+    "items": 15,
     "visibility": [
      "POS"
     ]
@@ -344,7 +344,7 @@
    {
     "name": "Cocktails",
     "depth": 0,
-    "items": 28,
+    "items": 27,
     "visibility": [
      "ORDERING_PARTNERS",
      "TOAST_ONLINE_ORDERING",

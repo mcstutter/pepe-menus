@@ -1,7 +1,4 @@
 {
- "Lunch / Appetizers / Bruschetta Pomodoro (4)": [
-  "POS"
- ],
  "Lunch / Appetizers / Calamari Fritti (Lunch)": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -20,12 +17,6 @@
   "POS",
   "KIOSK"
  ],
- "Lunch / Appetizers / Prosciutto and Melon (Lunch)": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Lunch / Appetizers / Truffled Gnocchi": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -38,12 +29,6 @@
   "POS",
   "KIOSK"
  ],
- "Lunch / Appetizers / Bruschetta Pomo (1)": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Lunch / Appetizers / Meatball Lolli (1)": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -51,6 +36,24 @@
   "KIOSK"
  ],
  "Lunch / Appetizers / Beef Carpaccio (Lunch)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Appetizers / Pear 'Caprese'": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Appetizers / Risotto Arancini (4)": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Appetizers / Risotto Arancini (1)": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -79,20 +82,26 @@
   "POS",
   "KIOSK"
  ],
- "Lunch / Salad \\ Soup / Strawberry-Gorgonzola": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
- "Lunch / Salad \\ Soup / Butternut Squash Soup": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Lunch / Salad \\ Soup / Zuppa Cup": [
   "POS"
+ ],
+ "Lunch / Salad \\ Soup / Pear & Gorgonzola": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Salad \\ Soup / Roasted Red Pepper Soup": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Salad \\ Soup / White Bean & Vegetable": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
  ],
  "Lunch / Panini / Fried Chicken Sandwich": [
   "ORDERING_PARTNERS",
@@ -113,6 +122,12 @@
   "KIOSK"
  ],
  "Lunch / Panini / McSuvio Burger": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Panini / Ronny's Prosciutto & Burrata": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -158,12 +173,6 @@
   "POS",
   "KIOSK"
  ],
- "Lunch / Pasta / Ragù Bolognese \"Obama\"": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Lunch / Pasta / Spaghetti & Meatballs": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -171,6 +180,18 @@
   "KIOSK"
  ],
  "Lunch / Pasta / Butternut Squash Ravioli": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Pasta / Short-Rib Ragù": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Pasta / Seafood Risotto \"Calabrese\"": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -223,6 +244,12 @@
   "POS",
   "KIOSK"
  ],
+ "Lunch / Pizza / Di Parma": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
  "Lunch / Specialties / Chicken Parmigiana (Lunch)": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -253,6 +280,18 @@
   "KIOSK"
  ],
  "Lunch / Specialties / Veal Parm": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Specialties / Lamb Osso Buco": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Lunch / Specialties / Hobo Stew": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -585,12 +624,6 @@
   "POS",
   "KIOSK"
  ],
- "Dinner / Appetizers / Prosciutto and Melon": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Dinner / Appetizers / Sausage & Peppers": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -633,19 +666,7 @@
   "POS",
   "KIOSK"
  ],
- "Dinner / Salad/Soup / Strawberry-Gorgonzola": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Dinner / Salad/Soup / Wedge 'Riccardo'": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
- "Dinner / Salad/Soup / Butternut Squash Soup": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -653,6 +674,30 @@
  ],
  "Dinner / Salad/Soup / Zuppa Cup": [
   "POS"
+ ],
+ "Dinner / Salad/Soup / Pear & Gorgonzola": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Salad/Soup / Roasted Red Pepper Soup": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Salad/Soup / White Bean & Vegetable": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Salad/Soup / Pear 'Caprese'": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
  ],
  "Dinner / Pasta / \"1944\" Lasagna": [
   "ORDERING_PARTNERS",
@@ -706,12 +751,6 @@
   "POS",
   "KIOSK"
  ],
- "Dinner / Pasta / Ragù Bolognese \"Obama\"": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Dinner / Pasta / Spaghetti & Meatballs": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -731,6 +770,12 @@
   "KIOSK"
  ],
  "Dinner / Pasta / Butternut Squash Ravioli": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Pasta / Short-Rib Ragù": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -778,6 +823,12 @@
   "KIOSK"
  ],
  "Dinner / Pizza / White Truffle Pie": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Pizza / Di Parma": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -932,9 +983,6 @@
   "POS",
   "KIOSK"
  ],
- "Dinner / Kids / Child Bolognese": [
-  "POS"
- ],
  "Dinner / Kids / Child Cheese": [
   "POS"
  ],
@@ -1013,12 +1061,6 @@
   "POS",
   "KIOSK"
  ],
- "Dinner / Dessert / Pistachio Cannoli": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Dinner / Dessert / Salted Caramel Affogato": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -1050,6 +1092,12 @@
   "POS",
   "KIOSK"
  ],
+ "Dinner / Dessert / Black & White Cannoli": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
  "Dinner / Off Menu / Asparagus + Parmigiano": [
   "POS"
  ],
@@ -1060,11 +1108,6 @@
   "POS"
  ],
  "Dinner / Off Menu / Carbonara": [
-  "POS",
-  "KIOSK"
- ],
- "Dinner / Off Menu / Di Parma": [
-  "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
@@ -1079,6 +1122,38 @@
  ],
  "Dinner / Off Menu / Plate of Prosciutto": [
   "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Off Menu / Prosciutto and Melon": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Off Menu / Strawberry-Gorgonzola": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Off Menu / Butternut Squash Soup": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Off Menu / Ragù Bolognese \"Obama\"": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Dinner / Off Menu / Child Bolognese": [
+  "POS"
+ ],
+ "Dinner / Off Menu / Pistachio Cannoli": [
   "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
@@ -1574,11 +1649,6 @@
   "POS"
  ],
  "Drinks / Cocktails / Amaro Flight": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS"
- ],
- "Drinks / Cocktails / Monkeying Around": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
@@ -2748,10 +2818,12 @@
  "Happy Hour / HH Small Bites / HH Truffle Gnocchi (Half Portion)": [
   "POS"
  ],
- "Happy Hour / HH Small Bites / HH Butternut Squash Soup (Cup)": [
+ "Happy Hour / HH Small Bites / HH Mini Cheese Plate": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
   "POS"
  ],
- "Happy Hour / HH Small Bites / HH Mini Cheese Plate": [
+ "Happy Hour / HH Small Bites / HH White Bean & Vegetable Soup (Cup)": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"

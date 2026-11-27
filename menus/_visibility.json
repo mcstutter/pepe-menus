@@ -52,12 +52,6 @@
   "POS",
   "KIOSK"
  ],
- "Food / Appetizers / Prosciutto and Melon": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Food / Appetizers / Risotto Arancini (1)": [
   "POS"
  ],
@@ -106,19 +100,31 @@
  "Food / Salad/Soup / Mista": [
   "POS"
  ],
- "Food / Salad/Soup / Strawberry-Gorgonzola": [
+ "Food / Salad/Soup / Zuppa Cup": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
- "Food / Salad/Soup / Butternut Squash Soup": [
+ "Food / Salad/Soup / Pear & Gorgonzola Salad": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
- "Food / Salad/Soup / Zuppa Cup Butternut": [
+ "Food / Salad/Soup / Roasted Red Pepper Soup": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / White Bean & Vegetable": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Salad/Soup / Pear 'Caprese'": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -134,12 +140,6 @@
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS"
- ],
- "Food / Pasta / Bolognese": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
  ],
  "Food / Pasta / Cacio e Pepe": [
   "ORDERING_PARTNERS",
@@ -200,6 +200,12 @@
   "POS",
   "KIOSK"
  ],
+ "Food / Pasta / Short-Rib Ragù": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
  "Food / Pizza / Abruzzese": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -252,6 +258,12 @@
   "POS"
  ],
  "Food / Pizza / White Truffle Pie": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Pizza / Di Parma": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -350,6 +362,12 @@
   "POS",
   "KIOSK"
  ],
+ "Food / Specialties / Chicken Vesuvio": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
  "Food / Sides / Asparagus + Breadcrumbs": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
@@ -431,9 +449,6 @@
   "POS",
   "KIOSK"
  ],
- "Food / Kids / Child Bolognese": [
-  "POS"
- ],
  "Food / Kids / Child Caesar": [
   "POS"
  ],
@@ -494,12 +509,6 @@
  "Food / Dessert / Crème Brulée": [
   "POS"
  ],
- "Food / Dessert / Pistachio Cannoli": [
-  "ORDERING_PARTNERS",
-  "TOAST_ONLINE_ORDERING",
-  "POS",
-  "KIOSK"
- ],
  "Food / Dessert / Salted Caramel Affogato": [
   "POS",
   "KIOSK"
@@ -532,6 +541,12 @@
   "KIOSK"
  ],
  "Food / Dessert / Peach Cream Pie": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Dessert / Black & White Cannoli": [
   "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
@@ -616,12 +631,35 @@
   "POS",
   "KIOSK"
  ],
- "Food / Off-Menu / Di Parma": [
+ "Food / Off-Menu / Prosciutto and Melon": [
+  "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"
  ],
- "Food / Off-Menu / Chicken Vesuvio ": [
+ "Food / Off-Menu / Strawberry-Gorgonzola": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Butternut Squash Soup": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Bolognese": [
+  "ORDERING_PARTNERS",
+  "TOAST_ONLINE_ORDERING",
+  "POS",
+  "KIOSK"
+ ],
+ "Food / Off-Menu / Child Bolognese": [
+  "POS"
+ ],
+ "Food / Off-Menu / Pistachio Cannoli": [
+  "ORDERING_PARTNERS",
   "TOAST_ONLINE_ORDERING",
   "POS",
   "KIOSK"

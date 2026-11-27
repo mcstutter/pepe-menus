@@ -2,8 +2,8 @@
  "restaurant": "Vesuvio",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-11-26T18:11:39.004+0000",
- "updated": "2026-11-26T22:30:29.117Z",
+ "toastLastUpdated": "2026-11-27T22:15:15.077+0000",
+ "updated": "2026-11-27T23:09:30.338Z",
  "notes": [
   "Vesuvio is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -82,13 +82,6 @@
        "guid": "8e1bc586-a5ec-45ff-bcf3-ab6a183eedd3"
       },
       {
-       "name": "Prosciutto and Melon",
-       "description": "full belly farms organic melons, prosciutto di parma",
-       "price": 20,
-       "flags": [],
-       "guid": "57a32838-3142-42ae-804e-1c9a2e269554"
-      },
-      {
        "name": "Risotto Arancini (4)",
        "description": "saffron-risotto arancini, marinara sauce",
        "price": 14,
@@ -149,29 +142,40 @@
        "guid": "7fec87e4-918a-440d-bb6f-18e8cc9085bb"
       },
       {
-       "name": "Strawberry-Gorgonzola",
-       "description": "mixed greens, arugula, strawberries, gorgonzola, candied walnuts, red onions, strawberry shrub dressing",
-       "price": 17.75,
+       "name": "Pear & Gorgonzola Salad",
+       "description": "mixed local lettuces, candied walnuts, red onion, champagne vinaigrette",
+       "price": 18,
        "flags": [
         "vg"
        ],
-       "guid": "a18f6e1a-4d19-4229-acbc-24cf4e1771ac"
+       "guid": "67fe4df7-95f6-4aac-91fc-17a6f9c53a2b"
       },
       {
-       "name": "Butternut Squash Soup",
-       "description": "Vegetarian Soup",
+       "name": "Roasted Red Pepper Soup",
+       "description": "",
+       "price": 15,
+       "flags": [
+        "vg"
+       ],
+       "guid": "bd7b7b49-21b1-4f40-9f75-3de7970b50ae"
+      },
+      {
+       "name": "White Bean & Vegetable",
+       "description": "",
        "price": 14,
        "flags": [
         "vg"
        ],
-       "guid": "51bbc80c-4487-41e4-9217-0278b42190c8"
+       "guid": "5fb401c5-cac2-462e-977b-739e4486c85f"
       },
       {
-       "name": "Zuppa Cup Butternut",
-       "description": "",
-       "price": 10,
-       "flags": [],
-       "guid": "792e85e5-3686-44b1-bee4-02e5dc1b487d"
+       "name": "Pear 'Caprese'",
+       "description": "pear, stracciatella di burrata, pepitas, 10-year aged balsamic",
+       "price": 20,
+       "flags": [
+        "vg"
+       ],
+       "guid": "713b413a-a101-4f17-9cd8-6f7e4f52ecc7"
       }
      ]
     },
@@ -193,15 +197,8 @@
        "guid": "2a725d27-0e45-4b7c-a680-60df7e8ed06f"
       },
       {
-       "name": "Bolognese",
-       "description": "beef, pork, sausage, wild boar, tomato, pappardelle",
-       "price": 32,
-       "flags": [],
-       "guid": "504eeb67-e49d-426b-acbb-d1bc01788542"
-      },
-      {
        "name": "Cacio e Pepe",
-       "description": "pecorino romano, black pepper, bucatini",
+       "description": "pecorino romano, black pepper, rigatoni",
        "price": 29,
        "flags": [
         "vg"
@@ -267,12 +264,19 @@
       },
       {
        "name": "Butternut Squash Ravioli",
-       "description": "brown butter sage sauce, parmigiano reggiano",
+       "description": "creamy sage & brown butter sauce, parmigiano reggiano",
        "price": 32,
        "flags": [
         "vg"
        ],
        "guid": "dc267c17-8ea7-48b4-a443-d4a3e272e6ab"
+      },
+      {
+       "name": "Short-Rib Ragù",
+       "description": "braised short rib, onion, a touch of tomato, rigatoni, rosemary. the sunday sauce of campania.",
+       "price": 34,
+       "flags": [],
+       "guid": "74a43cc8-7b55-4356-ac10-c12782e7c7f4"
       }
      ]
     },
@@ -344,6 +348,13 @@
         "vg"
        ],
        "guid": "a2eb3200-fcab-4700-b2d7-2d707b933d99"
+      },
+      {
+       "name": "Di Parma",
+       "description": "mozz', prosciutto, arugula, parmigiano (no tomato)",
+       "price": 28,
+       "flags": [],
+       "guid": "04308611-cd32-4fce-b7dd-9829701813dc"
       }
      ]
     },
@@ -407,7 +418,7 @@
       {
        "name": "Chicken Parmigiana",
        "description": "with spaghetti marinara or pappardelle alfredo",
-       "price": 36.25,
+       "price": 34,
        "flags": [],
        "guid": "dd54d5fb-736a-417a-b10d-c20c5f917d13"
       },
@@ -421,7 +432,7 @@
       {
        "name": "Eggplant Parmigiana",
        "description": "with spaghetti marinara or pappardelle alfredo",
-       "price": 31,
+       "price": 28,
        "flags": [
         "vg"
        ],
@@ -453,9 +464,16 @@
       {
        "name": "Veal Parm",
        "description": "with spaghetti marinara or pappardelle alfredo",
-       "price": 68,
+       "price": 60,
        "flags": [],
        "guid": "2d3b5f37-dd26-497e-bb89-1dba3a3a65f7"
+      },
+      {
+       "name": "Chicken Vesuvio",
+       "description": "half organic mary's chicken, mashed potatoes, garlic broccoli",
+       "price": 38,
+       "flags": [],
+       "guid": "5de0da58-01ee-458c-b40e-8b4a71f357e3"
       }
      ]
     },
@@ -867,13 +885,6 @@
        "guid": "65bb51a6-4299-4b19-a585-4e5427a912e8"
       },
       {
-       "name": "Pistachio Cannoli",
-       "description": "pair with: Amaro Nonino",
-       "price": 12,
-       "flags": [],
-       "guid": "064cbdcf-7f17-4955-acb3-189f0a79e043"
-      },
-      {
        "name": "Salted Caramel Affogato",
        "description": "salted caramel gelato, espresso, chocolate biscotti liquore",
        "price": 16,
@@ -914,6 +925,13 @@
        "price": 20,
        "flags": [],
        "guid": "451ea8f4-d410-482e-8c12-fff2bdb6e4c6"
+      },
+      {
+       "name": "Black & White Cannoli",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "b0b64c88-a540-43b1-839b-adcf90c5d94d"
       }
      ]
     }
@@ -928,13 +946,6 @@
     {
      "name": "Kids",
      "items": [
-      {
-       "name": "Bolognese",
-       "description": "",
-       "price": 12,
-       "flags": [],
-       "guid": "f581216f-49a8-4689-897d-dfd3deb43a0d"
-      },
       {
        "name": "Caesar",
        "description": "caesar salad for kids",

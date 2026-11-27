@@ -2,8 +2,8 @@
  "restaurant": "Little Napoli",
  "location": "Carmel-by-the-Sea",
  "source": "toast",
- "toastLastUpdated": "2026-11-26T18:11:24.883+0000",
- "updated": "2026-11-26T22:30:29.578Z",
+ "toastLastUpdated": "2026-11-27T22:16:31.422+0000",
+ "updated": "2026-11-27T23:09:30.859Z",
  "notes": [
   "Little Napoli is a cash-free business.",
   "Items marked vg are vegetarian, but our kitchen is not. Please let us know of any severe dietary restrictions.",
@@ -31,7 +31,7 @@
       {
        "name": "Beef Carpaccio",
        "description": "seared eye round, thinly sliced, capers, dijon aioli, arugula, parmigiano, crostini",
-       "price": 27,
+       "price": 25,
        "flags": [],
        "guid": "2961899b-dcf5-4fc8-9f6c-0bbe7763a9b6"
       },
@@ -82,13 +82,6 @@
        "guid": "a8c7dcbd-1cd1-44c5-8b47-2b2f97456249"
       },
       {
-       "name": "Prosciutto and Melon",
-       "description": "full belly farm organic melon, prosciutto di parma",
-       "price": 18,
-       "flags": [],
-       "guid": "76ea2518-1c2c-47ea-964d-14707c92f68f"
-      },
-      {
        "name": "Sausage & Peppers",
        "description": "house-made smoked sausage, peppers & onions agrodolce, crispy polenta, fontina",
        "price": 23,
@@ -133,15 +126,6 @@
        "guid": "23e4d965-2e6c-4a33-9f97-d00ba2460766"
       },
       {
-       "name": "Strawberry-Gorgonzola",
-       "description": "arugula, candied walnuts, red onion, strawberry shrub vinaigrette",
-       "price": 18,
-       "flags": [
-        "vg"
-       ],
-       "guid": "b9e69214-6d2b-4294-9ded-d585a25ae072"
-      },
-      {
        "name": "Wedge 'Riccardo'",
        "description": "salinas iceberg, tomato, pancetta, gorgonzola-tarragon dressing",
        "price": 19,
@@ -149,13 +133,34 @@
        "guid": "074a06ac-95e2-410e-8d51-ecc571952423"
       },
       {
-       "name": "Butternut Squash Soup",
+       "name": "Pear & Gorgonzola",
+       "description": "mixed local lettuces, candied walnuts, red onion, champagne vinaigrette",
+       "price": 18,
+       "flags": [],
+       "guid": "f6fa2342-47f8-4b2b-a1df-fd1ec5259662"
+      },
+      {
+       "name": "Roasted Red Pepper Soup",
+       "description": "",
+       "price": 15,
+       "flags": [],
+       "guid": "c32626ba-15b8-4f04-a867-27d47cc568f0"
+      },
+      {
+       "name": "White Bean & Vegetable",
        "description": "",
        "price": 14,
+       "flags": [],
+       "guid": "bc6eb77e-05ce-4d5d-986b-538e6c5de031"
+      },
+      {
+       "name": "Pear 'Caprese'",
+       "description": "pear, stracciatella di burrata, pepitas, 10-year aged balsamic",
+       "price": 20,
        "flags": [
         "vg"
        ],
-       "guid": "2babf32f-4518-47f0-859e-efb65417eadc"
+       "guid": "0c0395ae-958d-4670-bd1c-4255472cc68a"
       }
      ]
     },
@@ -178,7 +183,7 @@
       },
       {
        "name": "Cacio e Pepe",
-       "description": "pecorino romano, black pepper, bucatini",
+       "description": "pecorino romano, black pepper, rigatoni",
        "price": 29,
        "flags": [
         "vg"
@@ -227,13 +232,6 @@
        "guid": "63e31ec9-3bcc-40ed-a4b1-6730b3589728"
       },
       {
-       "name": "Ragù Bolognese \"Obama\"",
-       "description": "beef, pork, sausage, wild boar, tomato, pappardelle",
-       "price": 32,
-       "flags": [],
-       "guid": "10de2b60-15a8-468e-8ea5-b1bd53426aa6"
-      },
-      {
        "name": "Spaghetti & Meatballs",
        "description": "slow-simmered sunday ragù",
        "price": 32,
@@ -258,12 +256,19 @@
       },
       {
        "name": "Butternut Squash Ravioli",
-       "description": "brown butter sage sauce, parmigiano reggiano",
+       "description": "creamy sage & brown butter sauce, parmigiano reggiano",
        "price": 32,
        "flags": [
         "vg"
        ],
        "guid": "788db88b-cc75-4ca6-903f-e929a6962ff9"
+      },
+      {
+       "name": "Short-Rib Ragù",
+       "description": "braised short rib, onion, a touch of tomato, rigatoni, rosemary. the sunday sauce of campania.",
+       "price": 34,
+       "flags": [],
+       "guid": "5e4e0db1-c13c-4f9a-9c6f-9b548c1c78ce"
       }
      ]
     },
@@ -328,6 +333,13 @@
         "vg"
        ],
        "guid": "e656b301-fa24-401b-948f-04f9785efcd1"
+      },
+      {
+       "name": "Di Parma",
+       "description": "mozz', prosciutto, arugula, parmigiano (no tomato)",
+       "price": 28,
+       "flags": [],
+       "guid": "d4371246-7b6e-447b-8cfd-52d163d21b41"
       }
      ]
     },
@@ -377,7 +389,7 @@
       {
        "name": "Chicken Parmigiana",
        "description": "with spaghetti marinara or pappardelle alfredo",
-       "price": 36.25,
+       "price": 34,
        "flags": [],
        "guid": "6af7a670-56d3-4689-b8d9-9e3f5f886663"
       },
@@ -391,7 +403,7 @@
       {
        "name": "Eggplant Parmigiana",
        "description": "with spaghetti marinara or pappardelle alfredo",
-       "price": 31,
+       "price": 28,
        "flags": [
         "vg"
        ],
@@ -423,7 +435,7 @@
       {
        "name": "Veal Parm",
        "description": "with spaghetti marinara or pappardelle alfredo",
-       "price": 68,
+       "price": 60,
        "flags": [],
        "guid": "34128efa-12c0-447d-bf9a-66414a5a95c1"
       }
@@ -519,13 +531,6 @@
        "guid": "a0315a38-d39e-4900-b57c-2191d7fb63db"
       },
       {
-       "name": "Prosciutto and Melon (Lunch)",
-       "description": "full belly farm organic melon, prosciutto di parma",
-       "price": 18,
-       "flags": [],
-       "guid": "38ce91ce-412c-4f8d-9827-32c90969756e"
-      },
-      {
        "name": "Truffled Gnocchi",
        "description": "baked gnocchi, tartufata, fonduta di fontina",
        "price": 22,
@@ -540,6 +545,22 @@
        "price": 25,
        "flags": [],
        "guid": "2f30ebd2-9651-4ef1-807a-b547f03a34d3"
+      },
+      {
+       "name": "Pear 'Caprese'",
+       "description": "pear, stracciatella di burrata, pepitas, 10-year aged balsamic",
+       "price": 20,
+       "flags": [
+        "vg"
+       ],
+       "guid": "0c0395ae-958d-4670-bd1c-4255472cc68a"
+      },
+      {
+       "name": "Risotto Arancini (4)",
+       "description": "saffron-risotto arancini, marinara sauce",
+       "price": 14,
+       "flags": [],
+       "guid": "f6f17d70-b28a-44fc-afbf-8dfbfa87db48"
       }
      ]
     },
@@ -570,22 +591,25 @@
        "guid": "99e8a660-3127-4c61-b5a8-f48c35061084"
       },
       {
-       "name": "Strawberry-Gorgonzola",
-       "description": "arugula, candied walnuts, red onion, strawberry shrub vinaigrette",
+       "name": "Pear & Gorgonzola",
+       "description": "mixed local lettuces, candied walnuts, red onion, champagne vinaigrette",
        "price": 18,
-       "flags": [
-        "vg"
-       ],
-       "guid": "b9e69214-6d2b-4294-9ded-d585a25ae072"
+       "flags": [],
+       "guid": "f6fa2342-47f8-4b2b-a1df-fd1ec5259662"
       },
       {
-       "name": "Butternut Squash Soup",
+       "name": "Roasted Red Pepper Soup",
+       "description": "",
+       "price": 15,
+       "flags": [],
+       "guid": "c32626ba-15b8-4f04-a867-27d47cc568f0"
+      },
+      {
+       "name": "White Bean & Vegetable",
        "description": "",
        "price": 14,
-       "flags": [
-        "vg"
-       ],
-       "guid": "0805891e-ad63-4ed1-aa59-634d7c583ffa"
+       "flags": [],
+       "guid": "bc6eb77e-05ce-4d5d-986b-538e6c5de031"
       }
      ]
     },
@@ -611,7 +635,7 @@
       {
        "name": "Grandma Celia's Meatball Sandwich",
        "description": "sliced meatballs, provolone, marinara sauce",
-       "price": 23,
+       "price": 25,
        "flags": [
         "h/s"
        ],
@@ -623,6 +647,15 @@
        "price": 27,
        "flags": [],
        "guid": "2540f9a9-707b-42c3-a009-2b19467a1865"
+      },
+      {
+       "name": "Ronny's Prosciutto & Burrata",
+       "description": "pesto, pèpe bumba calabrian chili, arugula, roasted red pepper",
+       "price": 25,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "97997640-be0d-4f91-bcec-6683bb538aa9"
       }
      ]
     },
@@ -676,13 +709,6 @@
        "guid": "411db98a-5e38-40ad-8f9d-2f188686ec04"
       },
       {
-       "name": "Ragù Bolognese \"Obama\"",
-       "description": "beef, pork, sausage, wild boar, tomato, pappardelle",
-       "price": 32,
-       "flags": [],
-       "guid": "7e4f7f29-bbf4-491c-8840-da96fb6d1f12"
-      },
-      {
        "name": "Spaghetti & Meatballs",
        "description": "slow-simmered sunday ragù",
        "price": 32,
@@ -691,12 +717,28 @@
       },
       {
        "name": "Butternut Squash Ravioli",
-       "description": "brown butter sage sauce, parmigiano reggiano",
+       "description": "creamy sage & brown butter sauce, parmigiano reggiano",
        "price": 32,
        "flags": [
         "vg"
        ],
        "guid": "788db88b-cc75-4ca6-903f-e929a6962ff9"
+      },
+      {
+       "name": "Short-Rib Ragù",
+       "description": "braised short rib, onion, a touch of tomato, rigatoni, rosemary. the sunday sauce of campania.",
+       "price": 34,
+       "flags": [],
+       "guid": "5e4e0db1-c13c-4f9a-9c6f-9b548c1c78ce"
+      },
+      {
+       "name": "Seafood Risotto \"Calabrese\"",
+       "description": "prawns, bay scallops, ‘nduja, pèpe bumba risotto, lobster reduction",
+       "price": 36,
+       "flags": [
+        "h/s"
+       ],
+       "guid": "055fdeb1-9278-4ab1-9d46-98da9f3e2c5a"
       }
      ]
     },
@@ -761,6 +803,13 @@
         "vg"
        ],
        "guid": "f4e53bb2-6b7e-4da0-be6f-7b70703d88ec"
+      },
+      {
+       "name": "Di Parma",
+       "description": "mozz', prosciutto, arugula, parmigiano (no tomato)",
+       "price": 28,
+       "flags": [],
+       "guid": "d4371246-7b6e-447b-8cfd-52d163d21b41"
       }
      ]
     },
@@ -770,7 +819,7 @@
       {
        "name": "Chicken Parmigiana (Lunch)",
        "description": "with spaghetti marinara or pappardelle alfredo, or choice of caesar or arugula salad",
-       "price": 36.25,
+       "price": 34,
        "flags": [],
        "guid": "271a19d3-0791-4b4c-b06e-ee6f1e67c58e"
       },
@@ -784,7 +833,7 @@
       {
        "name": "Eggplant Parmigiana",
        "description": "with spaghetti marinara or pappardelle alfredo, or choice of caesar or arugula salad",
-       "price": 31,
+       "price": 28,
        "flags": [
         "vg"
        ],
@@ -800,9 +849,23 @@
       {
        "name": "Veal Parm",
        "description": "with spaghetti marinara or pappardelle alfredo",
-       "price": 68,
+       "price": 60,
        "flags": [],
        "guid": "34128efa-12c0-447d-bf9a-66414a5a95c1"
+      },
+      {
+       "name": "Lamb Osso Buco",
+       "description": "4-hour braised grass-fed lamb shank, mashed potatoes, gremolata",
+       "price": 46,
+       "flags": [],
+       "guid": "60b3629a-0a8b-4d8d-b8de-d4c9d5f6becd"
+      },
+      {
+       "name": "Hobo Stew",
+       "description": "beef short-rib, potato, carrot, celery, gnocchi, black pepper broth. Rooted in the cooking of Italian day workers near Hoboken, NJ during the Great Depression.",
+       "price": 40,
+       "flags": [],
+       "guid": "e1c3c97d-19fd-4c41-aaac-42c33e98478e"
       }
      ]
     },
@@ -880,6 +943,13 @@
        "price": 8,
        "flags": [],
        "guid": "d438aca2-3db0-4d4e-ba37-28648f27659f"
+      },
+      {
+       "name": "White Bean & Vegetable Soup (Cup)",
+       "description": "",
+       "price": 8,
+       "flags": [],
+       "guid": "f0c37bdf-e22d-40b2-b28b-46ef6ee33f86"
       }
      ]
     },
@@ -1076,13 +1146,6 @@
        "guid": "83371982-afc9-4bbc-8e71-bf78e08a30c1"
       },
       {
-       "name": "Pistachio Cannoli",
-       "description": "",
-       "price": 11,
-       "flags": [],
-       "guid": "36334586-dec2-4cce-a37b-938331d37a30"
-      },
-      {
        "name": "Salted Caramel Affogato",
        "description": "salted caramel gelato, espresso, chocolate biscotti liquore",
        "price": 16,
@@ -1095,6 +1158,13 @@
        "price": 14,
        "flags": [],
        "guid": "77291164-95ed-47b8-a1b1-ac5bed378dcd"
+      },
+      {
+       "name": "Black & White Cannoli",
+       "description": "",
+       "price": 11,
+       "flags": [],
+       "guid": "c2d43ca4-4c92-41af-86a1-60c7019d8795"
       }
      ]
     }
@@ -1109,13 +1179,6 @@
     {
      "name": "Kids",
      "items": [
-      {
-       "name": "Bolognese",
-       "description": "",
-       "price": 11.75,
-       "flags": [],
-       "guid": "96919a77-9da4-4ec2-b270-4bfe5ec9d8e7"
-      },
       {
        "name": "Cheese",
        "description": "",
@@ -2213,13 +2276,6 @@
        "price": 20,
        "flags": [],
        "guid": "a1fc15e2-28db-42a1-8248-ca2be90bee3d"
-      },
-      {
-       "name": "Monkeying Around",
-       "description": "",
-       "price": 16,
-       "flags": [],
-       "guid": "96a7a123-1c1f-4867-aab2-ae18f6f3260c"
       },
       {
        "name": "Mimosa",
